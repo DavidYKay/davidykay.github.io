@@ -12,4 +12,4 @@ My [corporate website](http://www.gargoyle.co/) showcases some of our past work,
 
 My [StatusChart](https://www.statuschart.com/davidykay) has a fairly complete list of my work since 2011.
 
-Exciting news: I've got a new health-tech blog in the works. Will be linking it as soon as it's up.
+I've got a new health-tech blog in the works. Will be linking it as soon as it's up.
