@@ -6,7 +6,7 @@ permalink: /work/
 
 If you're looking to hire me, here's my [resume](http://new.davidykay.com.s3.amazonaws.com/Resume.pdf).
 
-Check out my [hackathon presentations](https://www.youtube.com/watch?v=sf3mpcAp_GE&list=PL87766F627E9999C0) for a good showcase of my personality and ability to whip things up in 24 hours.
+Check out my [hackathon presentations](https://www.youtube.com/watch?v=tXJhioQfUAc&list=PL87766F627E9999C0&index=7) for a good showcase of my personality and ability to whip things up in 24 hours.
 
 My [corporate website](http://www.gargoyle.co/) showcases some of our past work, plus some interview vids of me.
 
