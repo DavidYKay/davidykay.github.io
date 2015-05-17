@@ -1,3 +1,8 @@
+---
+layout: post
+title: What Language Should I Learn (For Healthcare IT)
+---
+
 I'd like to post a reply I wrote on a [reddit thread](http://www.reddit.com/r/healthIT/comments/363kyj/programming_languages_useful_for_health/) today.
 
 An MSHI student was wondering which language to learn first:
