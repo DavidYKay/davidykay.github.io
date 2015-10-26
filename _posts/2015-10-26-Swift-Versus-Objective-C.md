@@ -1,3 +1,8 @@
+---
+layout: post
+title: Swift Versus Objective-C
+---
+
 A topic that the Internet has discussed to death, but here's my take on it:
 
 ## What's the better language? 
