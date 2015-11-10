@@ -3,7 +3,7 @@ layout: post
 title: Which Operating System Should I Use As a Beginning Programmer?
 ---
 
-# Preamble
+## Preamble
 
 Like many things, the answer depends on your goals and tastes.
 
@@ -19,9 +19,9 @@ As much as it pains me to admit this, if I had to take one laptop with me on a y
 
 Let's take a closer look at the three different operating systems to see what we are gaining and losing by going with each one.
 
-# Pros and Cons
+## Pros and Cons
 
-## Windows
+### Windows
 
 Pros:
 
@@ -49,7 +49,7 @@ However, if you're doing Android development, game development, or development f
 
 My rule of thumb for Windows development is that as long as you're in an IDE, you'll be OK. But the reality is that the IDE is not always the best tool for the job and that you are missing out on the full power of other tools, such as Vim and Emacs.
 
-## Mac OS X
+### Mac OS X
 
 Pros:
 
@@ -75,7 +75,7 @@ Look no further.
 
 Seriously, OS X offers a great ease-of-use while still allowing you to play with most of the key toys. If you're undecided, then this is a good bet.
 
-## Linux
+### Linux
 
 Pros:
 
@@ -97,6 +97,6 @@ If you're just learning Linux, it may feel a bit strange at first, but I assure 
 
 One thing you can't discount is the extremely gratifying feeling that Linux has been developed primarily for an audience of computer programmers. The terminal emulators are world-class, the package managers are WAY better than Homebrew, and all-around the development experience is incredibly pleasurable. There's no better all-around dev environment, but it comes at the cost of learning something new and dealing with some user unfriendliness.
 
-## Conclusion
+### Conclusion
 
 One day, we might be able to use our Android and iOS devices as convincing development machines, but that day is not here just yet. For now, we've got to stick with conventional laptops and desktops. So take a look at the above list and see whether you're a Linux neckbeard, a Windows diehard, or a Mac adopter. Just make sure to make the decision based on your own values and not what you see your peers doing. They're not always right.
