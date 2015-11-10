@@ -99,4 +99,4 @@ One thing you can't discount is the extremely gratifying feeling that Linux has 
 
 ### Conclusion
 
-One day, we might be able to use our Android and iOS devices as convincing development machines, but that day is not here just yet. For now, we've got to stick with conventional laptops and desktops. So take a look at the above list and see whether you're a Linux neckbeard, a Windows diehard, or a Mac adopter. Just make sure to make the decision based on your own values and not what you see your peers doing. They're not always right.
+One day, we might be able to use our Android and iOS devices as convincing development machines, but that day is not here just yet. For now, we've got to stick with conventional laptops and desktops. So take a look at the above list and see whether you're a Linux neckbeard, a Windows diehard, or a Mac aficionado. Just make sure to make the decision based on your own values and not what you see your peers doing. They're not always right.
