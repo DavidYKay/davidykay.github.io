@@ -23,7 +23,7 @@ Let's take a closer look at the three different operating systems to see what we
 
 ### Windows
 
-Pros:
+#### Pros:
 
 * Familiar to most users
 * Pre-installed on most machines
@@ -32,14 +32,14 @@ Pros:
 * Visual Studio
 * Supports Windows development
 
-Cons:
+#### Cons:
 
 * Not UNIX
 * Dissimilar to most server environments
 * Poor compatibility with many open source tools
 * Less vibrant open source community
 
-Summary:
+#### Summary:
 
 For most of us, Windows feels like home. Depending on what you're learning, it's a fine place to get started. 
 
@@ -51,21 +51,21 @@ My rule of thumb for Windows development is that as long as you're in an IDE, yo
 
 ### Mac OS X
 
-Pros:
+#### Pros:
 
 * A true UNIX environment
 * Very simple and robust
 * Good selection of commercial software 
 * Supports iOS development
 
-Cons:
+#### Cons:
 
 * UNIX environment is clunky compared to Linux or BSD
 * OS is not very keyboard-friendly
 * Locked in to Apple hardware (unless you are especially adventurous)
 * Not as good support for commercial software as Windows
 
-Summary:
+#### Summary:
 
 Pressed for time and want a computer that will take care of itself but still let you play with open source technologies?
 
@@ -77,7 +77,7 @@ Seriously, OS X offers a great ease-of-use while still allowing you to play with
 
 ### Linux
 
-Pros:
+#### Pros:
 
 * Best-in-class open source software
 * Incredibly similar to server environment
@@ -85,13 +85,13 @@ Pros:
 * Entirely Free and Open Source
 * Runs on any hardware
 
-Cons:
+#### Cons:
 
 * Not as intuitive / friendly as Mac or Windows
 * Poor compatibility with commercial desktop software
 * Fewer Linux users means fewer friends to ask for help
 
-Summary:
+#### Summary:
 
 If you're just learning Linux, it may feel a bit strange at first, but I assure you that it's worth the investment. Plus, things are getting better all the time. Thanks to Ubuntu and Linux Mint, getting Linux installed and running smoothly is way easier than it used to be. But I will admit that it's still not quite as smooth sailing as Mac OS X.
 
