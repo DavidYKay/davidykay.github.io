@@ -69,11 +69,11 @@ Before picking any of the three above choices, make sure that you need a mobile 
 
 If you've determined you need a cross-platform native app, then closely evaluate the above options. 
 
-Do you want the best out of box experience, and you don't mind proprietary lock-in? Go for Xamarin. (Or RubyMotion)
+Do you want the best out of box experience, and you don't mind proprietary lock-in? Go for **Xamarin**. (Or RubyMotion)
 
-Want something similar to Xamarin, but JVM and open core? RoboVM is for you.
+Want something similar to Xamarin, but JVM and open core? **RoboVM** is for you.
 
-Looking for the tightest possible feedback loop? There's nothing like React Native (especially if used in conjunction with ClojureScript).
+Looking for the tightest possible feedback loop? There's nothing like **React Native** (especially if used in conjunction with ClojureScript).
 
 Of course, just like they say on Reading Rainbow, "Don't take my word for it!" You'll want to experiment with all of these solutions to see which is the best fit for you.
 
