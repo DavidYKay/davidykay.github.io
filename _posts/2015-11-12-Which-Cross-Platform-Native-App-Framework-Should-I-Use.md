@@ -53,7 +53,7 @@ You also get full access to the JVM ecosystem, which can be a huge boon. And the
 
 ### RubyMotion 
 
-[Rubymotion](http://www.rubymotion.com/) is a great option. It's essentially the same thing as Xamarin, but based on Ruby. 
+[RubyMotion](http://www.rubymotion.com/) is a great option. It's essentially the same thing as Xamarin, but based on Ruby. 
 
 If you like Ruby and don't mind choosing a proprietary solution, look no further! 
 
