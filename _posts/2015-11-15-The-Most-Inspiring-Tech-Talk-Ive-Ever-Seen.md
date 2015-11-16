@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which Cross-platform Native App Framework Should I Use?
+title: The Most Inspiring Tech Talk I've Ever Seen
 ---
 
 I generally believe it's more valuable to create new content than to simply point you to someone else's, but this is the single most inspiring tech talk I've ever seen. Rather than a tour of the latest APIs or tools, Russ Olsen's "To the Moon" is a heart-wrending telling of the incredible story of the first moon landing in 1969.
