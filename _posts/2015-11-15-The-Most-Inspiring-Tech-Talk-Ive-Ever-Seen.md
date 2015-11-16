@@ -3,7 +3,7 @@ layout: post
 title: The Most Inspiring Tech Talk I've Ever Seen
 ---
 
-I generally believe it's more valuable to create new content than to simply point you to someone else's, but this is the single most inspiring tech talk I've ever seen. Rather than a tour of the latest APIs or tools, Russ Olsen's "To the Moon" is a heart-wrending telling of the incredible story of the first moon landing in 1969.
+I generally believe it's more valuable to create new content than to simply point you to someone else's, but this is the single most inspiring tech talk I've ever seen. Rather than a tour of the latest APIs or tools, [Russ Olsen](http://russolsen.com/pages/about/)'s "To the Moon" is a heart-wrending telling of the incredible story of the first moon landing in 1969.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0MbpkYPgM8" frameborder="0" allowfullscreen></iframe>
 
@@ -31,7 +31,6 @@ In short, I challenge you to seek out the meaningful stuff. The hard stuff. The 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0MbpkYPgM8" frameborder="0" allowfullscreen></iframe>
 
-"To the Moon"
-Russ Olsen is VP of Consulting Services at Cognitect
+Russ Olsen is VP of Consulting Services at [Cognitect](http://cognitect.com/)
 
 He originally gave this talk at at [Clojure Conj 2013](https://www.youtube.com/watch?v=4Sso4HtvJsw), but I prefer this performance, given at [GOTO Aarhus 2014](https://www.youtube.com/watch?v=Z0MbpkYPgM8).
