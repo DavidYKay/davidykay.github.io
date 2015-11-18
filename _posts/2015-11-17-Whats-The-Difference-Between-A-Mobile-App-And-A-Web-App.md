@@ -57,7 +57,7 @@ Is that metaphor not working for you? Here's another one: you can think about th
 
 Writing **web code** for the browser is like writing music to be played **using the keys of a piano**.
 
-Writing **native code** for iOS is more like **laying out the strings and the hammers**, oneself.
+Writing **native code** for iOS is more like **laying out the piano's strings and the hammers**, oneself.
 
 Thinking in terms of white and black keys representing musical notes is a much more **abstract**, human-friendly way of making music, but it *limits* us to the muscial notes that the piano designer has selected for us. And what if we want to creatively BEND our notes, like one would on a guitar? If we had access to the strings inside the piano, we might be able to do something like this, but since we've opted to play the piano instead of BUILD the piano, we're stuck with what the standard piano comes with. The good news is that the piano manufacturers (Mozilla, Apple, Google), are constantly tweaking and improving their pianos (Firefox, Safari, Chrome), so maybe it's not such a bad deal.
 
@@ -71,7 +71,7 @@ Perhaps I'm torturing the metaphor, but I think that this illustrates the basic 
 
 The question, though, is can we have the best of both worlds?
 
-I believe we can! These days, I generally advocate hybrid applications, where some of the code is dedicated to tuning and designing the piano (native code), while the rest of the code is dedicated to writing music to be played on its keys (web code). This, in theory, allows you to *split your human resources* so that some of the team to be operating at a **high level of abstraction**, getting a lot done with little work, while another part of the team is responsible for **ebuilding the innards**, making new keys for the others to play, as it were.
+I believe we can! These days, I generally advocate hybrid applications, where some of the code is dedicated to tuning and designing the piano (native code), while the rest of the code is dedicated to writing music to be played on its keys (web code). This, in theory, allows you to *split your human resources* so that some of the team to be operating at a **high level of abstraction**, getting a lot done with little work, while another part of the team is responsible for **building the innards**, making new keys for the others to play, as it were.
 
 A better metaphor might be something like the electrical system in your household: most of us are happy to think in terms of our electric system as "This socket is on or off." An electrician, of course, might be concerned with voltage and current. A physicist, however, might be interested in electrons. You can see that the concerns in this system manifest differently depending on what "level of abstraction" we are working at.
 
