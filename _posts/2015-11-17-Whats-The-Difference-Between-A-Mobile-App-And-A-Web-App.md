@@ -3,8 +3,6 @@ layout: post
 title: What's the Difference Between a Mobile App and a Web App?
 ---
 
-## Intro
-
 A question I'm often asked is, "what's the difference between a mobile app and a web app?"
 
 Essentially, the difference is that a web app runs inside of a web browser (Firefox, Chrome, Safari, etc), while a native app runs on its own, directly on the device's operating system.

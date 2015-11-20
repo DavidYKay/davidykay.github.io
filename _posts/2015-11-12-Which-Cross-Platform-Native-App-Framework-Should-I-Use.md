@@ -3,8 +3,6 @@ layout: post
 title: Which Cross-platform Native App Framework Should I Use?
 ---
 
-## Intro 
-
 Today, we're going to examine three options for cross-platform native app development. 
 
 What these choices all have in common is the potential to develop entirely native screens that touch all the functionality of Android and iOS. Some tools, such as Unity Game Engine or XMLVM aren't designed to use truly native UI.

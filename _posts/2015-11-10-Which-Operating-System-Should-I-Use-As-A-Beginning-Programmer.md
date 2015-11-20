@@ -3,8 +3,6 @@ layout: post
 title: Which Operating System Should I Use As a Beginning Programmer?
 ---
 
-## Preamble
-
 Like many things, the answer depends on your goals and tastes.
 
 Many people advocate Mac OS X as the best development environment, but I believe that it's not as simple as that. Mac OS X is a good guess, given an average person's needs and personality, but if you look more closely, there may be a different answer. Let's take a quick look at some types of people that Mac OS may not be a good fit for.
