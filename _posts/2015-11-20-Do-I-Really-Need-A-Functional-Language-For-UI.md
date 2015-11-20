@@ -5,7 +5,7 @@ title: Do I Really Need a Functional Language for UI Development?
 
 In a word: **no**.  
 
-But damn it does come in handy!
+But damn does it come in handy!
 
 Seriously, you can use whatever tools or paradigms that you like when you develop your app. If your entire team is a group of black-belt Java programmers and you couldn't be happier, great! Stick with what you have.
 
