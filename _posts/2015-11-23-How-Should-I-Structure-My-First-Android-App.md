@@ -111,4 +111,6 @@ Finally, in order to make this work, you'll need to declare each of your activit
 </manifest>
 ```
 
-OK, that should get you going. Let me know if you have more questions. Hope this helps!
+OK, that should get you going. Let me know if you have more questions. Hope this was helpful!
+
+If it was, keep an eye out for my upcoming Android programming tutorial, titled, [Learn Enough Android to Be Dangerous](http://www.learnenough.com/android-tutorial).
