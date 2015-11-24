@@ -5,6 +5,8 @@ title: How Should I Structure my First Android App?
 
 Jackaltyson on /r/AndroidDev asks an [elementary question about Android development](https://www.reddit.com/r/androiddev/comments/3txxwk/how_should_i_structure_my_app/):
 
+> **How should I structure my app?**
+>
 > My design has 3 sections, one for appointments, one for clients, and one for general help with app functions. I am new to app development and the idea of classes and activities, so how should I connect everything? I have no problem (so far) getting everything to look how I want, but it is linking it all up that is my main issue. How to make it so clicking one tab changes the screen, etc.
 
 Jackaltyson, there are many ways to skin the cat, but I'll teach you the simplest way to implement your app.
