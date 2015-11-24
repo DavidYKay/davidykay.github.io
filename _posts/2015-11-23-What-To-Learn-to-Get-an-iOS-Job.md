@@ -3,7 +3,7 @@ layout: post
 title: What Should I Learn to Get An iOS Job?
 ---
 
-On r/iOSProgramming/, abcocktail [asks](https://www.reddit.com/r/iOSProgramming/comments/3tz0ro/couple_of_questions_about_1_what_to_learn_to_get/):
+On r/iOSProgramming/, abcocktail [asks](https://www.reddit.com/r/iOSProgramming/comments/3tz0ro/couple_of_questions_about_1_what_to_learn_to_get/) for iOS career advice:
 
 > **Couple of questions about 1) what to learn to get an iOS job in several months and 2) what lang to use to create own startup mobile app in swift or obj-c**
 
