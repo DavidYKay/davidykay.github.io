@@ -15,25 +15,17 @@ Even in back-office, administrative software, bugs can mean billing errors or co
 
 Thus, in this war on bugs, we need all the help we can get.
 
-Over the next few posts, I'll be walking you through the various tools that we can bring to bear to prevent bugs and improve the correctness of our code, beginning today with automated testing.
+<center>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mirando/53537281" title="... ya no puede caminar!"><img src="https://farm1.staticflickr.com/33/53537281_480a1b933a_z.jpg?zz=1" width="640" height="480" alt="... ya no puede caminar!"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</center>
+<center> *Do you really want one of these walking around in patient-facing code?*
+</center>
 
-We'll be looking how automated testing is beneficial for preventing bugs from entering already-correct code (regression) and for helping to ensure that new code is written correctly. 
+One of the most common bug-fighting tools in our arsenal is automated testing.
 
-My hope is that you'll walk away from this post inspired to write your first automated test. 
+In this article, we'll be looking how automated testing is beneficial for preventing bugs from entering already-correct code (regression) and for helping to ensure that new code is written correctly. 
 
-### Code Examples
-
-A quite note: in this post, I will show some code examples. Don't panic. I've written them in such a way that non-programmers should be able to read them.
-
-In fact, I expect you, dear reader, to NOT be a programmer. Believe it or not, I am writing the code examples in such a way that you will be able to read them. So, give it a shot. Read the code samples just like English and I think they will make sense.
-
-<center> 
-![Placeholder](http://placehold.it/250x250)
-</center> 
-
-Or you can skip them and come back when you are ready. But be sure to come back. You can do more than you think you can. I have faith in you!
-
-Do me a favor? Let me know in the comments if they were too hard to follow. And where you got stuck!
+My hope is that you'll walk away from this post with the inspiration and knowledge to write your **first automated test**. 
 
 ## What is Automated Testing?
 
@@ -41,9 +33,32 @@ In essence, automated testing is the practice of letting a computer *verify* tha
 
 Sounds great, eh?
 
-The challenge is that, without a little guidance, the computer doesn't know what "correct" means for our code! 
+The challenge is that, without any guidance, the computer doesn't know what **"correct"** means! 
 
-So, in order to use automated testing, we need to first teach the computer what "correct" means before it verify the correctness for us.
+<!--
+<center> 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/44214515@N06/15337608284" title="ROBOCOP"><img src="https://farm8.staticflickr.com/7514/15337608284_61e20f78aa_z.jpg" width="424" height="640" alt="ROBOCOP"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center> *Without a programmer, Robocop wouldn't know to "serve the public trust!"*  </center>
+</center> 
+-->
+
+So, in order to use automated testing, we need to first teach the computer what "correct" means in the context of our code. Once we've done that, it can verify the correctness for us as often as we like.
+
+
+### Code Examples
+
+A quite note: in this post, I will show some code examples. Don't panic. I've written them in such a way that non-programmers will be able to read them and get the gist.
+
+In fact, I expect you, dear reader, to NOT be a programmer. Once again, I am writing the code examples in such a way that you will be able to read them. So, give it a shot. Read the code samples just like English and they should make sense. At least enough to fundamentally understand what's going on.
+
+<center> 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/whoisbadwolf/3298612044" title="The Hacker Manifesto"><img src="https://farm4.staticflickr.com/3561/3298612044_59b6c4800b_z.jpg?zz=1" width="640" height="419" alt="The Hacker Manifesto"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<center> *"I don't even see the code. Of course, it wasn't always like that..."*  </center>
+</center> 
+
+Or you can skip them and come back when you are ready. But be sure to come back. You can do more than you think you can. I have faith in you!
+
+Do me a favor? Let me know in the comments if they were too hard to follow. And where you got stuck!
 
 ### Unit Testing - Square Root
 
@@ -83,6 +98,14 @@ def test_square_root
 end
 ```
 
+<!--
+<center> 
+<img src="../images/2015/12/17/MasterMold.png" /> 
+</center>
+<center> *Generative Testing: robots making robots*  </center>
+<center> Photo: Marvel Entertainment Group </center>
+-->
+
 Obviously, in a healthcare app, you won't be re-implementing the square root function, but it should be apparent that use unit testing and generative testing can be used to verify most mathematical code. What may not be immediately apparent is that the same techniques can be used to verify business logic, modeling, and most types of code. 
 
 ### UI Testing
@@ -96,7 +119,7 @@ The good news is that modern UI testing is largely equivalent to this, with the 
 <center> 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/toyville/13986097115/in/photolist-niUppr-53Kq9P-ac4SFv-7RB3N1-qeX2rV-n1fr6-5LZRg1-5EXj3f-5qcVDm-cpK8Q7-5pZpuP-nYVFDL-o9VMEM-bvx5hH-eXADKX-5wytEM-9i3kxX-8oWegP-xEpNMy-ixCfD-9tzkq3-o4afcR-8D84xL-pDhag6-8u2RFd-btpqNX-dMLciv-5h7oUE-84AwUa-5BqsvN-5BmchZ-5BqsnC-cAqTG3-a82M5q-6wZxJ6-8yUctK-dKTCAp-nqavbk-juEBmN-nLZkWS-8471JT-qhuueg-dQ7RTR-qmUbp4-9azC1a-qxTmim-dgDN9Y-dMBLu8-nbQZPH-bb2yut" title="Batman"><img src="https://farm8.staticflickr.com/7372/13986097115_161b585e81.jpg" width="500" height="473" alt="Batman"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </center> 
-<center> *The batmobile benefitted greatly from test-first development.*  </center>
+<center> *"The batcave was able to cut costs by 30% after adopting test-first development."*  </center>
 
 Most of the time when we are testing UI, we want to perform a complicated set of instructions and check the state before and after.
 
@@ -110,29 +133,9 @@ For example:
 
 Once we have assembled a script like this, we can have the computer run through the test over and over, on-demand. No more waiting for the QA team! UI tests like this are very handy for catching breakages right when they happen rather than after the fact.
 
-## Benefits
-
-### External - Production Bugs
-
-The worst of the problems are the ones that slip it past our detections into production.
-
-#### Life and death concerns
-
-In the healthcare field, we have the duty to "do no harm," but in the case that a major correctness bug slips into the wild, we'll need to 
-
-#### Security concerns
-
-There's been a lot of talk about security breaches lately. Testing won't solve this for you, unfortunately.
-
-CI will help ensure that your code is doing what you think it's doing. But in order to plug security holes, you'll need to plan your system in advance.
-
-#### Privacy concerns
-
-Privacy, likewise, can't be solved by automated testing. Privacy concerns are a result of the design of your system. 
-
-Correctness
-
 ## Drawbacks
+
+Now that we've seen some examples of tests and how they work for us, let's take a moment to look at the downsides.
 
 ### They Are a Burden
 
@@ -143,7 +146,7 @@ Unfortunately, any time we add code to our project, we decrease our agility and 
 The good news, however, is that as we add (intelligent) tests, we increase our confidence in our code's correctness.
 
 <center> 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/22280677@N07/3383384471/in/photolist-69YJk2-xkVXVs-poGtTx-nnaZzG-6Tsam8-jUztKS-e6ifjj-qa8KBv-nTWSC2-gzSp5H-rg6qy2-djJaDg-6tqybz-nU7NbC-ay2xes-7d8vhQ-4Pmme8-efMR6S-hn2oam-exSgtG-mojMaB-oxzkW-cwBQbj-oomd94-cHy7Hw-oy85dF-AzPCFt-A84rvT-Aip3eW-79NLWM-kT1cxp-99DzGu-8u13m7-kT1jxB-9UfL5v-4V72Zv-9YDaUB-3nrFPP-qS5gxw-gk7Wrq-aLvYpB-rKHX4z-bjpziX-9rSRvS-o61pLo-fGWot3-wcMhEi-ugV3js-97Q9WZ-afhPAy" title="Atlas"><img src="https://farm4.staticflickr.com/3644/3383384471_4ab6958190_n.jpg" width="163" height="320" alt="Atlas"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/22280677@N07/3383384471" title="Atlas"><img src="https://farm4.staticflickr.com/3644/3383384471_4ab6958190_z.jpg" width="326" height="640" alt="Atlas"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </center> 
 <center> *Some burdens are worth carrying.*  </center>
 
@@ -194,37 +197,45 @@ The automated testing purists instead advocate the following workflow, which, I 
 
 After all, by creating a "specification" of each component before we implement it, we create a clear goal of what we want the final product to look like.
 
+<center>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/12629613@N03/5426234946" title="pocket protector"><img src="https://farm6.staticflickr.com/5214/5426234946_41e9f571c5.jpg" width="333" height="500" alt="pocket protector"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</center>
+<center> *Tests first!*  </center>
+
 In general, I would recommend this approach for any systems that are clearly specified ahead-of-time and unlikely to change during the development process.
 
 ##### Red, Green, Refactor
 
-Where things become a bit contentious, is the insistence on a workflow called, "Red, Green, Refactor."
+Where things become a bit contentious is the insistence on a workflow called, "Red, Green, Refactor."
 
 <center>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/undailypower/6233815834/in/photolist-auRWgm-tJFWh-oZEMPa-pVywdq-qEPeSv-dGNGae-4s82BW-peNQ8E-w5Q26r-nGEtbP-qFumzv-b3nc6g-pJuUC5-njRwGw-quSXC4-hoXdaK-obBm9h-rdnYBT-d9SUk8-47T71u-aHCaqV-dqLzPZ-vLgVm-528Gye-6Um8zR-6qDyg-aisXf9-wC2Xv-kn37Qg-pZLu8R-aBr3S1-fJKv24-fJKuzg-dG7Fii-9DRZXm-qUtD9t-6EMuKt-bsCB4R-nEvgHW-qiMuQX-euGVM-beNpyX-cxcBUN-84KfH3-mLsTES-emGnXV-5oGovj-6C5kQy-7HNs4S-go6hXR" title="Lights"><img src="https://farm7.staticflickr.com/6105/6233815834_f6a37f185f_n.jpg" width="176" height="320" alt="Lights"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/undailypower/6233815834" title="Lights"><img src="https://farm7.staticflickr.com/6105/6233815834_f6a37f185f.jpg" width="275" height="500" alt="Lights"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </center> 
 <center> *Red, green, refactor.*  </center>
 
 The idea here is that when beginning work on a feature, we write ONE failing test case.
-Then, we come back and write *JUST* code to make that test case pass.
+Then, we come back and write *JUST ENOUGH* code to make that test case pass.
 
 We then repeat this process, writing a test and then writing the tiniest pieces of code, on, and on, until our code becomes a huge mess. At that point, we "refactor" the code, which is to clean up the code without changing the functionality. Since we have a nice test suite built up from our prior work, this actually is a very safe step.
 
-I find fault in this approach in two main ways:
+Sounds nice, eh? Well, let me show you the three main faults I find in this approach:
 
-First, I find that the practice of writing "just enough code to make the test pass" is often overly simplistic and is a very indirect path to the goal. I think that there's a certain counter-intuitiveness involved that ends up being an inefficient use of the programmer's brain.
+*First*, I find that the practice of writing "just enough code to make the test pass" is often overly simplistic and is a very indirect path to the goal. I think that there's a certain counter-intuitiveness involved that ends up being an inefficient use of the programmer's brain.
 
-Second, the rhythm of Red, Green, Refactor teaches the programmer to be overly reliant on the tests. And, just as "the map is not the territory," the [tests passing is NOT the same thing as the code being correct](https://youtu.be/ShEez0JkOFw?t=41m56s)!
+*Second*, the rhythm of Red, Green, Refactor teaches the programmer to be overly reliant on the tests. And, just as "the map is not the territory," the [tests passing is NOT the same thing as the code being correct](https://youtu.be/ShEez0JkOFw?t=41m56s)!
 
-Still, Red, Green, Refactor approach does work for many institutions. Even as a critic, I often use a slightly modified version when practicing test-first development.
+*Third*, many programmers find that the constant need to emphasize testing testability takes a hit on productivity.
+
+Still, strict observance of Red, Green, Refactor does work for *many institutions*. Even as a critic, my test-first development workflow is largely based on Red, Green, Refactor.
 
 ## Choose Your Difficulty Level
 
 The good news is that, unless you are working on a life-critical system with zero tolerance for error, you can gradually adopt code correctness practices and arrive at a comfortable point for you and your organization.
 
 <center> 
-![Placeholder](http://placehold.it/250x250)
+<img src="../images/2015/12/17/Difficulty.png" /> 
 </center> 
+<center> *No matter what an expert tells you, don't jump into "Nightmare" mode right away.*  </center>
 
 After all, if you're working on a non-critical application like a diet tracker, it's OK to let a few bugs slip into production here and there, you may want to dial back the strictness, because everything is a tradeoff. A larger test suite, while a safeguard against bugs, is a burden on productivity. Make sure you choose the right approach for your system.
 
@@ -312,8 +323,10 @@ Congratulations! You've written your first test and made it pass. Go take a brea
 
 ## Wrap
 
-Tests are NOT a 100% solution. Just because the tests pass doesn't mean that the code is behaving properly. 
-There are many strategies for achieving correct code and testing is but one of them.
+Tests are a great tool to help reduce bug count. In healthcare, bugs in our code can mean security breaches, failures to properly store/transmit information, or in the worst case, patient harm. Tests are thus highly valuable for the assurance that they provide.
+
+However, tests are *NOT* a 100% solution. Just because the tests pass doesn't mean that the code is behaving properly. There are **many strategies** for achieving correct code and testing is only one part of the solution. 
+
 In general, I advise that you find ways to reduce complexity and make sure that there are no opportunities for bugs to creep in.
 
 > There are two ways to write code: write code so simple there are obviously no bugs in it, or write code so complex that there are no obvious bugs in it. - Sir Tony Hoare
@@ -324,9 +337,11 @@ In general, I advise that you find ways to reduce complexity and make sure that 
 <center> [Photo](https://en.wikipedia.org/wiki/Tony_Hoare#/media/File:Sir_Tony_Hoare_IMG_5125.jpg) by [Rama](//commons.wikimedia.org/wiki/User:Rama) / CC BY-SA 2.0 fr </center>
 </center> 
 
-So, in closing, tests are an excellent tool for defining HOW a module should work and verifying that it does work that way. But, as with any tool, garbage in, garbage out. It's hard to cover every last edge case.
+So, in closing, tests are an excellent tool for **defining** *HOW* a module should work and **verifying** that it does work that way. But, as with any tool, garbage in, garbage out: your tests are only as strong as the work that went in to defining them. 
 
-Please stay tuned for the next post, where we'll be looking at how to use continuous integration to keep your app in a continual state of readiness.
+Chase down those edge cases and best of luck!
+
+Please stay tuned for the next post, where we'll be looking at how to use **continuous integration** to keep your app in a continual state of readiness.
 
 ## Feedback
 
