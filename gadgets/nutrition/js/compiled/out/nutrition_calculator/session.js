@@ -8,5 +8,5 @@ nutrition_calculator.session.app_state = reagent.core.atom.call(null,cljs.core.P
 }
 if(typeof nutrition_calculator.session.user_input !== 'undefined'){
 } else {
-nutrition_calculator.session.user_input = reagent.core.atom.call(null,new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"lbm","lbm",251920),""], null));
+nutrition_calculator.session.user_input = reagent.core.atom.call(null,new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"beginner-mode","beginner-mode",-245481625),true], null));
 }

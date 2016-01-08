@@ -29,11 +29,11 @@ var this__4902__auto____$1 = this;
 return cljs.core._lookup.call(null,this__4902__auto____$1,k__4903__auto__,null);
 });
 
-nutrition_calculator.model.romaniello.common.Vitals.prototype.cljs$core$ILookup$_lookup$arity$3 = (function (this__4904__auto__,k6561,else__4905__auto__){
+nutrition_calculator.model.romaniello.common.Vitals.prototype.cljs$core$ILookup$_lookup$arity$3 = (function (this__4904__auto__,k6601,else__4905__auto__){
 var self__ = this;
 var this__4904__auto____$1 = this;
-var G__6563 = (((k6561 instanceof cljs.core.Keyword))?k6561.fqn:null);
-switch (G__6563) {
+var G__6603 = (((k6601 instanceof cljs.core.Keyword))?k6601.fqn:null);
+switch (G__6603) {
 case "weight":
 return self__.weight;
 
@@ -43,7 +43,7 @@ return self__.bfp;
 
 break;
 default:
-return cljs.core.get.call(null,self__.__extmap,k6561,else__4905__auto__);
+return cljs.core.get.call(null,self__.__extmap,k6601,else__4905__auto__);
 
 }
 });
@@ -122,18 +122,18 @@ return (new nutrition_calculator.model.romaniello.common.Vitals(self__.weight,se
 }
 });
 
-nutrition_calculator.model.romaniello.common.Vitals.prototype.cljs$core$IAssociative$_assoc$arity$3 = (function (this__4909__auto__,k__4910__auto__,G__6560){
+nutrition_calculator.model.romaniello.common.Vitals.prototype.cljs$core$IAssociative$_assoc$arity$3 = (function (this__4909__auto__,k__4910__auto__,G__6600){
 var self__ = this;
 var this__4909__auto____$1 = this;
-var pred__6564 = cljs.core.keyword_identical_QMARK_;
-var expr__6565 = k__4910__auto__;
-if(cljs.core.truth_(pred__6564.call(null,new cljs.core.Keyword(null,"weight","weight",-1262796205),expr__6565))){
-return (new nutrition_calculator.model.romaniello.common.Vitals(G__6560,self__.bfp,self__.__meta,self__.__extmap,null));
+var pred__6604 = cljs.core.keyword_identical_QMARK_;
+var expr__6605 = k__4910__auto__;
+if(cljs.core.truth_(pred__6604.call(null,new cljs.core.Keyword(null,"weight","weight",-1262796205),expr__6605))){
+return (new nutrition_calculator.model.romaniello.common.Vitals(G__6600,self__.bfp,self__.__meta,self__.__extmap,null));
 } else {
-if(cljs.core.truth_(pred__6564.call(null,new cljs.core.Keyword(null,"bfp","bfp",1482327408),expr__6565))){
-return (new nutrition_calculator.model.romaniello.common.Vitals(self__.weight,G__6560,self__.__meta,self__.__extmap,null));
+if(cljs.core.truth_(pred__6604.call(null,new cljs.core.Keyword(null,"bfp","bfp",1482327408),expr__6605))){
+return (new nutrition_calculator.model.romaniello.common.Vitals(self__.weight,G__6600,self__.__meta,self__.__extmap,null));
 } else {
-return (new nutrition_calculator.model.romaniello.common.Vitals(self__.weight,self__.bfp,self__.__meta,cljs.core.assoc.call(null,self__.__extmap,k__4910__auto__,G__6560),null));
+return (new nutrition_calculator.model.romaniello.common.Vitals(self__.weight,self__.bfp,self__.__meta,cljs.core.assoc.call(null,self__.__extmap,k__4910__auto__,G__6600),null));
 }
 }
 });
@@ -144,10 +144,10 @@ var this__4914__auto____$1 = this;
 return cljs.core.seq.call(null,cljs.core.concat.call(null,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [(new cljs.core.PersistentVector(null,2,(5),cljs.core.PersistentVector.EMPTY_NODE,[new cljs.core.Keyword(null,"weight","weight",-1262796205),self__.weight],null)),(new cljs.core.PersistentVector(null,2,(5),cljs.core.PersistentVector.EMPTY_NODE,[new cljs.core.Keyword(null,"bfp","bfp",1482327408),self__.bfp],null))], null),self__.__extmap));
 });
 
-nutrition_calculator.model.romaniello.common.Vitals.prototype.cljs$core$IWithMeta$_with_meta$arity$2 = (function (this__4901__auto__,G__6560){
+nutrition_calculator.model.romaniello.common.Vitals.prototype.cljs$core$IWithMeta$_with_meta$arity$2 = (function (this__4901__auto__,G__6600){
 var self__ = this;
 var this__4901__auto____$1 = this;
-return (new nutrition_calculator.model.romaniello.common.Vitals(self__.weight,self__.bfp,G__6560,self__.__extmap,self__.__hash));
+return (new nutrition_calculator.model.romaniello.common.Vitals(self__.weight,self__.bfp,G__6600,self__.__extmap,self__.__hash));
 });
 
 nutrition_calculator.model.romaniello.common.Vitals.prototype.cljs$core$ICollection$_conj$arity$2 = (function (this__4907__auto__,entry__4908__auto__){
@@ -178,8 +178,8 @@ nutrition_calculator.model.romaniello.common.__GT_Vitals = (function nutrition_c
 return (new nutrition_calculator.model.romaniello.common.Vitals(weight,bfp,null,null,null));
 });
 
-nutrition_calculator.model.romaniello.common.map__GT_Vitals = (function nutrition_calculator$model$romaniello$common$map__GT_Vitals(G__6562){
-return (new nutrition_calculator.model.romaniello.common.Vitals(new cljs.core.Keyword(null,"weight","weight",-1262796205).cljs$core$IFn$_invoke$arity$1(G__6562),new cljs.core.Keyword(null,"bfp","bfp",1482327408).cljs$core$IFn$_invoke$arity$1(G__6562),null,cljs.core.dissoc.call(null,G__6562,new cljs.core.Keyword(null,"weight","weight",-1262796205),new cljs.core.Keyword(null,"bfp","bfp",1482327408)),null));
+nutrition_calculator.model.romaniello.common.map__GT_Vitals = (function nutrition_calculator$model$romaniello$common$map__GT_Vitals(G__6602){
+return (new nutrition_calculator.model.romaniello.common.Vitals(new cljs.core.Keyword(null,"weight","weight",-1262796205).cljs$core$IFn$_invoke$arity$1(G__6602),new cljs.core.Keyword(null,"bfp","bfp",1482327408).cljs$core$IFn$_invoke$arity$1(G__6602),null,cljs.core.dissoc.call(null,G__6602,new cljs.core.Keyword(null,"weight","weight",-1262796205),new cljs.core.Keyword(null,"bfp","bfp",1482327408)),null));
 });
 
 nutrition_calculator.model.romaniello.common.lbm = (function nutrition_calculator$model$romaniello$common$lbm(vitals){

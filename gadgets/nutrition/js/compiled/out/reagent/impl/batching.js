@@ -49,14 +49,14 @@ var n__5192__auto__ = a.length;
 var i = (0);
 while(true){
 if((i < n__5192__auto__)){
-var c_6731 = (a[i]);
-if(cljs.core.truth_((c_6731["cljsIsDirty"]))){
-(c_6731["forceUpdate"])();
+var c_6718 = (a[i]);
+if(cljs.core.truth_((c_6718["cljsIsDirty"]))){
+(c_6718["forceUpdate"])();
 } else {
 }
 
-var G__6732 = (i + (1));
-i = G__6732;
+var G__6719 = (i + (1));
+i = G__6719;
 continue;
 } else {
 return null;
@@ -71,8 +71,8 @@ while(true){
 if((i < n__5192__auto__)){
 (a[i]).call(null);
 
-var G__6733 = (i + (1));
-i = G__6733;
+var G__6720 = (i + (1));
+i = G__6720;
 continue;
 } else {
 return null;
@@ -172,10 +172,10 @@ reagent.impl.batching.do_after_flush.call(null,f);
 return reagent.impl.batching.render_queue.schedule();
 });
 reagent.impl.batching.is_reagent_component = (function reagent$impl$batching$is_reagent_component(c){
-var G__6735 = c;
-var G__6735__$1 = (((G__6735 == null))?null:(G__6735["props"]));
-var G__6735__$2 = (((G__6735__$1 == null))?null:(G__6735__$1["argv"]));
-return G__6735__$2;
+var G__6722 = c;
+var G__6722__$1 = (((G__6722 == null))?null:(G__6722["props"]));
+var G__6722__$2 = (((G__6722__$1 == null))?null:(G__6722__$1["argv"]));
+return G__6722__$2;
 });
 reagent.impl.batching.run_reactively = (function reagent$impl$batching$run_reactively(c,run){
 if(cljs.core.truth_(reagent.impl.batching.is_reagent_component.call(null,c))){
@@ -204,8 +204,8 @@ return reagent.ratom.run.call(null,rat);
 }
 });
 reagent.impl.batching.dispose = (function reagent$impl$batching$dispose(c){
-var G__6737_6738 = (c["cljsRatom"]);
-var G__6737_6739__$1 = (((G__6737_6738 == null))?null:reagent.ratom.dispose_BANG_.call(null,G__6737_6738));
+var G__6724_6725 = (c["cljsRatom"]);
+var G__6724_6726__$1 = (((G__6724_6725 == null))?null:reagent.ratom.dispose_BANG_.call(null,G__6724_6725));
 
 return reagent.impl.batching.mark_rendered.call(null,c);
 });
