@@ -92,7 +92,7 @@ Convinced that habits can help you? On the fence? Either way,
 
 Something that EVERYONE in this room has the time to do is to give yourself one week to try starting a new habit.
 
-Go to [tinyhabits.com](tinyhabits.com) and sign up for BJ Fogg's free course. 
+Go to [tinyhabits.com](http://tinyhabits.com) and sign up for BJ Fogg's free course. 
 It will help you put this system into practice by learning ONE new habit that you've been meaning to pick up.
 That one tiny habit might just be what you were missing to accomplish your goals.
 
