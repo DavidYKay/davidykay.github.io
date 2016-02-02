@@ -6,7 +6,7 @@ permalink: /work/
 
 ## Summary
 
-I focus on building usable and useful mobile apps in the healthcare industry.
+I believe that with the launch of React Native, the next generation of mobile app technology is upon us. Building upon this trend, I hope to make mobile app development more accessible through making better tools.
 
 I've been developing mobile apps since 2008, including for Deutsche Bank, 1-800-GOT-JUNK, and Otsuka Medical.
 
@@ -23,6 +23,10 @@ My [StatusChart](https://www.statuschart.com/davidykay) has a fairly complete li
 These days, my blogging takes place on this site. So, please take a second to [check out my writing](/).
 
 ## Speaking Engagements
+
+### 2016
+
+* [Vancouver Functional Programmers](http://www.meetup.com/Vancouver-Functional-Programmers/) - [Front-end God-mode with Reagent and Figwheel](http://www.slideshare.net/DavidYKay/frontend-god-mode-with-reagent-and-figwheel)
 
 ### 2015
 
