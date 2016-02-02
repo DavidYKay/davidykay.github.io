@@ -301,6 +301,28 @@ footer {
   padding: 10px;
 }
 
+.cta {
+  display: flex;
+  flex-direction: row;
+}
+
+.cta-name {
+    font-size: 110%;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: normal;
+}
+
+.cta-bio {
+    font-size: 100%;
+    font-style: italic;
+}
+
+.cta-pic {
+    padding: 10px;
+    min-width: 100px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
