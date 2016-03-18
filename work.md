@@ -26,6 +26,7 @@ These days, my blogging takes place on this site. So, please take a second to [c
 
 ### 2016
 
+* [Code and Coffee](http://www.meetup.com/Code-Coffee-Vancouver/events/229423907/) - [Drag and Drop UI Development with React Native](http://www.slideshare.net/DavidYKay/drag-and-drop-ui-development-with-react-native)
 * [Vancouver Functional Programmers](http://www.meetup.com/Vancouver-Functional-Programmers/) - [Front-end God-mode with Reagent and Figwheel](http://www.slideshare.net/DavidYKay/frontend-god-mode-with-reagent-and-figwheel)
 
 ### 2015
