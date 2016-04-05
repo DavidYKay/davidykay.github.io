@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem 'jekyll'
 gem 'jekyll-sitemap'
 gem 'kramdown'
-gem 'pygments.rb'
+gem 'rouge'
 gem 'guard'
 gem 'guard-jekyll-plus'
 gem 'guard-livereload'
