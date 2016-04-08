@@ -77,8 +77,7 @@ Many modern physics engines such as [Bullet](http://bulletphysics.org/wordpress/
 
 From computational chemistry to medical imaging and astrophysics, the raw computational power of GPUs are making supercomputing-like performance accessible to every lab. 
 
-As you can see from the above chart, some applications have seen speedups of 245x!
-
+According to [this presentation](http://www.nvidia.com/content/GTC/documents/SC09_CUDA_luebke_Intro.pdf), some applications have seen speedups of 245x!
 ### Machine Learning
 
 ![Chart](../images/2016/04/08-GPU-Compute/GradientAscent.png)
