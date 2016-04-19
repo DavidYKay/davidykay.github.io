@@ -33,6 +33,8 @@ My job is to make things interesting and digestible, so as long as you can dedic
 
 **Start Date (Vancouver):** May 1, 2016
 
+**Vancouver Location:** East Kent Ave, South Vancouver, Vancouver, BC
+
 **Start Date (Virtual):** Mid-late May 2016
 
 ### Syllabus
