@@ -33,9 +33,17 @@ My job is to make things interesting and digestible, so as long as you can dedic
 
 **Start Date (Vancouver):** May 1, 2016
 
-**Vancouver Location:** East Kent Ave, South Vancouver, Vancouver, BC
+**Class Duration:** 90 minutes
+
+**Homework per week:** 2-5 hours
+
+**Vancouver Location:** East Kent Ave S, South Vancouver, Vancouver, BC
+
+**Vancouver Meet Time:** Sundays at 6PM Pacific
 
 **Start Date (Virtual):** Mid-late May 2016
+
+**Virtual Meet Time:** Sundays at 4PM Pacific
 
 ### Syllabus
 
