@@ -45,7 +45,7 @@ My job is to make things interesting and digestible, so as long as you can dedic
 
 #### Online / Virtual
 
-**Start Date:** Mid-late May 2016
+**Start Date:** May 15, 2016
 
 **Meet Time:** Sundays at 4PM Pacific
 
