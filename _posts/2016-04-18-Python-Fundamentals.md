@@ -37,9 +37,9 @@ My job is to make things interesting and digestible, so as long as you can dedic
 
 #### Vancouver
 
-**Start Date**: May 1, 2016
+**Start Date**: May 2016
 
-**Vancouver Location:** East Kent Ave S, South Vancouver, Vancouver, BC
+**Vancouver Location:** TBD
 
 **Vancouver Meet Time:** Sundays at 6PM Pacific
 
