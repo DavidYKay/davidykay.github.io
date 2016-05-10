@@ -37,7 +37,7 @@ My job is to make things interesting and digestible, so as long as you can dedic
 
 #### Vancouver
 
-**Start Date**: May 2016
+**Start Date**: May 22, 2016
 
 **Vancouver Location:** TBD
 
@@ -48,6 +48,8 @@ My job is to make things interesting and digestible, so as long as you can dedic
 **Start Date:** May 15, 2016
 
 **Meet Time:** Sundays at 4PM Pacific
+
+Note: All classes will be recorded and distributed afterwards.
 
 ### Syllabus
 
