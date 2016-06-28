@@ -66,7 +66,7 @@ Check the box for the `3D Print Toolbox.` This will enable the 3D Print Toolbox 
 <img src="../images/2016/06/27-3d-volume/screenshots/delete-cube.png" /> </center>
 <center> <em>Cube-icide.</em>  </center>
 
-Now, left-click the cube sitting in your project and hit the "delete" key on your keyboard.
+Now, right-click the cube sitting in your project and hit the "delete" key on your keyboard.
 
 Click the `Delete` button in the confirmation dialogue.
 
@@ -114,13 +114,17 @@ Once you have selected these settings, click `Apply.`
 
 #### 6. Find the volume
 
+<center> 
+<img src="../images/2016/06/27-3d-volume/screenshots/closed-bottle.png" /> </center>
+<center> <em> Water-tight!  </em>  </center>
+
 With our model now hole-free, you should be able now calculate the volume accurately.
 
 On the left-hand panel, you should be able to see a small tab marked `3D Printing` below `Tools,` `Create,` `Relation,` etc. Click `3D Printing.`
 
 NOTE: If you can't see the left-hand panel that houses the `Tools` (rotate, scale, etc) and the `3D Printing Tools` (volume, area, etc.) you may need to click the `+` button in the main 3D view.
 
-Once inside, make sure you have selected your 3D model by left-clicking on it, then click the `Volume` button at the top of the panel.
+Once inside, make sure you have selected your 3D model by right-clicking on it, then click the `Volume` button at the top of the panel.
 
 <center> 
 <img src="../images/2016/06/27-3d-volume/screenshots/volume-button.png" /> </center>
