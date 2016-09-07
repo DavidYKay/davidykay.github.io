@@ -4,23 +4,69 @@ title: Work
 permalink: /work/
 ---
 
+## My Mission
+
+To help mankind transcend human biology.
+
 ## Summary
 
-I believe that with the launch of React Native, the next generation of mobile app technology is upon us. Building upon this trend, I hope to make mobile app development more accessible through making better tools.
+Ex-Google startup veteran with a focus on 3D and computer vision.
 
-I've been developing mobile apps since 2008, including for Deutsche Bank, 1-800-GOT-JUNK, and Otsuka Medical.
+I was founding CTO of Authy and EnHatch. Authy recently sold to Twilio and EnHatch is actively growing, selling to clients such as GE.
 
-I've served as founding CTO of two startup companies and have experience leading large teams in high-pressure environments, including a rush job for an appearance on Shark Tank.
+I've been developing mobile apps since 2008 and have experience leading teams in high-pressure environments, including rush jobs for CES, SxSW, TechCrunch Disrupt, and Shark Tank.
 
-## Past Work
+## Selected Projects
 
-Check out my [hackathon presentations](https://www.youtube.com/watch?v=tXJhioQfUAc&list=PL87766F627E9999C0&index=7) for a good showcase of my personality and ability to whip things up in 24 hours.
+* IVA - The Wikipedia for intravenous drugs. Coming Q4 2016.
 
-My [corporate website](http://www.gargoyle.co/) showcases some of my past work, plus some interview vids of me.
+* [The Horndeski Method](http://horndeski.com) - Precise measurements for breast surgery using 3D scanning w/ Structure Sensor & iPad.
 
-My [StatusChart](https://www.statuschart.com/davidykay) has a fairly complete list of my work since 2011.
+* [Bra Theory](https://bratheory.com) - Custom-made bras, tailored using 3D scanning w/ Structure sensor & iPad.
 
-These days, my blogging takes place on this site. So, please take a second to [check out my writing](/).
+* [Auspex Health](http://www.auspex.ca) - Clinical tools for medication review in retail pharmacy.
+
+* [SALT](http://www.saltcounts.com) - Measure dietary salt content using computer vision on Android.
+
+* [EnHatch](http://www.enhatch.com) - iPad app for 3D med device sales & marketing.
+
+* [Otsuka](https://www.otsuka-us.com/discover/oapi) - iPad apps for med device and pharmaceutical detailing.
+
+
+## Hackathon Results
+
+### 2016
+
+* Hacking Health Vancouver - *DrugIQ* - Top 10 finalist
+
+### 2015
+
+* MIT Hacking Medicine - *Cancer Companion* - Grand Prize, Telemedicine
+* Yale Patient Experience Hackathon - *FoodFeed* - Best Design
+
+### 2014
+
+* GHG Patient Outcomes Hackathon - *Knife to 5K* - 3rd Place
+* NASA Space Apps Challenge - *MediPrint* - Global Finalist
+
+### 2013
+
+* Battle of the Braces - *McCoy* - Disqualified (accused of cheating)
+
+### 2012
+
+* NASA Space Apps Challenge - *CERES* - Global Finalist
+* TAPPED NFC - *Dr. NFC* - Runner-up
+* Coca-cola & Spotify Hackathon - *Social Jukebox* - Runner-up
+
+### 2011
+
+* Startup Bus - *Lemonade Stand* - Semi-finalist
+
+### 2010
+
+* TechCruch Disrupt - *D8coach* - 3rd Place
+* Startup Weekend NYC - *Artmented* - Audience Choice
 
 ## Speaking Engagements
 
@@ -59,3 +105,11 @@ These days, my blogging takes place on this site. So, please take a second to [c
 * Honors Program, Rutgers Engineering School - "Career Advice from the App Industry" (Panel)
 * NJ Mobile Meetup - "iPhone 101"
 * NJ Mobile Meetup - "Intro to Android"
+
+## Other 
+
+Check out my [hackathon presentations](https://www.youtube.com/watch?v=tXJhioQfUAc&list=PL87766F627E9999C0&index=7) for a good showcase of my personality and ability to whip things up in 24 hours.
+
+My [corporate website](http://www.gargoyle.co/) is way out-of-date, but showcases some of my past work, plus some interview vids of me.
+
+These days, my blogging takes place on this site. So, feel free to [see what's on my mind](/).
