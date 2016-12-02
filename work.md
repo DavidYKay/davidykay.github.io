@@ -6,19 +6,21 @@ permalink: /work/
 
 ## My Mission
 
-To help mankind transcend human biology.
+To help mankind become one with technology.
 
 ## Summary
 
-Ex-Google startup veteran with a focus on 3D and computer vision.
+Ex-Google startup veteran with a focus on 3D, healthcare, and VR.
 
 I was founding CTO of Authy and EnHatch. Authy recently sold to Twilio and EnHatch is actively growing, selling to clients such as GE.
 
 I've been developing mobile apps since 2008 and have experience leading teams in high-pressure environments, including rush jobs for CES, SxSW, TechCrunch Disrupt, and Shark Tank.
 
+These days, I am 100% focused on VR development in Unreal Engine 4 and am working to share my knowledge with others.
+
 ## Selected Projects
 
-* IVA - The Wikipedia for intravenous drugs. Coming Q4 2016.
+* IVA - The Wikipedia for intravenous drugs. Coming Q1 2017.
 
 * [The Horndeski Method](http://horndeski.com) - Precise measurements for breast surgery using 3D scanning w/ Structure Sensor & iPad.
 
@@ -110,6 +112,6 @@ I've been developing mobile apps since 2008 and have experience leading teams in
 
 Check out my [hackathon presentations](https://www.youtube.com/watch?v=tXJhioQfUAc&list=PL87766F627E9999C0&index=7) for a good showcase of my personality and ability to whip things up in 24 hours.
 
-My [corporate website](http://www.gargoyle.co/) is way out-of-date, but showcases some of my past work, plus some interview vids of me.
+My [corporate website](http://www.gargoyle.co/) is shamefully out-of-date, but showcases some of my past work, plus some interview vids of me.
 
 These days, my blogging takes place on this site. So, feel free to [see what's on my mind](/).
