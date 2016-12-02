@@ -17,7 +17,7 @@ Cardboard has no problem as you are just distributing a simple APK. Your users w
 
 ## Daydream
 
-Same as above. Daydream is just Android so you need
+Same as above. Daydream is just Android so you need to provide an APK and have your users enable sideloading.
 
 ## Gear VR
 
