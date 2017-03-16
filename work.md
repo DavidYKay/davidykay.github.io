@@ -16,8 +16,6 @@ I was founding CTO of Authy and EnHatch. Authy recently sold to Twilio and EnHat
 
 I've been developing mobile apps since 2008 and have experience leading teams in high-pressure environments, including rush jobs for CES, SxSW, TechCrunch Disrupt, and Shark Tank.
 
-These days, I am 100% focused on VR development in Unreal Engine 4 and am working to share my knowledge with others.
-
 ## Selected Projects
 
 * IVA - The Wikipedia for intravenous drugs. Coming Q1 2017.
