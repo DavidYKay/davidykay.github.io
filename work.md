@@ -12,9 +12,9 @@ To help mankind become one with technology.
 
 Ex-Google startup veteran with a focus on 3D, healthcare, and VR.
 
-I was founding CTO of Authy and EnHatch. Authy recently sold to Twilio and EnHatch is actively growing, selling to clients such as GE.
+## Resume
 
-I've been developing mobile apps since 2008 and have experience leading teams in high-pressure environments, including rush jobs for CES, SxSW, TechCrunch Disrupt, and Shark Tank.
+[Resume PDF](https://dl.dropboxusercontent.com/u/11816173/Resume.pdf)
 
 ## Selected Projects
 
