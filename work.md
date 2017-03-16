@@ -10,7 +10,7 @@ To help mankind transcend biology.
 
 ## Summary
 
-Ex-Google startup veteran with a focus on 3D, healthcare, and VR.
+Ex-Google startup veteran with a focus on 3D, healthcare, mobile apps, and VR.
 
 ## Resume
 
@@ -20,7 +20,7 @@ Ex-Google startup veteran with a focus on 3D, healthcare, and VR.
 
 * IVA - The Wikipedia for intravenous drugs. Coming Q1 2017.
 
-* [The Horndeski Method](http://horndeski.com) - Precise measurements for breast surgery using 3D scanning w/ Structure Sensor & iPad.
+* [Bellesoma](http://bellesoma.com) - Precise measurements for breast surgery using 3D scanning w/ Structure Sensor & iPad.
 
 * [Bra Theory](https://bratheory.com) - Custom-made bras, tailored using 3D scanning w/ Structure sensor & iPad.
 
