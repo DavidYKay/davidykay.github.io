@@ -6,7 +6,7 @@ permalink: /work/
 
 ## My Mission
 
-To help mankind become one with technology.
+To help mankind transcend biology.
 
 ## Summary
 
