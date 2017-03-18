@@ -16,6 +16,8 @@ Ex-Google startup veteran with a focus on 3D, healthcare, mobile apps, and VR.
 
 [Resume PDF](https://dl.dropboxusercontent.com/u/11816173/Resume.pdf)
 
+[LinkedIn](https://www.linkedin.com/in/davidykay/)
+
 ## Selected Projects
 
 * IVA - The Wikipedia for intravenous drugs. Coming Q1 2017.
