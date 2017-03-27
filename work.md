@@ -6,11 +6,13 @@ permalink: /work/
 
 ## My Mission
 
-To help mankind transcend biology.
+To usher in the Singularity by helping technologists perform at the highest level.
+
+See [manifesto](//about/).
 
 ## Summary
 
-Ex-Google startup veteran with a focus on 3D, healthcare, mobile apps, and VR.
+Ex-Google startup veteran with an emphasis on clean code and innovation.
 
 ## Resume
 
@@ -20,7 +22,7 @@ Ex-Google startup veteran with a focus on 3D, healthcare, mobile apps, and VR.
 
 ## Selected Projects
 
-* IVA - The Wikipedia for intravenous drugs. Coming Q1 2017.
+* [Merge Conflicts](https://www.mergeconflicts.com) - Cultivating true technological mastery, one code review at a time.
 
 * [Bellesoma](http://bellesoma.com) - Precise measurements for breast surgery using 3D scanning w/ Structure Sensor & iPad.
 
