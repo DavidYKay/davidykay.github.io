@@ -19,10 +19,10 @@ However, the pace of progress is ever accelerating, while our humble flesh and b
 
 # How
 
-I am dedicating my life to ushering in the Singularity by helping technologists perform at the highest level.
+I have dedicated my life to ushering in the Singularity by helping technologists perform at the highest level.
 
-By cultivating true technological mastery, I can do my piece to help mankind realize its deepest ambitions and truest dreams.
+By cultivating true technological mastery, I can help mankind reach toward its deepest ambitions and truest dreams.
 
 # What
 
-In order to perform this service, I am the founder of [Merge Conflicts](https://www.mergeconflicts.com), providing code review to iOS developers who want to be more effective.
+In order to perform this service, I am the founder of [Merge Conflicts](https://www.mergeconflicts.com), providing code review to Clojure developers around the world.
