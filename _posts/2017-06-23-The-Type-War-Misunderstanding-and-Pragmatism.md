@@ -7,7 +7,7 @@ title: The Type War, Misunderstanding, and Pragmatism
 
 ## The Type War
 
-Something that comes up again and again and again in programming is the war between the **dynamic** languages and the **static** languages.  
+Something that comes up [again][21] and [again][7] and [again][3] in programming is the war between the **dynamic** languages and the **static** languages.  
 
 The dynamic devotees deify **rapid development time**, while the the static supporters seek **correctness and performance**.
 
@@ -113,3 +113,4 @@ Just tradeoffs.
 [18]: https://clojurescript.org/ "ClojureScript"
 [19]: https://clojure.org/about/spec "Clojure.spec"
 [20]: https://www.infoq.com/presentations/Simple-Made-Easy "Simple Made Easy"
+[21]: https://sites.google.com/site/steveyegge2/is-weak-typing-strong-enough "Is Weak Typing Strong Enough?"
