@@ -201,6 +201,7 @@ In the Rigetti vs D-Wave race, Rigetti is still a heavy underdog. However, this 
 Why? Take a look at these excerpts from the Forest announcement (emphasis mine):
 
 > Fab-1 is based on the latest semiconductor processing tools and technology, but, unlike traditional fabs, operates in rapid-iteration mode. Today, we can produce an entirely new design for a 3D integrated quantum circuit in about **2 weeks**. 
+
 2 weeks? Stunning.
 
 More importantly, here's a man who understands productivity, prototyping, and the power of exponential technologies:
