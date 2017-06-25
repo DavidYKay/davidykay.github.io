@@ -66,7 +66,7 @@ I reflected of my conversations with people who looked at me like I was crazy wh
 
 I reflected on Steve Ballmer taking over from Bill Gates, on Tim Cook taking over from Steve Jobs.
 
-In both cases, the **"visionary"** handed the company over to the **"operator."** This is a recurring theme again and again in business, but it seems that most of us don't have the proper terminology for it. Perhaps "sensing vs intuition" is exactly the psychological terminology we were looking for to describe "operator" versus "visionary." And I do **NOT mean** to belittle the "operator!" Just as every breed of dog has a differnet strength and weakness, so do human beings. Apple under Tim Cook is a different Apple than under Steve Jobs (and more profitable than ever). Steve knew this and encouraged it, going so far as to getting Tim to *promise* never to ask, "What would Steve do?"
+In both cases, the **"visionary"** handed the company over to the **"operator."** This is a recurring theme again and again in business, but it seems that most of us don't have the proper terminology for it. Perhaps "sensing vs intuition" is exactly the psychological terminology we were looking for to describe "operator" versus "visionary." And I do **NOT mean** to belittle the "operator!" Just as every breed of dog has a different strength and weakness, so do human beings. Apple under Tim Cook is a different Apple than under Steve Jobs (and more profitable than ever). Steve knew this and encouraged it, going so far as to getting Tim to *promise* never to ask, "What would Steve do?"
 
 ## Other Examples
 
