@@ -74,6 +74,10 @@ Ex-Google startup veteran with an emphasis on clean code and innovation.
 
 ## Speaking Engagements
 
+### 2017
+
+* [Vancouver Functional Programmers](http://www.meetup.com/Vancouver-Functional-Programmers/) - [Cross-platform Native Development in F#](https://www.slideshare.net/DavidYKay/cross-platform-native-development-in-f-78319079)
+
 ### 2016
 
 * [Code and Coffee](http://www.meetup.com/Code-Coffee-Vancouver/events/229423907/) - [Drag and Drop UI Development with React Native](http://www.slideshare.net/DavidYKay/drag-and-drop-ui-development-with-react-native)
