@@ -7,44 +7,152 @@ title: Collaborative Computing
 
 [Software is eating the world][6], Moore's law [continues][18], and quantum computing is getting [closer to primetime][19]. With this incredible progress before us, it's hard not to feel the future is bright.
 
-However, techno-optimism is not the only nararative in town. The pitfall in the tech industry that gets the most airtime is the colossal [talent shortage][7]. The best-funded firms aren't able to hire as quickly as they would like, and the less-well-funded firms are forced to settle for less-capable talent. 
+However, techno-optimism isn't the only nararative in town. The industry faces several hurdles, from the increasing challenges of packing more transistors into a smaller and smaller space to managing the complexity of parallel computing, but the problem in the tech industry that gets the most airtime is the colossal [talent shortage][7]. The best-funded firms aren't able to hire as quickly as they would like, and the less-well-funded firms are forced to settle for less-capable talent. 
 
-A critical issue that few people like to discuss is that the [tools][10] we are using aren't maximizing the effectiveness of our meager human brains.
+Thankfully, there are many organizations and individuals dedicated to closing the talent gap, primarily through new efforts in [education][23], [diversity][24], and [recruiting][1]. 
 
-Critics may wonder: "Who cares? You technology geeks are the only ones who care about this stuff."
+Certainly there is always room for improvement, but I'd like to leave this side of the issue in these already-in-action capable hands.
 
-I counter that technology's tendrils extend far beyond Silicon Valley, Facebook addiction, and the latest iDevice. Much of our economy, all the way down to the average retirement plan, is [dependent on exponential technological growth][8].
+I'd like to draw your attention today to a critical, related issue that few people discuss, or even acknowledge: the [tools][10] we are using aren't maximizing the effectiveness of our meager human brains.
 
-If we, the technologists, aren't able to keep up the pace, there are a lot of people who will be left out in the cold.
+Before you dismiss this as mere hyperbole, consider that the tendrils of technology extend far beyond Silicon Valley, Facebook addiction, and the latest iDevice. No. The stakes are far higher.
 
-Thankfully, there are many organizations and individuals dedicated to closing the talent gap, primarily through new efforts in [education][23], [diversity][24], and [recruiting][1].
+The health of our economy, all the way down to the average retirement plan, is [predicated on exponential technological growth][8].
 
-### Globalization
+Thus, if we, the technologists, don't keep pace, many people will be left out in the cold.
 
-Chairman Mao once [wrote][15], "Let a hundred flowers bloom; let a hundred schools of thought contend." Though he was speaking of political discourse, the future of our industry looks much the same. 
-The plummeting cost of communication and coordination (Git, Slack) and the rise of tools to aid in technology (AWS, open source) and small business (Stripe, Stripe Atlas) mean that there is more opportunity than ever for small players to shake things up.
+The good news is that we are faced with colossal opportunity to keep pace and to build a better future together.
 
-Yes, there is a fear that our future is entirely an AI future, dominated by the data warehouses of the tech giants, but it's hard for me to imagine that this will always be the case. The giants have ALWAYS had an edge in funding and manpower and yet somehow find a way to fall flat-footed. Will data-as-firepower make this so different? We shall see.
+So, I'd like to share my vision of where the world of computation is going and how you and I, can start making a difference, today.
 
-Let's pretend for a moment that this giant-take-all scenario does not happen. Power, knowledge, and innovation will become increasingly distributed. The hegemony of America and Silicon Valley will continue to slowly erode as other innovators rise. 
+### Tools
 
-We're already seeing this. China, originally dismissed as a great force of "globalization," but not "innovation," is now generating real breakthroughs, most notably in [facial recognition][3]. And, given the insane [hardware iteration speed in Shenzhen][5], I suspect we will see that trend continue. 
+It's all rooted in our tools. 
 
-Every major city of the world now has a co-working space, programming classes, and usually, a dev bootcamp. Nairobi may never rival San Francisco, but the wheels are in motion and have been for several years now. Could the next John Carmack come from outside the US?
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TRZAJY23xio?start=3900" frameborder="0" allowfullscreen></iframe>
+</center>
 
-### Selflessness
+Steve Jobs once argued that man's superpower is in building tools, likening the personal computer to a ["bicycle for the mind."][25] He goes on to argue that, ["of all the inventions of humans, the computer is going to rank near if not **at the top**."][26] So far, he's hard to discredit: the computer it has changed the face of virtually every human discipline. So much so that most people readily acknowledge that many jobs will, within our lifetime, be done entirely by computers.
 
-As an American, I'll admit I'm sad to think we'll lose our dominance, but, let me remind you that everyone will be innovating more quickly if there is a truly global dialogue of computation. This may feel uncomfortable. After all, it's human nature to prefer a larger slice of a smaller pie, but it's better for our civilization if we can move beyond the ["crab bucket"][21] mentality. 
+What saddens me is that most of us are content with fixies when we could have *Ferraris*!
 
-But, take a step outside of yourself for a moment. Imagine for a moment that you are not solely concerned with the well-being of one body.
+One would think that recursive power of developers developing development tools would lead to **staggering**, exponential productivity gains, but somehow that **hasn't happened**.
 
-Of course, 
+As they say, "the cobbler's children always go **barefoot**."
 
-### Decentralization
+#### Old Paradigm
 
-Skeptical? Consider the general trend of biological and human systems. (Software parallels in parenthesis).
+![HP 2116](../images/2017/07/CollaborativeComputing/Teletype.jpg)
 
-1. All systems begin in **anarchy** (individual programmers, working in isolation). Communication and coordination are very costly. 
+<center> 
+<em> Debugging: just like it was in the 1960s, minus the business attire </em>
+<br />
+<a href="http://www.eso.org/public/images/potw1223a/"> Photo credit: ESO </a> / CC BY-SA 3.0 
+</center>
+
+Despite the growth and adoption of new languages and methodologies, there are gaping holes in our core computing model. Computing hasn't changed much in [30+ years][11]. Text-based, operating system-enabled programming has been around for more than 50 years. That is, modern programmers could be warped back to the 1960s and placed in front of a teletype, and be comfortable and familiar with the tooling with a minimal amount of training! 
+
+We like to brag about how quickly our industry moves compared to others, but the truth is that the fundamentals haven't changed much in a **long, long time.** 
+
+In a static world, this is fine. However, in a world that has seen exponential growth in computing power, userbase, and developers, how can we afford to cling to the tools & methodologies from an era where these constants were roughly **10^7** (2^25) less than today?
+
+#### There Will be Code
+
+Given the recent success of AI techniques, more have begun to argue, "Why bother improving dev tools? Code will soon go away completely." However, I subscribe to the [Uncle Bob school of thought][29], which states that:
+
+<center>
+<img src="../images/2017/07/CollaborativeComputing/UncleBob3.jpg" />
+</center>
+
+> We will never be rid of code, because **code** represents the details of the **requirements**. At some level those details cannot be ignored or abstracted; they have to be **specified**. And specifying requirements in such detail that a machine can execute them is programming. Such a **specification is code**.
+
+I'll acknowledge that breakthroughs are indeed being made in the field of using **machine learning** for **programming**. Peter Norvig gives an [incredible talk][20] on this subject, going so far as to demonstrate programming language interpreters developed ENTIRELY using machine-learning techniques!
+
+<center>
+<img src="../images/2017/07/CollaborativeComputing/NorvigLSTM.png" />
+<em> Programming: Not just for humans anymore </em>
+<br />
+<a href="https://www.infoq.com/presentations/machine-learning-general-programming"> Source: InfoQ </a> 
+<p>
+</p>
+</center>
+
+Yann LeCun's team has also done some impressive work on deep learning for general programming, placing a basic Turing machine inside of a reinforcement learning environment until it **learns basic algorithms**, including adding and sorting!
+
+Impressive as these breakthroughs may be, even if this research renders Python, Javascript, and Haskell obsolete, there will still be a **need for programming** and programmers, no matter what the new paradigm looks like.
+
+But what will that paradigm look like?
+
+### Flock of Starlings
+
+My model for the future of computing is a flock of starlings:
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DmO4Ellgmd0" frameborder="0" allowfullscreen></iframe>
+</center>
+
+We each have our own individual voice and insight to contribute, but it's only by banding together as a whole that we as a species can achieve the unfathomable.
+
+Apple relies on dozens and dozens of suppliers to produce a device.
+I'm using open-source packages from hundreds of contributors to publish this post right now.
+The packets that are carrying this post to you are being carried by many different intermediaries before they arrive on your screen.
+
+I could go on, but my point is to highlight the beauty of cooperation that often goes unappreciated by my individualistic American mind. 
+
+And, likewise, this scale of coordination and cooperation is often considered unfathomable in software development.
+
+### Globalization / Decentralization
+
+Speaking of American thinking, the balance of power is shifting. We've heard for many years that "the world is flat," but the reality of global innovation is drawing nearer and nearer.  
+
+Every major city of the world now has a co-working space, programming classes, and usually, a dev bootcamp. Nairobi may never rival San Francisco, but the wheels are in motion and have been for several years now. 
+
+#### Is Tech Innovation Decentralizing?
+
+The question is: are these smaller tech hubs doomed to forever play catch-up? Or will they become birthplaces of true innovation?
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fq1SEqNT-7c" frameborder="0" allowfullscreen></iframe>
+</center>
+
+Let's look to **China**, the poster child of the developing world. Long-dismissed as a great force of "globalization," rather than "innovation," China is now generating **real breakthroughs**, most notably in [facial recognition][3]. And, given the insane [hardware iteration speed in Shenzhen][5], I suspect we will see that trend continue. 
+
+Is this phenomenon unique to China? Unlikely. 
+
+I suspect that there are innovations bubbling up all around the globe. It's just that we Westerners haven't sufficiently felt their impact to increase our awareness of them.
+
+For example, **Kenya** has been heralded as a pioneer of mobile phone-based transactions since **M-PESA**'s introduction in 2007. But, given that there wasn't great demand for this service in the developed world (due to existing financial infrastructure), we didn't look twice. But M-PESA has found success in other markets, including Afghanistan and parts of Eastern Europe.
+
+In retrospect, this shouldn't be surprising, as we know that there is a diversity of needs in the marketplace. With more players in the global economic game, the swirling interaction of supply and demand will give rise to previously-unimagined goods and services.
+
+##### Israel
+
+Also, while not a developing country, I'd like to call out **Israel** for creating a world-class technology ecosystem, pumping out hit after hit, including titans such as [ICQ][32], [Waze][30], and [Primesense][31]. 2016 was considered a slow year for them, with [$10 billion in startup exits][33]. For a country of only 8.5 million people, this is unbelievable. This is a very crude comparison, but given the United States' population of 323 million, we would have to produce **$400 billion** worth of tech exits annually to keep pace with Israel on a per-capita basis. On a slow year.
+
+#### Why is Decentralization Happening?
+
+Let's examine the nuts and the bolts more closely:
+
+The plummeting cost of **communication** and **coordination** (Git, Slack) and the rise of tools to aid in **development** (AWS, open source) and **small business** (Stripe, Stripe Atlas) mean that there is more opportunity than ever for small players to shake things up.
+
+Also, the incredible proliferation of **smartphones** and **electronic payments** around the world mean that virtually everyone is becoming a user and customer of software, vastly growing the size of the digital economy.
+
+Critics remind me that the surging importance of AI will mean that **data-poor** startups will always lose the battle against the **data-rich** tech giants, leading to a complete centralization of power. However, the giants have ALWAYS had an edge in **funding** and **manpower**, and yet somehow ALWAYS find a way to fall **flat-footed**. Will data-as-firepower make this so different? I'm skeptical.
+
+So long as we can prevent an incumbent-take-all scenario, power, knowledge, and innovation will become increasingly distributed. The hegemony of America and Silicon Valley will continue to slowly erode as other innovators rise. 
+
+#### Decentralization Theory
+
+It turns out that this trend of decentralization of power is not new. 
+
+In fact, Dr. Gavin Wood, co-creator of Ethereum, makes a compelling [case][14] that the evolution of all social systems follows a similar pattern.
+
+[![Dr. Gavin Wood on Decentralization](../images/2017/07/CollaborativeComputing/GavinWoodGovernment.png)][14]
+
+Skeptical? Consider his framework for biological and human systems. (Software parallels in parenthesis).
+
+1. All systems begin in **anarchy** (individual programmers). Communication and coordination are very costly, thus individuals work in isolation. 
 
 2. Then, a **king** (Microsoft) gathers a huge mindshare of subjects (developers) to build great works and enforce the rule of law. 
 
@@ -52,55 +160,69 @@ Skeptical? Consider the general trend of biological and human systems. (Software
 
 4. With the advent of the cheaper communication such as the telegraph (Git), we move to a **democratic** system (branch & fork, "horizontal gene transfer" collaboration model). 
 
-Please see Dr. Gavin Wood's [talk][14] where he explains this concept far more compellingly than I.
+#### What does it mean?
 
-### Tools
+As an American, I'll admit I'm sad to think we'll lose our dominance, but, let's take a moment to remember that **everyone** will innovate more quickly if there is a truly global dialogue of computation. 
 
-Personally, I'm most attracted to the idea of improving our tools. 
+Open-source benefits from having a larger contributor pool. Customers benefit from having a wider array of suppliers.
 
-Steve Jobs once [likened][25] the personal computer to a "bicycle" for the mind. And it has changed the face of virtually every human discipline.
+To my fellow American technologists, I'm sure this feels uncomfortable. After all, it's human nature to prefer a higher RELATIVE standing than a higher ABSOLUTE standing, but it's better for our civilization if we can move beyond the ["crab bucket"][21] mentality. 
 
-What saddens me is that most of us are content to ride fixies when we could be racing Ferraris!
+To take a more pragmatic viewpoint: if it's going to happen, we may as well make the most of it.
 
-One would think that computer programmers would be 
+Chairman Mao once [wrote][15], "Let a hundred flowers bloom; let a hundred schools of thought contend." Though he was speaking of political discourse, the future of our industry looks much the same: a constantly cross-pollinating proliferation of ideas and a constant ebb and flow of cooperation and competition.
 
-As they say, "the cobbler's children always go barefoot."
+Could the next John Carmack come from outside the US?
 
-#### There Will be Code
+### How do we get there?
 
-While some argue, "Why bother? Code will soon go away completely," I subscribe to the Bob Martin school of thought, which states, no matter how far the level of abstraction rises (emphasis mine):
+As with any paradigm shift, we cannot **leap** straight ahead to software development practices of the 2050s. 
 
-> We will never be rid of code, because **code** represents the details of the **requirements**. At some level those details cannot be ignored or abstracted; they have to be **specified**. And specifying requirements in such detail that a machine can execute them is programming. Such a specification is code.
+No, we must **build our way there**, brick by brick, from the present.
 
-Some fascinating ideas include the idea of using [Machine Learning for Programming][20].
+For now, I dismiss virtual reality programming environments and human language-driven approaches as not close enough to commercialization.
 
-Yann LeCun's team has done some impressive work on deep learning for this purpose, placing a basic Turing machine inside of a reinforcement learning environment until it learns basic algorithms. 
+#### Microservices
 
-As with any problem, there are many potential solutions. For example, I can envision a virtual reality programming environment which could reduce the barrier to programming, but I'm concerned that concept is a bit too far ahead of the market right now. 
+Instead, embracing and empowering the distributed systems / [microservices][13] trend seems a more aptly-timed approach to enhancing developer productivity.
 
-### Microservices
+Clearly, I'm not the only one who has this viewpoint.
 
-Instead, embracing the distributed systems / [microservices][13] trend seems a more aptly-timed approach to enhancing developer productivity.
+<center>
+<img src="../images/2017/07/CollaborativeComputing/Bezos3.jpg" />
+<em> Jeff Bezos: Father of Microservices? </em>
+<br />
+<p>
+</p>
+</center>
 
 Indeed, thanks to this movement spearheaded by [Jeff Bezos][9], the world [increasingly implements][12] a service-oriented architecture. 
 
-The core reason is simple: coordinating large groups of humans is [impossibly][17] [difficult][16]; it's far easier to use networked programming interfaces as a means of communication/coordination. APIs are, at least in theory, better-documented and more consistently-behaved than a handshake or a written agreement between two parties.
+The core reason is simple: coordinating large groups of humans is [impossibly][17] [difficult][16]; it's far easier to use networked programming interfaces as a means of communication/coordination. 
 
-### Tooling
+APIs are, at least in theory, better-documented and more consistently-behaved than a handshake or a written agreement between two parties.
 
-The barrier is rapidly becoming our tooling. Computing hasn't changed much in [30+ years][11]. Text-based, operating system-enabled programming has been around for more than 50 years. That is, modern programmers could be warped back to the 1960s and placed in front of a teletype, and be comfortable and familiar with the tooling with a minimal amount of training! 
+One step toward flocking like starlings. 
 
-We like to brag about how quickly our industry moves compared to others, but the truth is that the fundamentals haven't changed much in a long, long time. Likewise, I'd bet that th
+### American Ideology
 
-However, our current computing tools won't get us there.
+I've come to the conclusion that the American ideology has one critical flaw: while we are told that any individual can create a dream life out of thin air, this is not true. There are constraints.
 
-A flock of starlings is my model for the future of computing:
+The times we are born in provide us with a very real Zeitgeist. Over the decades, civilization moves forward like a river. 
+So you'd like to make a career as a blacksmith in 2017? You are welcome to spend your life wading upstream against the current! 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DmO4Ellgmd0" frameborder="0" allowfullscreen></iframe>
+What I've noticed is that the real breakthroughs happen from riding the trends of the time.
+Neil Armstrong wouldn't have landed on the moon in 1969 had the USA been ahead of the Soviets in the space race.
+Apple would have been a very different company without the incredible amount of pent-up demand for a personal computer.
+id Software would have been just another struggling indie game developer had the Internet not enabled easy distribution of their shareware. And so on.
 
-In order to make this happen, we'll need to improve the state-of-the-art in distributed systems and networked computing.
+And so it comes to you and me. Here we are, being carried along by this wonderful current.
 
 ## The Ask
+
+### The Real Ask
+
+In order to make this happen, we'll need to improve the state-of-the-art in distributed systems and networked computing.
 
 Though I speak in lofty terms about the future of computing, every grand vision is rooted in the humblest of beginnings. Every wall starts with a single brick.
 
@@ -137,3 +259,11 @@ Let's build a future
 [23]: https://flatironschool.com/ "Flatiron School"
 [24]: https://www.blacksintechnology.net/ "Blacks in Technology"
 [25]: https://www.youtube.com/watch?v=4x8wTj-n33A "Steve Jobs: Bicycle for the Mind"
+[26]: https://youtu.be/TRZAJY23xio?t=1h5m19s "Steve Jobs: Computer as Most Important Invention"
+[27]: http://ieeexplore.ieee.org/document/5586457/ "Generating a novel sort algorithm using Reinforcement Programming"
+[28]: http://www.eso.org/public/images/potw1223a/ "ESO Hewlett Packard 2116 minicomputer.jpg"
+[29]: http://www.informit.com/articles/article.aspx?p=1235624 "What is Clean Code?"
+[30]: https://en.wikipedia.org/wiki/Waze "Waze"
+[31]: https://en.wikipedia.org/wiki/PrimeSense "Primesense"
+[32]: https://en.wikipedia.org/wiki/ICQ "ICQ"
+[33]: http://www.timesofisrael.com/israel-tech-exits-totaled-10-billion-in-2016-report/ "Times of Israel: Israel tech exits totaled $10 billion in 2016"
