@@ -3,7 +3,7 @@ layout: post
 title: Collaborative Computing 
 ---
 
-## The Vision
+## Setting the Stage
 
 [Software is eating the world][6], Moore's law [continues][18], and quantum computing is getting [closer to primetime][19]. With this incredible progress before us, it's hard not to feel the future is bright.
 
@@ -200,13 +200,43 @@ Indeed, thanks to this movement spearheaded by [Jeff Bezos][9], the world [incre
 
 The core reason is simple: coordinating large groups of humans is [impossibly][17] [difficult][16]; it's far easier to use networked programming interfaces as a means of communication/coordination. 
 
-APIs are, at least in theory, better-documented and more consistently-behaved than a handshake or a written agreement between two parties.
+APIs are, with a bit of elbow grease, better-documented and more consistently-behaved than a handshake or a written agreement between two humans.
 
 One step toward flocking like starlings. 
 
-### American Ideology
+## The Vision
 
-I've come to the conclusion that the American ideology has one critical flaw: while we are told that any individual can create a dream life out of thin air, this is not true. There are constraints.
+But what specifically needs to be improved? Where do we go from here?
+
+Off the top of my head, we need to make it much, much easier to,
+
+As an API provider:
+
+* Offer APIs to outside developers 
+* Receive compensation for use of your API 
+* Reach new customers
+
+As an API consumer:
+
+* Integrate external APIs 
+* Understand ROI / cost-benefit of using an external API
+* Discover/evaluate new APIs
+* Troubleshooting distributed systems 
+
+Open source is fantastic, but I'm a big believer in people being paid for their work
+
+Snow Crash and Ready Player One have given us prescient glimpses into a future where a diverse software economy offers a plethora of software and data services.
+
+By addressing these needs of API providers and consumers, we can help this become a reality.
+
+## The Ask
+
+
+### Surfing, Rather Than Wading Upstream
+
+In America, we are commonly told that any individual can create a dream life out of thin air! That anything we want is only a vision board away.  
+
+I've come to the conclusion that not all paths are created equal. There are limits to this process.
 
 The times we are born in provide us with a very real Zeitgeist. Over the decades, civilization moves forward like a river. 
 So you'd like to make a career as a blacksmith in 2017? You are welcome to spend your life wading upstream against the current! 
@@ -217,8 +247,6 @@ Apple would have been a very different company without the incredible amount of 
 id Software would have been just another struggling indie game developer had the Internet not enabled easy distribution of their shareware. And so on.
 
 And so it comes to you and me. Here we are, being carried along by this wonderful current.
-
-## The Ask
 
 ### The Real Ask
 
