@@ -266,22 +266,6 @@ Every system is a [legacy system][22] the day it ships. My dream is to help thes
 
 The road is long, but my hope is that this is the first step toward a future of collaborative computing.
 
-### Surfing, Rather Than Wading Upstream - NEEDS WORK
-
-In America, we are commonly told that any individual can create a dream life out of thin air! That anything we want is only a vision board away.  
-
-I've come to the conclusion that not all paths are created equal. There are limits to this process.
-
-The times we are born in provide us with a very real Zeitgeist. Over the decades, civilization moves forward like a river. 
-So you'd like to make a career as a blacksmith in 2017? You are welcome to spend your life wading upstream against the current! 
-
-What I've noticed is that the real breakthroughs happen from riding the trends of the time.
-Neil Armstrong wouldn't have landed on the moon in 1969 had the USA been ahead of the Soviets in the space race.
-Apple would have been a very different company without the incredible amount of pent-up demand for a personal computer.
-id Software would have been just another struggling indie game developer had the Internet not enabled easy distribution of their shareware. And so on.
-
-And so it comes to you and me. Here we are, being carried along by this wonderful current.
-
 [1]: https://triplebyte.com/ "Triplebyte"
 [2]: http://www.sam-network.org/video/rencontre-avec-peter-thiel?curation=1363.1 "Peter Thiel: Globalization vs Innovation"
 [3]: https://www.forbes.com/sites/ywang/2017/07/11/how-china-is-quickly-embracing-facial-recognition-tech-for-better-and-worse/#12d5e2c06856 "China Is Quickly Embracing Facial Recognition Tech, For Better And Worse"
