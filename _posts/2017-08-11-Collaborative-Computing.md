@@ -171,7 +171,7 @@ Skeptical? Consider his framework for biological and human systems. (Software pa
 
 2. Then, a **king** (Microsoft) gathers a huge mindshare of subjects (developers) to build great works and enforce the rule of law. 
 
-3. As communication/coordination becomes cheaper, wealth becomes more distributed and we see the rise of an **aristocracy** ("bazaar"-style open-source projects such as Linux and Apache). 
+3. As communication/coordination becomes cheaper (Subversion), wealth becomes more distributed and we see the rise of an **aristocracy** ("bazaar"-style open-source projects such as Linux and Apache). 
 
 4. With the advent of the cheaper communication such as the telegraph (Git), we move to a **democratic** system (branch & fork, "horizontal gene transfer" collaboration model). 
 
@@ -181,11 +181,11 @@ As an American, I'll admit I'm sad to think we'll lose our dominance, but, let's
 
 We've seen the power of increasing **diversity of supply** time and again, from Amazon.com to Wikipedia and open source software.
 
-So, my fellow American technologists, I hope we see that that it's human nature to prefer a higher **RELATIVE standing** than a higher ABSOLUTE standing. Similarly, I hope we can acknowledge that it's better for our civilization if we can move beyond this ["crab bucket"][21] mentality to think on a global level. 
+So, my fellow American technologists, I hope we see that it's human nature to prefer a higher **RELATIVE standing** than a higher ABSOLUTE standing. Similarly, I hope we can acknowledge that it's better for our civilization if we can move beyond this ["crab bucket"][21] mentality to think on a global level. 
 
 Idealism not working for you? Let's take on a more pragmatic viewpoint: if it's going to happen, we may as well make the most of it. :)
 
-Chairman Mao once [wrote][15], "**Let a hundred flowers bloom**; let a hundred schools of thought contend." Though he was speaking of political discourse, the future of our industry looks much the same: a constantly cross-pollinating proliferation of ideas and a constant ebb and flow of cooperation and competition.
+Chairman Mao once [wrote][15], "**Let a hundred flowers bloom**; let a hundred schools of thought contend." Though he was speaking of political discourse, the future of our industry looks much the same: a cross-pollinating proliferation of ideas in a constant ebb and flow of cooperation and competition.
 
 Could the next John Carmack come from outside the US?
 
@@ -205,7 +205,7 @@ Clearly, I'm not the only one who has this viewpoint.
 
 <center>
 <img src="../images/2017/07/CollaborativeComputing/Bezos3.jpg" />
-<em> Jeff Bezos: Father of Microservices? </em>
+<em> Jeff Bezos: Father of Microservices </em>
 <br />
 <p>
 </p>
@@ -240,31 +240,42 @@ As an API consumer:
 
 As mentioned before, open source is fantastic. However, in order for developers to be paid for their time, we need to have a strong **commercial engine** driving innovation. Recall that while the open source movement was started on the efforts of volunteers, and much of the work is still volunteer labor, keep in mind that a large chunk of high-profile open-source projects are run by a commercial steward, such as Google or Facebook.
 
-Snow Crash and Ready Player One have given us prescient glimpses into a future where a diverse **software economy** offers a plethora of software and data services. Though some aspects of these books may be anachronistic or fantastical, the core vision of a thriving software economy, fueled by seamless interoperability, is incredibly compelling and will seem **obvious in hindsight**.
+<center>
+<img src="../images/2017/07/CollaborativeComputing/SnowCrash.jpg" width="300" />
+<br />
+<em> From Burbclave to Metaverse, Commerce is King </em>
+<br />
+</center>
+
+
+*Snow Crash* and *Ready Player One* have given us prescient glimpses into a future where a diverse **software economy** offers a plethora of software and data services. Though some aspects of these books may be anachronistic or fantastical, the core vision of a thriving software economy, fueled by seamless interoperability, is incredibly compelling and will seem **obvious in hindsight**.
 
 By addressing these needs of API providers and consumers, we can help this become a reality.
 
-## CTA
-
-### The Real Ask
+## Laying the First Brick
 
 Though I speak in lofty terms about the future of computing, every grand vision is rooted in the humblest of beginnings. Every wall starts with a **single brick**.
 
 I'm sure that you have some ideas about which piece you'd be most interested in tackling! And I invite you to do so.
 
-As for me, the brick that I've chosen to lay first is the **development and maintenance of API client libraries**. 
-Creating a developer experience on par with Stripe or Twilio is a huge undertaking, from developing the API and client libraries, supporting them over time, and providing good documentation and sample code.
-My aim is to reduce this burden by taking one component off of developers' hands: the client library. In future, perhaps it'll be more, but I believe it's important to keep a laser-focus in the early days.
+<center>
+<img src="../images/2017/07/CollaborativeComputing/Brick.jpg" width="300" />
+<br />
+<em> We all have to start somewhere. </em>
+<br />
+<a href="https://commons.wikimedia.org/wiki/File:Brick_Bennett.jpg"> Source: Lowes.com </a> 
+<br />
+</center>
 
-I worked on the DoubleClick for Publishers API team at Google and had the humble job of maintaining and supporting the client libraries for that system. At the time, I admittedly didn't appreciate the experience, but it helped to give me the perspective I've needed to arrive here, starting this new venture.
+As for me, the brick that I've chosen to lay first is the **development and maintenance of API client libraries**. Creating a developer experience on par with Stripe or Twilio is a huge undertaking, from developing the API and client libraries, supporting them over time, and providing good documentation and sample code. My aim is to reduce this burden by taking one component off of developers' hands: the client library. In future, perhaps it'll be more, but I believe it's important to keep a laser-focus in the early days.
 
-To facilitate easy maintenance of these client libraries, I've built a client library generator that covers basic use cases. 
-The basic idea is to concentrate the definition of the API in an IDL (based on OpenAPI)
-It's a bit rough around the edges yet, but I am now working with an initial batch of clients
+I worked on the DoubleClick for Publishers API team at Google and had the humble job of maintaining and supporting the client libraries for that system. At the time, I admittedly didn't appreciate the experience, but it helped to give me the perspective I've needed to arrive here, starting this new venture. 
+
+To facilitate easy maintenance of these client libraries, I'm building atop OpenAPI. The basic idea is to concentrate the definition of the API in an IDL. It's a bit rough around the edges yet, but I'm excited for the future of this system. Idiomatic client libraries make integrating with a foreign system much more **seamless**, and I think there are new directions this technology may one day go in, especially given the rise of push-based systems, CQRS, et al.
 
 Every system is a [legacy system][22] the day it ships. My dream is to help these systems to stay useful and relevant for many years of dutiful service.
 
-The road is long, but my hope is that this is the first step toward a future of collaborative computing.
+The road is long, but my hope is that this is the **first step** toward a future of collaborative computing.
 
 [1]: https://triplebyte.com/ "Triplebyte"
 [2]: http://www.sam-network.org/video/rencontre-avec-peter-thiel?curation=1363.1 "Peter Thiel: Globalization vs Innovation"
