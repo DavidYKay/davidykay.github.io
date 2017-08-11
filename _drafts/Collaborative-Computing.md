@@ -3,37 +3,45 @@ layout: post
 title: Collaborative Computing 
 ---
 
-## Setting the Stage
-
 [Software is eating the world][6], Moore's law [continues][18], and quantum computing is getting [closer to primetime][19]. With this incredible progress before us, it's hard not to feel the future is bright.
 
-However, techno-optimism isn't the only nararative in town. The industry faces several hurdles, from the increasing challenges of packing more transistors into a smaller and smaller space to managing the complexity of parallel computing, but the problem in the tech industry that gets the most airtime is the colossal [talent shortage][7]. The best-funded firms aren't able to hire as quickly as they would like, and the less-well-funded firms are forced to settle for less-capable talent. 
+However, techno-optimism isn't the only nararative in town. The tech industry faces several **challenges**, from the increasing difficulty of packing more transistors into a smaller and smaller space to managing the complexity of parallel computing, but the problem in the tech industry that gets the most airtime is the colossal **[talent shortage][7]**. The best-funded firms aren't able to hire as quickly as they would like, and the less-well-funded firms are forced to settle for less-capable talent. 
 
 Thankfully, there are many organizations and individuals dedicated to closing the talent gap, primarily through new efforts in [education][23], [diversity][24], and [recruiting][1]. 
 
-Certainly there is always room for improvement, but I'd like to leave this side of the issue in these already-in-action capable hands.
+Certainly there is always **room for improvement**, but I'd like to leave this side of the issue (increasing supply of programmers) in these capable hands.
 
-I'd like to draw your attention today to a critical, related issue that few people discuss, or even acknowledge: the [tools][10] we are using aren't maximizing the effectiveness of our meager human brains.
+<center>
+<img src="../images/2017/07/CollaborativeComputing/HomerBrain.jpg" />
+<br />
+<em> Our limited mental faculties. </em>
+<br />
+</center>
 
-Before you dismiss this as mere hyperbole, consider that the tendrils of technology extend far beyond Silicon Valley, Facebook addiction, and the latest iDevice. No. The stakes are far higher.
+The other, critical side of the issue that few people discuss, or even acknowledge is that the **[tools][10]** we use aren't maximizing the effectiveness of our meager human **brains**.
 
-The health of our economy, all the way down to the average retirement plan, is [predicated on exponential technological growth][8].
+Before you dismiss this as mere hyperbole, consider that the tendrils of technology extend far beyond Silicon Valley, Facebook addiction, and the latest iDevice. No. The **stakes** are far higher than the stock price and cultural sway of a few high-profile tech giants.
 
-Thus, if we, the technologists, don't keep pace, many people will be left out in the cold.
+The **health of our economy**, all the way down to the average retirement plan, is [predicated on exponential technological growth][8].
 
-The good news is that we are faced with colossal opportunity to keep pace and to build a better future together.
+Thus, if we, the technologists, don't keep pace, many people will be left out in the cold. Put differently, we are entering a world in which, "when the tech industry sneezes, the world catches a cold."
+
+The good news is that we technologists are faced with the opportunity of a lifetime: to help the world keep pace and to build a better future together.
 
 So, I'd like to share my vision of where the world of computation is going and how you and I, can start making a difference, today.
 
 ### Tools
 
-It's all rooted in our tools. 
+My thesis: improving our development tools can completely change the game. 
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TRZAJY23xio?start=3900" frameborder="0" allowfullscreen></iframe>
+<img src="../images/2017/07/CollaborativeComputing/SteveJobs.jpg" />
+<br />
+<em> Steve Jobs Prognosticating in 1995 </em>
+<br />
 </center>
 
-Steve Jobs once argued that man's superpower is in building tools, likening the personal computer to a ["bicycle for the mind."][25] He goes on to argue that, ["of all the inventions of humans, the computer is going to rank near if not **at the top**."][26] So far, he's hard to discredit: the computer it has changed the face of virtually every human discipline. So much so that most people readily acknowledge that many jobs will, within our lifetime, be done entirely by computers.
+Steve Jobs once argued that man's superpower is in building tools, likening the personal computer to a ["bicycle for the mind."][25] He goes on to argue that, ["of all the inventions of humans, the **computer** is going to rank near if not **at the top**."][26] So far, Steve's prediction seems astute; the computer has changed the face of virtually every human discipline, so much so that popular opinion embraces the idea that; many acknowledge that many jobs will, within our lifetime, be performed by computers.
 
 What saddens me is that most of us are content with fixies when we could have *Ferraris*!
 
@@ -92,15 +100,19 @@ My model for the future of computing is a flock of starlings:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DmO4Ellgmd0" frameborder="0" allowfullscreen></iframe>
 </center>
 
-We each have our own individual voice and insight to contribute, but it's only by banding together as a whole that we as a species can achieve the unfathomable.
+We each have our own individual voice and insight to contribute, but it's only by **banding together** as a whole that we, as a species, can achieve the unfathomable.
 
 Apple relies on dozens and dozens of suppliers to produce a device.
-I'm using open-source packages from hundreds of contributors to publish this post right now.
+I'm using open-source contributions from hundreds of developers to publish this post right now.
 The packets that are carrying this post to you are being carried by many different intermediaries before they arrive on your screen.
+Google's servers index the work of nearly every author on the web and make it instantly available to everyone around the globe.
+Wikipedia is a collaboration of thousands of volunteers around the world, resulting in the world's best encyclopedia.
 
-I could go on, but my point is to highlight the beauty of cooperation that often goes unappreciated by my individualistic American mind. 
+I could go on, but my point is to highlight the beauty of **cooperation** that too-often goes unappreciated by my individualistic American mind. 
 
-And, likewise, this scale of coordination and cooperation is often considered unfathomable in software development.
+Unaided humans may never be able to rival the coordination of starlings, but we've had some success creating great works through the art of cooperation.
+
+Perhaps through the use of better tools, day-to-day software development can take full advantage of network effects?
 
 ### Globalization / Decentralization
 
@@ -128,9 +140,9 @@ In retrospect, this shouldn't be surprising, as we know that there is a diversit
 
 ##### Israel
 
-Also, while not a developing country, I'd like to call out **Israel** for creating a world-class technology ecosystem, pumping out hit after hit, including titans such as [ICQ][32], [Waze][30], and [Primesense][31]. 2016 was considered a slow year for them, with [$10 billion in startup exits][33]. For a country of only 8.5 million people, this is unbelievable. This is a very crude comparison, but given the United States' population of 323 million, we would have to produce **$400 billion** worth of tech exits annually to keep pace with Israel on a per-capita basis. On a slow year.
+Also, while not a developing country, I'd like to call out **Israel** for creating a world-class technology ecosystem, pumping out hit after hit, including titans such as [ICQ][32], [Waze][30], and [Primesense][31]. With [**$10 billion** in startup exits][33], 2016 was considered a *slow* year for them. For a country of only 8.5 million people, this is unbelievable. Here's a very crude comparison: given the United States' population of 323 million, we would have to produce **$400 billion** worth of tech exits annually to keep pace with Israel on a per-capita basis. 
 
-#### Why is Decentralization Happening?
+#### Why is Tech Decentralization Happening?
 
 Let's examine the nuts and the bolts more closely:
 
@@ -138,7 +150,7 @@ The plummeting cost of **communication** and **coordination** (Git, Slack) and t
 
 Also, the incredible proliferation of **smartphones** and **electronic payments** around the world mean that virtually everyone is becoming a user and customer of software, vastly growing the size of the digital economy.
 
-Critics remind me that the surging importance of AI will mean that **data-poor** startups will always lose the battle against the **data-rich** tech giants, leading to a complete centralization of power. However, the giants have ALWAYS had an edge in **funding** and **manpower**, and yet somehow ALWAYS find a way to fall **flat-footed**. Will data-as-firepower make this so different? I'm skeptical.
+Critics counter that the surging importance of AI will mean that **data-poor** startups will always lose the battle against the **data-rich** tech giants, leading to a complete centralization of power. However, the giants have ALWAYS had an edge in **funding** and **manpower**, and yet somehow ALWAYS find a way to fall **flat-footed**. Will data-as-firepower make this so different? I'm skeptical.
 
 So long as we can prevent an incumbent-take-all scenario, power, knowledge, and innovation will become increasingly distributed. The hegemony of America and Silicon Valley will continue to slowly erode as other innovators rise. 
 
@@ -148,7 +160,10 @@ It turns out that this trend of decentralization of power is not new.
 
 In fact, Dr. Gavin Wood, co-creator of Ethereum, makes a compelling [case][14] that the evolution of all social systems follows a similar pattern.
 
-[![Dr. Gavin Wood on Decentralization](../images/2017/07/CollaborativeComputing/GavinWoodGovernment.png)][14]
+<center>
+<img src="../images/2017/07/CollaborativeComputing/GavinWoodGovernment.png" />
+<em> Dr. Gavin Wood: Centralization -> Decentralization</em>
+</center>
 
 Skeptical? Consider his framework for biological and human systems. (Software parallels in parenthesis).
 
@@ -160,17 +175,17 @@ Skeptical? Consider his framework for biological and human systems. (Software pa
 
 4. With the advent of the cheaper communication such as the telegraph (Git), we move to a **democratic** system (branch & fork, "horizontal gene transfer" collaboration model). 
 
-#### What does it mean?
+#### What does it mean? 
 
 As an American, I'll admit I'm sad to think we'll lose our dominance, but, let's take a moment to remember that **everyone** will innovate more quickly if there is a truly global dialogue of computation. 
 
-Open-source benefits from having a larger contributor pool. Customers benefit from having a wider array of suppliers.
+We've seen the power of increasing **diversity of supply** time and again, from Amazon.com to Wikipedia and open source software.
 
-To my fellow American technologists, I'm sure this feels uncomfortable. After all, it's human nature to prefer a higher RELATIVE standing than a higher ABSOLUTE standing, but it's better for our civilization if we can move beyond the ["crab bucket"][21] mentality. 
+So, my fellow American technologists, I hope we see that that it's human nature to prefer a higher **RELATIVE standing** than a higher ABSOLUTE standing. Similarly, I hope we can acknowledge that it's better for our civilization if we can move beyond this ["crab bucket"][21] mentality to think on a global level. 
 
-To take a more pragmatic viewpoint: if it's going to happen, we may as well make the most of it.
+Idealism not working for you? Let's take on a more pragmatic viewpoint: if it's going to happen, we may as well make the most of it. :)
 
-Chairman Mao once [wrote][15], "Let a hundred flowers bloom; let a hundred schools of thought contend." Though he was speaking of political discourse, the future of our industry looks much the same: a constantly cross-pollinating proliferation of ideas and a constant ebb and flow of cooperation and competition.
+Chairman Mao once [wrote][15], "**Let a hundred flowers bloom**; let a hundred schools of thought contend." Though he was speaking of political discourse, the future of our industry looks much the same: a constantly cross-pollinating proliferation of ideas and a constant ebb and flow of cooperation and competition.
 
 Could the next John Carmack come from outside the US?
 
@@ -180,7 +195,7 @@ As with any paradigm shift, we cannot **leap** straight ahead to software develo
 
 No, we must **build our way there**, brick by brick, from the present.
 
-For now, I dismiss virtual reality programming environments and human language-driven approaches as not close enough to commercialization.
+While I'm sure that virtual reality programming environments and perhaps human language approaches will one day be highly influential, I dismiss them as not yet close enough to commercialization.
 
 #### Microservices
 
@@ -196,9 +211,9 @@ Clearly, I'm not the only one who has this viewpoint.
 </p>
 </center>
 
-Indeed, thanks to this movement spearheaded by [Jeff Bezos][9], the world [increasingly implements][12] a service-oriented architecture. 
+Indeed, thanks to this movement [spearheaded][9] by Jeff Bezos, the world increasingly implements a service-oriented architecture. 
 
-The core reason is simple: coordinating large groups of humans is [impossibly][17] [difficult][16]; it's far easier to use networked programming interfaces as a means of communication/coordination. 
+The core reason is simple: coordinating large groups of humans is [impossibly][17] [difficult][16]; it's far easier to use networked programming interfaces as a means of [communication/coordination][12].
 
 APIs are, with a bit of elbow grease, better-documented and more consistently-behaved than a handshake or a written agreement between two humans.
 
@@ -206,14 +221,14 @@ One step toward flocking like starlings.
 
 ## The Vision
 
-But what specifically needs to be improved? Where do we go from here?
+But what specifically about microservices / API development needs to be improved? Where do we go from here?
 
 Off the top of my head, we need to make it much, much easier to,
 
 As an API provider:
 
 * Offer APIs to outside developers 
-* Receive compensation for use of your API 
+* Receive compensation for use of one's API 
 * Reach new customers
 
 As an API consumer:
@@ -223,16 +238,35 @@ As an API consumer:
 * Discover/evaluate new APIs
 * Troubleshooting distributed systems 
 
-Open source is fantastic, but I'm a big believer in people being paid for their work
+As mentioned before, open source is fantastic. However, in order for developers to be paid for their time, we need to have a strong **commercial engine** driving innovation. Recall that while the open source movement was started on the efforts of volunteers, and much of the work is still volunteer labor, keep in mind that a large chunk of high-profile open-source projects are run by a commercial steward, such as Google or Facebook.
 
-Snow Crash and Ready Player One have given us prescient glimpses into a future where a diverse software economy offers a plethora of software and data services.
+Snow Crash and Ready Player One have given us prescient glimpses into a future where a diverse **software economy** offers a plethora of software and data services. Though some aspects of these books may be anachronistic or fantastical, the core vision of a thriving software economy, fueled by seamless interoperability, is incredibly compelling and will seem **obvious in hindsight**.
 
 By addressing these needs of API providers and consumers, we can help this become a reality.
 
-## The Ask
+## CTA
 
+### The Real Ask
 
-### Surfing, Rather Than Wading Upstream
+Though I speak in lofty terms about the future of computing, every grand vision is rooted in the humblest of beginnings. Every wall starts with a **single brick**.
+
+I'm sure that you have some ideas about which piece you'd be most interested in tackling! And I invite you to do so.
+
+As for me, the brick that I've chosen to lay first is the **development and maintenance of API client libraries**. 
+Creating a developer experience on par with Stripe or Twilio is a huge undertaking, from developing the API and client libraries, supporting them over time, and providing good documentation and sample code.
+My aim is to reduce this burden by taking one component off of developers' hands: the client library. In future, perhaps it'll be more, but I believe it's important to keep a laser-focus in the early days.
+
+I worked on the DoubleClick for Publishers API team at Google and had the humble job of maintaining and supporting the client libraries for that system. At the time, I admittedly didn't appreciate the experience, but it helped to give me the perspective I've needed to arrive here, starting this new venture.
+
+To facilitate easy maintenance of these client libraries, I've built a client library generator that covers basic use cases. 
+The basic idea is to concentrate the definition of the API in an IDL (based on OpenAPI)
+It's a bit rough around the edges yet, but I am now working with an initial batch of clients
+
+Every system is a [legacy system][22] the day it ships. My dream is to help these systems to stay useful and relevant for many years of dutiful service.
+
+The road is long, but my hope is that this is the first step toward a future of collaborative computing.
+
+### Surfing, Rather Than Wading Upstream - NEEDS WORK
 
 In America, we are commonly told that any individual can create a dream life out of thin air! That anything we want is only a vision board away.  
 
@@ -247,20 +281,6 @@ Apple would have been a very different company without the incredible amount of 
 id Software would have been just another struggling indie game developer had the Internet not enabled easy distribution of their shareware. And so on.
 
 And so it comes to you and me. Here we are, being carried along by this wonderful current.
-
-### The Real Ask
-
-In order to make this happen, we'll need to improve the state-of-the-art in distributed systems and networked computing.
-
-Though I speak in lofty terms about the future of computing, every grand vision is rooted in the humblest of beginnings. Every wall starts with a single brick.
-
-I'm currently building a cohort of early clients for this concept.
-
-My ask: please put me in touch with anyone in need of help with API development. Those building atop a legacy system go to the front of the queue. 
-
-Every system is a [legacy system][22] the day it ships. My dream is to help these systems to stay useful and relevant for many years of dutiful service.
-
-Let's build a future 
 
 [1]: https://triplebyte.com/ "Triplebyte"
 [2]: http://www.sam-network.org/video/rencontre-avec-peter-thiel?curation=1363.1 "Peter Thiel: Globalization vs Innovation"
