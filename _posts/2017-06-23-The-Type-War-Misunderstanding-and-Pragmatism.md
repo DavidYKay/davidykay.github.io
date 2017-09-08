@@ -95,7 +95,7 @@ Just tradeoffs.
 
 [1]: https://www.youtube.com/watch?v=XTl7Jn_kmio "Types are like the Weather, Type Systems are like Weathermen - Matthias Felleisen"
 [2]: http://discuss.purelyfunctional.tv/t/types-clojure-and-pain/585/8 "Types, Clojure, and pain"
-[3]: http://martintrojer.github.io/beyond-clojure/2016/04/19/beyond-clojure-preluden "Beyond Clojure: Prelude"
+[3]: http://martintrojer.github.io/beyond-clojure/2016/04/19/beyond-clojure-prelude "Beyond Clojure: Prelude"
 [4]: http://www.luna-lang.org/ "Luna: Visual and textual functional programming language"
 [5]: https://www.reddit.com/r/haskell/comments/2i4tmh/is_haskell_ever_going_to_feel_faster_to_write/ "Is Haskell ever going to feel faster to write than Clojure?"
 [6]: http://baatz.io/posts/haskell-in-a-startup/ "A founder's perspective on 4 years with Haskell"
