@@ -8,7 +8,7 @@ title: Accepting the Call to Adventure
 
 Dear friends, 
 
-After much [deliberation](//Comfort-With-Ambiguity/), I've decided to **decline** the [offer from Apple](../images/2017/05/AcceptingTheCall/offer.pdf).
+After much [deliberation](/Comfort-With-Ambiguity/), I've decided to **decline** the [offer from Apple](../images/2017/05/AcceptingTheCall/offer.pdf).
 
 Let it be known that I feel fear. Walking away from risk-free money is never an easy thing.
 
