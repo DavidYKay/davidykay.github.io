@@ -140,6 +140,6 @@ Now, scroll to the bottom of the panel and you should see the volume number list
 
 Now you can measure the volume of anything! You'll be the envy of Archimedes in no time.
 
-If this guide was helpful, please sign up for my [newsletter](//newsletter), where I share insight into mobile app development using 3d scanning.
+If this guide was helpful, please sign up for my [newsletter](/newsletter), where I share insight into mobile app development using 3d scanning.
 
 Want a video version of this tutorial? Let me know in the comments!
