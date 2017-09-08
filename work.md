@@ -16,7 +16,7 @@ Ex-Google startup veteran with an emphasis on clean code and innovation.
 
 ## Resume
 
-[Resume PDF](https://dl.dropboxusercontent.com/u/11816173/Resume.pdf)
+[Resume PDF](https://www.dropbox.com/s/f9uy27rtpk4doi3/Resume.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/davidykay/)
 
