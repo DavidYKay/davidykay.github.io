@@ -8,7 +8,7 @@ permalink: /work/
 
 To usher in the Singularity by helping technologists perform at the highest level.
 
-See [manifesto](//about/).
+See [manifesto](/about/).
 
 ## Summary
 
