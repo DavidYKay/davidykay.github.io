@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
-![David Y. Kay](http://s3.amazonaws.com/new.davidykay.com/img/wns-aug-2015-cropped.jpg)
+![David Y. Kay](/images/dk/wns.jpg)
 
 # Manifesto
 
@@ -25,4 +24,4 @@ By cultivating true technological mastery, I can help mankind pursue its deepest
 
 ## What
 
-In order to perform this service, I am the founder of [Merge Conflicts](https://www.mergeconflicts.com), providing code review to Clojure developers around the world.
+In order to perform this service, I'm developing ViaChat, a chat application designed to maximize the effectiveness of distributed development teams.

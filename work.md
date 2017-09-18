@@ -12,7 +12,7 @@ See [manifesto](/about/).
 
 ## Summary
 
-Ex-Google startup veteran with an emphasis on clean code and innovation.
+Hands-on technical leader focused on mobile app and server-side development, especially in an early-stage / R&D context.
 
 ## Resume
 
@@ -21,8 +21,6 @@ Ex-Google startup veteran with an emphasis on clean code and innovation.
 [LinkedIn](https://www.linkedin.com/in/davidykay/)
 
 ## Selected Projects
-
-* [Merge Conflicts](https://www.mergeconflicts.com) - Cultivating true technological mastery, one code review at a time.
 
 * [Bellesoma](http://bellesoma.com) - Precise measurements for breast surgery using 3D scanning w/ Structure Sensor & iPad.
 
@@ -35,7 +33,6 @@ Ex-Google startup veteran with an emphasis on clean code and innovation.
 * [EnHatch](http://www.enhatch.com) - iPad app for 3D med device sales & marketing.
 
 * [Otsuka](https://www.otsuka-us.com/discover/oapi) - iPad apps for med device and pharmaceutical detailing.
-
 
 ## Hackathon Results
 
@@ -117,7 +114,5 @@ Ex-Google startup veteran with an emphasis on clean code and innovation.
 ## Other 
 
 Check out my [hackathon presentations](https://www.youtube.com/watch?v=tXJhioQfUAc&list=PL87766F627E9999C0&index=7) for a good showcase of my personality and ability to whip things up in 24 hours.
-
-My [corporate website](http://www.gargoyle.co/) is shamefully out-of-date, but showcases some of my past work, plus some interview vids of me.
 
 These days, my blogging takes place on this site. So, feel free to [see what's on my mind](/).
