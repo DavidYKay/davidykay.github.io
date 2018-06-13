@@ -10,7 +10,7 @@ See [about](/about/).
 
 ## Summary
 
-Hands-on technical leader focused on mobile app and server-side development, especially in an early-stage / R&D context.
+Hands-on technical leader focused on software development in an R&D context.
 
 ## Resume
 
