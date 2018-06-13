@@ -4,24 +4,25 @@ title: About
 permalink: /about/
 ---
 
-![David Y. Kay](/images/dk/wns.jpg)
+![David Y. Kay](/images/dk/TurtleSquare1024.jpg)
 
-# Manifesto
+# Mission
 
-## Why
+I stand for the limitless power of human potential.  
 
-I believe in the limitless power of technology to unlock human potential.
+I believe that through our daily struggles, we can improve ourselves and each other, transcend our limitations, and become divine.  
 
-From the invention of stone tools, mankind has wielded technology to solve his problems. Over time, these once lifeless, alien objects have become an extension of man himself. 
+During my life on this planet, my mission is to elevate human consciousness to an new zenith.  
 
-However, the pace of progress is ever accelerating, while our humble flesh and blood treads water. Over the coming decades, rapid technological growth will usher in a new age which our forefathers could never hope to recognize. I see this coming age, known by some as the Technological Singularity, as the ultimate triumph of humanity, the victory of order over chaos, civilization over barbarism.
+# Core Values 
 
-## How
-
-I have dedicated my life to ushering in the Singularity by helping technologists perform at the highest level.
-
-By cultivating true technological mastery, I can help mankind pursue its deepest ambitions and truest dreams.
-
-## What
-
-In order to perform this service, I'm developing ViaChat, a chat application designed to maximize the effectiveness of distributed development teams.
+* Live by Principle: Establish a set of rules and follow them.
+* Pareto: human effort is limited. Find the highest leverage points and focus on them for an outsized impact.
+* Mutualism: "Win-win or no deal," for we live in the age of abundance.
+* Balance: "Specialization is for insects."
+* Substrate Matters: Whether it be the evolutionary origins of homo sapiens or the instruction set of a CPU, it's important to understand the bottom-up fundamentals.
+* Face Your Demons: Most of us live far below our potential. What keeps us back? Ourselves. To grow, we must face that which instills terror into our hearts.
+* Integrate: There is much innovation to be had at the intersection of disparate ideas.
+* Growth: "A man who's not busy being born is busy dying."
+* Generosity: In a highly-interconnected world, acts of charity can touch the lives of many.
+* Initiate: If you don't do it, who will?
