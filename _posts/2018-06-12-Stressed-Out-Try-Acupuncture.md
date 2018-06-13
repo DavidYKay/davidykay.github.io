@@ -3,8 +3,6 @@ layout: post
 title: Stressed Out? Try Acupuncture.
 ---
 
-## Intro
-
 A good friend of mine regularly undergoes acupuncture. She tells me that it's not only therapeutic but relaxing to sit in a chair with needles sticking into her body.
 
 Living in Vancouver, BC, when someone tells me she enjoys a needle in her arm, my mind doesn't immediately think of acupuncture... 
