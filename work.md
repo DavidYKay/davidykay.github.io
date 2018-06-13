@@ -22,6 +22,8 @@ Hands-on technical leader focused on mobile app and server-side development, esp
 
 ## Selected Projects
 
+* [WeedMaps](http://weedmaps.com) - Undisclosed project
+
 * [Bellesoma](http://bellesoma.com) - Precise measurements for breast surgery using 3D scanning w/ Structure Sensor & iPad.
 
 * [Bra Theory](https://bratheory.com) - Custom-made bras, tailored using 3D scanning w/ Structure sensor & iPad.
