@@ -6,9 +6,7 @@ permalink: /work/
 
 ## My Mission
 
-To usher in the Singularity by helping technologists perform at the highest level.
-
-See [manifesto](/about/).
+See [about](/about/).
 
 ## Summary
 
