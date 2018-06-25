@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![David Y. Kay](/images/dk/TurtleSquare1024.jpg)
+![David Y. Kay](/images/dk/WhiteShirt.jpg)
 
 # Mission
 
