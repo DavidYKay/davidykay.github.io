@@ -17,6 +17,29 @@ The result is that many of us are dying a death by 1000 cuts.
 
 The commitment that I'm making is to bear the pain.
 To take the "leap of faith"
+This is the kind of thing that doesn't FEEL good right away. It feels incredibly scary.
+
+However, I've realized that there are certain people out there who eminate an incredible strength. These are the individuals that could "stare the rust off a truck."
+What makes that core so strong?
+I think it's the incredibly deep sense of self-acceptance.
+
+For me, I've always aspired to be a good person, but I've let those little incongruencies in my behavior add up, and they are killing my psyche.
+
+"How can you be a good person if you haven't repaid this debt?"
+"How can you be a good person if you failed to apologize?"
+"How can you be a good person if you broke up in a cowardly way?"
+
+While I can't go back to the past, I can take the time to mend the wounds that still remain.
+
+I spent this weekend refunding the money for a product I never launched and, having done it, I can confidently say: I should have done so months ago. 
+I'm already feeling better about myself and am preparing to go back and deliberately right the wrongs that are still bothering me.
+I may have a ways to go yet, but this feels like the right path. The noble path.
+
+While I won't tell you what the right principles are to follow, I strongly suggest that you take the time to write them down and stick to them.
+
+Life is a chaotic, messy affair
+
+Luckily, there are some incredibly intelligent individuals who have spent a lot of time thinking about this kind of thing.
 
 # The Four Agreements
 
