@@ -71,13 +71,19 @@ To do so, I am taking the leap of faith that there will always be a job for an h
 
 # What's Next For Me
 
+## Clarifying my own Principles
+
 I'm dedicating some time each morning to puzzle about my principles. 
 
 I'm hoping that these can serve as a guideline for my decision making.
 
+## Deus Ex
+
 I'm also dedicating a lot of thought as of late to ask the question: can computers help humans live their best lives?
 
 Is there a way of having a computer hold you to account, so that you live life according to your own values?
+
+"The basic human need to be watched was once satisfied by God. Now, the same functionality can be replicated with data-mining algorithms."
 
 # What's Next For You
 
@@ -89,7 +95,25 @@ Life is a chaotic, messy affair
 
 Luckily, there are some incredibly intelligent individuals who have spent a lot of time thinking about this kind of thing.
 
+### The Ten Commandments
+
+An oldie but a goodie.
+
+0. I am the LORD thy God
+1. No other gods before me
+2. No graven images or likenesses
+3. Not take the LORD's name in vain
+4. Remember the sabbath day
+5. Honour thy father and thy mother
+6. Thou shalt not kill
+7. Thou shalt not commit adultery
+8. Thou shalt not steal
+9. Thou shalt not bear false witness
+10. Thou shalt not covet
+
 ### The Four Agreements
+
+[Don Miguel Ruiz][5]
 
 - Be Impeccable With Your Word
 - Don't Take Anything Personally
@@ -97,6 +121,8 @@ Luckily, there are some incredibly intelligent individuals who have spent a lot 
 - Always Do Your Best
 
 ### The Four-Way Test
+
+Rotary International advocates the use of the Four-Way Test
 
 1. Is it the truth?
 2. Is it fair to all concerned?
@@ -107,7 +133,14 @@ Luckily, there are some incredibly intelligent individuals who have spent a lot 
 
 Principles - Ray Dalio
 
+Ray Dalio also gives a 30-minutes mini-series on his life and the principles that he embraced along the way.
+
+Could be useful if you're more inclined to watch videos than read books:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9XGUpQZY38?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 [1]: https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=davidykay-20&linkId=593a2e2eb76182372cbb9f140ce953db "12 Rules for Life (Amazon)"
 [2]: https://en.wikipedia.org/wiki/The_Four-Way_Test "The Four-Way Test"
 [3]: https://www.principles.com/principles-for-success/#play "Ray Dalio - Principles for Success"
 [4]: https://hackernoon.com/living-a-principled-life-d7f83cef3ad1 "Living a Principled Life"
+[5]: https://en.wikipedia.org/wiki/Don_Miguel_Ruiz "Don Miguel Ruiz"
