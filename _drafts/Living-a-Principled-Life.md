@@ -35,7 +35,27 @@ I think it's the incredibly deep sense of self-acceptance.
 
 ## 7 Habits
 
-7 Habits of Highly Effective People
+The classic book, *7 Habits of Highly Effective People*, speaks to the importance of principles.
+
+Steven Covey, the author, contends that most of us make decisions from a center which leaves us off-balance and reacting to life.
+
+Some examples:
+
+* Spouse-centered
+* Family-centered
+* Money-centered
+* Work-centered
+* Pleasure-centered
+* Friend-centered
+* Self-centered
+
+"The personal power that comes fom principle-centered living is the power of a self-aware, knowledgeable, proactive individual, unrestricted by the attitudes, behaviors, and actions of others or by many of the circumstances and environmental influences that limit other people."
+
+His solution is a Principle-centered life.
+
+"correct principles do not change. We can depend on them."
+"Principles are deep, fundamental truths..."
+"Even in the midst of people or circumstances that seem to ignore the principles, we can be secure in our knowledge that principles are bigger than people or circumstances, and that thousands of years of history have seen them triumph, again and again."
 
 ## Bible
 
@@ -83,7 +103,13 @@ I'm also dedicating a lot of thought as of late to ask the question: can compute
 
 Is there a way of having a computer hold you to account, so that you live life according to your own values?
 
+One line serves as a particularly iconic embodiment of this idea:
 "The basic human need to be watched was once satisfied by God. Now, the same functionality can be replicated with data-mining algorithms."
+
+Chilling? Or inspiring?
+
+[Ray Dalio][6] finds this to be an uplifting vision of the future, as he has already incorporated such a practice at his company, Bridgewater
+
 
 # What's Next For You
 
@@ -144,3 +170,4 @@ Could be useful if you're more inclined to watch videos than read books:
 [3]: https://www.principles.com/principles-for-success/#play "Ray Dalio - Principles for Success"
 [4]: https://hackernoon.com/living-a-principled-life-d7f83cef3ad1 "Living a Principled Life"
 [5]: https://en.wikipedia.org/wiki/Don_Miguel_Ruiz "Don Miguel Ruiz"
+[6]: https://www.youtube.com/watch?v=HXbsVbFAczg "How to build a company where the best ideas win | Ray Dalio"
