@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/davidykay
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.davidykay.com
+  * I am davidykay (https://keybase.io/davidykay) on keybase.
+  * I have a public key ASD7C403dbFlYjsD0Y3g8c0CIbr1dpSumP9eqOClBlFMfQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202df346071f610246d7c1eed72e952354e1e297a64ce5cf118499c16403e7fcc30a",
+      "host": "keybase.io",
+      "kid": "0120fb0b8d3775b165623b03d18de0f1cd0221baf57694ae98ff5ea8e0a506514c7d0a",
+      "uid": "74a2500d5f75f28a2892b5c027ba7d19",
+      "username": "davidykay"
+    },
+    "merkle_root": {
+      "ctime": 1557625613,
+      "hash": "21f6c60aba755f0e174a1984576850e03aca3bb26fa9af69019fd5d61cef68903dc5c99d2a733cedb4b044e3e229248da62052fbd0c3bb9005f24d118ebbf938",
+      "hash_meta": "06f575d0b1d7fa109ec89c98c5271b2f99bf7c56fad4285bd498b8fb3fc20dbe",
+      "seqno": 5351790
+    },
+    "service": {
+      "entropy": "HgAYvkVYJZC+bt7wHCVNIL/X",
+      "hostname": "www.davidykay.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1557625621,
+  "expire_in": 504576000,
+  "prev": "4ed5c51266af60c752fcde2c3be8590657b2398a75f7b5e403dc22e14b6ca58d",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+wuNN3WxZWI7A9GN4PHNAiG69XaUrpj/XqjgpQZRTH0Kp3BheWxvYWTESpcCJsQgTtXFEmavYMdS/N4sO+hZBleyOYp197XkA9wi4UtspY3EIJ9j++Elon6+GjjEGtU9xnn49e87TDL73qvLMEcBFmVTAgHCo3NpZ8RAbW1ux56jMUBcqNbpP9lCCB7ETenmwzhv0nVh8eY9z055sZEO35QEBmpvVuQcLjiw98lGigpRzRUUQyZoSNx1CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ0/gDn2VoTcIkBzer6Qj14CPQQRewvllbjl2FlbetVeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davidykay
+
+==================================================================
