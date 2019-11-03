@@ -12,7 +12,7 @@ I stand for the limitless power of human potential.
 
 I believe that through our daily struggles, we can improve ourselves and each other, transcend our limitations, and become divine.  
 
-During my life on this planet, my mission is to elevate human consciousness to an new zenith.  
+During my life on this planet, my mission is to enable human consciousness to merge with technology.
 
 # Core Values 
 
