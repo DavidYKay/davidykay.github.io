@@ -15,6 +15,18 @@ I come from a line of devout Christians on my father's side of the family.
 
 My great-great-grandmother was involved in establishing some of the **earliest Christian churches in Korea**, and my *grandmother* was a huge Christian force in our family.
 
+<center>
+    <img src="../images/2020/01/Christianity/JesusWithCross.jpg" width="400" />
+    <em>
+    <p style="font-size: 0.9rem;font-style: italic;">
+    <a href="https://www.flickr.com/photos/39351564@N07/3721446340">"Parish Church of St Michael, Mitcheltroy, Window"</a><span> by <a href="https://www.flickr.com/photos/39351564@N07">imaginedhorizons</a></span> is licensed under <a href="https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-SA 2.0</a><a href="https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;">
+    <img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" />
+    <img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" />
+    <img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-sa_icon.svg" /></a></p>
+    </em>
+    <br />
+</center>
+
 My father took us to church every Sunday for many years and sang in the choir. When I asked him why we attended church, he replied, "Because there will be times in your life when all is dark. And in those times, you need to believe in something **greater than yourself**." So I begrudgingly put on my nicest clothes and woke up early on Sunday mornings in order to explore and build this belief in the divine.
 
 The experience was a mixed one, for sure. On the one hand, I really enjoyed Sunday school, where we'd have charismatic members of the church speaking about the Bible in plain English. And I've always enjoyed singing, so even though the hymns were a bit slow, old-timey, and sometimes hard to relate to, the experience of having a few hundred people singing, backed by an organ, was neat. 
@@ -26,6 +38,11 @@ Come to think of it, I also played the piano a few times at the church talent sh
 ### Dissonance
 
 But, the dissonant impression that I got was that, despite the outward actions of communion, love, and fellowship, there was a **deep fear** at the core of the belief system. That underneath all the singing, the animated, happy storytelling of the cufflinked investment banker Sunday school teacher, and, yes, even the free donuts, I had the deep sense that we were all running away from the ever-present threat of eternal damnation in *hell*.
+
+<center>
+    <img src="../images/2020/01/Christianity/Fear.png" width="400" />
+<p style="font-size: 0.9rem;font-style: italic;"><a href="https://svgsilh.com/ms/3f51b5/image/1940184.html">"panik"</a> is licensed under <a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC0 1.0</a><a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-cc0_icon.svg" /></a></p>
+</center>
 
 I sat with this dissonance for a long time, and when I was around age 12 or 13, I was enrolled in [confirmation][1] class, which marked the high-point of my involvement with the church. I was assigned a mentor, a peer group, and weekly homework assignments. 
 
@@ -41,17 +58,27 @@ Likewise, when my grandmother died in 2018, I had the **black-comical** experien
 
 And now, the good part. After the pastor spoke, my cousin, Jim, delivered a letter that grandma had written before her death.
 
+<center>
+    <img src="../images/2020/01/Christianity/Tombstone.png" width="400" />
+</center>
+
 The letter went something like this:
 
-> Hello to my beloved children and grandchildren,
-> I love you and miss you very much. I am so proud of each one of you.
-> I'm gone now, but I'm doing OK. Don't worry about me. 
-> I'm writing this letter because I have one last wish for each of you.
-> My favorite times have been when we are all gathered together as a family. How about for you? We can have those times again, you know. In heaven. All you have to do is to accept Jesus Christ as your lord and savior.
-> I've been praying for you every day for decades. I've been wishing for this every day. I think it'd be a wonderful step for each one of you. Will you do so? This is my only request. It will be good both for me and for you.
-> See you soon.
-> 
-> I love you,
+> Hello to my beloved children and grandchildren,  
+>   
+> I love you and miss you very much. I am so proud of each one of you.  
+>   
+> I'm gone now, but I'm doing OK. Don't worry about me.   
+>   
+> I'm writing this letter because I have one last wish for each of you.  
+>   
+> My favorite times have been when we are all gathered together as a family. How about for you? We can have those times again, you know. In heaven. All you have to do is to accept Jesus Christ as your lord and savior.  
+>   
+> I've been praying for you every day for decades. I've been wishing for this every day. I think it'd be a wonderful step for each one of you. Will you do so? This is my only request. It will be good both for me and for you.  
+>   
+> See you soon.  
+>   
+> I love you,  
 > Grandma
 
 The letter hit hard. I don't like letting people down, especially my family.
@@ -78,7 +105,7 @@ If you are also seeking, I hope that my experience, and the following letter, ma
 
 ## The Letter to my Aunt
 
-[Note: I have added italics, boldface, and have slightly reformatted the biblical quotes for aesthetic purposes. Other than these changes, it is exactly the email that I sent.]
+[Note: I have added italics, boldface, have put the biblical quotes in blockquotes, and have added illustrative images for aesthetic purposes. All of my words are what I wrote in the original email.]
 
 Hi [Auntie],
 
@@ -159,6 +186,12 @@ But was he the only one capable of such miracles?
 >  
 > -- John 14:12-14
 
+<center>
+    <img src="../images/2020/01/Christianity/Gardener.png" width="400" />
+<p style="font-size: 0.9rem;font-style: italic;"><a href="https://svgsilh.com/607d8b/image/2911261.html">"garden"</a> is licensed under <a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC0 1.0</a><a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-cc0_icon.svg" /></a></p>
+</center>
+
+
 So it seems that belief (and love) are more fundamental than a divine birth!
 
 John nods to this in his first epistle: 
@@ -175,13 +208,24 @@ Likewise, one of his teachings that I consider to be absolutely fundamental is t
 
 Next, this may not be the perfect articulation of my critique, but my impression is that many Christians take the concept of Original sin too far, seeing the world we inhabit as **"fallen,"** and, in many cases **"depraved."**
 
+<center>
+    <img src="../images/2020/01/Christianity/Tatuagem.png" width="400" />
+<p style="font-size: 0.9rem;font-style: italic;"><a href="https://svgsilh.com/pt/f44336/image/1326526.html">"tatuagem"</a> is licensed under <a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC0 1.0</a><a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-cc0_icon.svg" /></a></p>
+</center>
+
 I see a beautiful world.
 
 If we are all made in God's image, then why should the world we inhabit be inherently sinful and wrong? Why can't we **rebuild the Garden** here on Earth?
 
+
 ### Non-duality
 
 I'm concerned that this next point may be too ambitious, and that I won't properly do it justice, but I'm going to include it because I think it is an absolute tragedy that it is so misunderstood: several scientists are coming to the conclusion that **the nature of reality is non-dual**, and that our perceived experience of *separateness is merely an illusion* created by the ego-consciousness that emerges from our brain/mind. Many Eastern sages over the millennia have told us that it is so.
+
+<center>
+    <img src="../images/2020/01/Christianity/Garden.png" width="400" />
+<p style="font-size: 0.9rem;font-style: italic;"><a href="https://svgsilh.com/9c27b0/image/2416800.html">"garden"</a> is licensed under <a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC0 1.0</a><a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-cc0_icon.svg" /></a></p>
+</center>
 
 But what about the Bible?
 
@@ -211,7 +255,13 @@ Here's a personally-selected example:
 
 Is this not speaking about the oneness of humanity? Is this not hinting that the Spirit that each has access to is the same? I would even go so far as to say that this verse hints at the oneness of consciousness.
 
-If these arguments are falling flat, which I suspect they may, I ask you to investigate the work of Franciscan friar, [Father Richard Rohr][5]. In the following [video][6], he speaks briefly about the **misunderstanding/misinterpretation of the Bible** and the loss of non-dualistic thinking in the Christian mainstream.
+If these arguments are falling flat, which I suspect they may, I ask you to investigate the work of Franciscan friar, [Father Richard Rohr][5]. In the following video, he speaks briefly about the **misunderstanding/misinterpretation of the Bible** and the loss of non-dualistic thinking in the Christian mainstream.
+
+<br />
+<center>
+<iframe width="600" height="370" src="https://www.youtube.com/embed/fvg2DgjVgbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+<br />
 
 How tragic would it be if the message has been lost and adulterated through misunderstanding?
 
@@ -225,7 +275,13 @@ A. I have been steadily cultivating a deep relationship with God. And am derivin
 
 B. **I take on my burdens willingly**. You may have seen anguish, annoyance, or unrest in me, but I consciously take on these negative emotions and the challenges that I set for myself as one attaches a *yoke to an ox*.
 
+
 C. Yes, I am **knowingly keeping my father out of my life**. You seemed to be very upset about this. But you've also seen the pain that I've carried for most of my life about seeking his approval. This is a *deliberate separation* in order for me to move from *boy to man*. I was not old or mature enough to look for changes in my father when his/your father passed, but I suspect that it was a sobering moment which enabled him to take on a greater level of responsibility and authority in his own life.
+
+<center>
+    <img src="../images/2020/01/Christianity/Athletic.png" width="400" />
+<p style="font-size: 0.9rem;font-style: italic;"><a href="https://svgsilh.com/image/2897801.html">"athletic"</a> is licensed under <a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC0 1.0</a><a href="https://creativecommons.org/licenses/cc0/1.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-cc0_icon.svg" /></a></p>
+</center>
 
 *I am undertaking the same transition right now*. He wants nothing more than for me to live up to my full potential and to make him proud. I want the same. **The great irony** is that our interactions have been preventing me from achieving exactly what we both want. I suspect we both feel the pain of separation, but I firmly believe that this is the right step in the long-term, *for the good of all*. My father taught me through my upbringing that "sparing the rod spoils the child" and so I am living out what should prove to be my greatest act of "tough love" for the both of us.
 
@@ -252,7 +308,6 @@ Still, I am committed to this with or without you, my father, or anyone. This is
 
 Love,  
 David
-
 
 [1]: https://en.wikipedia.org/wiki/Confirmation "Confirmation"
 [2]: https://www.opc.org/sc.html "Catechisms"
