@@ -7,29 +7,105 @@ title: COVID-1984
 >  
 > -- Mark Twain (attributed)
 
-Before the stay-at-home order, I spent very little of my personal time and attention on politics and world affairs, thinking of it as an icky thing that other people can worry themselves with.
+Before the COVID-19 lockdowns, I spent very little of my time and attention on politics and world affairs, thinking of it as an icky thing that other people can worry themselves with.
 
-However, the loss of freedom, contradictory stories, and sharp rise in censorship captured my attention.
+However, the loss of freedom, contradictory stories, and sharp [rise in censorship][52] quickly captured my attention, causing me to ask, "What's really going on here?"
 
+And so, I've spent a great deal of time over the past several months trying to understand how the world came to be in its current state, where it's going, and what action that we, as a civilization, should undertake in order to keep humanity on a sane path.
+
+I make no claims to be a great philosopher or leader of men. However, I swear that I have come to the following conclusions after much research and deliberation, and will provide several references so that you can perform your own analysis.  
+
+## The Sugar Lie
+
+Before I proceed, I'd like to tell you a story about disinformation.
+
+You may have witnessed dietary advice recently shift from "fat is bad" to "sugar is bad."
+
+How did we get it so wrong last time?
+
+It turns out that the sugar industry [paid off][50] two researchers, using "approximately **$50,000** in today's dollars."
+
+Can you imagine the **decades of harm** that $50,000 dollars caused? The millions of people affected by health issues from following *deliberately* sabotaged health guidelines?
+
+What's worse, a [2016 study published in JAMA][51] finds that we aren't yet free of corrupt scientific inquiry, asking, "Is it really true that food companies deliberately set out to manipulate research in their favor? Yes, it is, and the practice continues."
+
+The study concludes, "Policymaking committees should consider giving less weight to food industry-funded studies." 
+
+More importantly, I suspect that this danger is not unique to the food industry.
 
 # The Media
 
+## Conformity
 
-## Sugar Industry - Two scientists paid off for tens of thousands
+We often hear that humans are "herd animals." That we are the "average of the five people we spend the most time with."
 
-[paid off]][50]
+Most of us have an instinct to fit in, and this has been [well-studied and exploited][53].
 
-Two researchers
+One of the most dangerous effects of this instinct is when we [DISREGARD our own judgment][54] due to [group pressure][55]. 
 
-"approximately $50,000 in today's dollars"
+I've caved to groupthink several times, myself. And I'm not proud of it.
 
-Can you imagine the decades of harm that $50,000 dollars caused? The millions of people affected by health issues from following DELIBERATELY sabotaged health guidelines?
+## 9/11 & GWOT
 
-[Marion Nestle][51]:
+Remember 9/11? 
 
-"Is it really true that food companies deliberately set out to manipulate research in their favor? Yes, it is, and the practice continues."
+I do. I was 13 at the time. I remember watching the towers fall perfectly symmetrically after planes had hit each one, leaving highly asymmetrical damage near the very top of the building.
 
-"Policymaking committees should consider giving less weight to food industry-funded studies," they write.
+I remember asking myself, "WTF? How could a total, symmetrical collapse occur after a small amount of damage was sustained at the top of the building?"
+
+But I looked around at my friends and family and they told me, "They would never lie to us!" 
+
+So, I pushed through my cognitive dissonance and went with the group. These were really smart people! My friends and family couldn't ALL be wrong...
+
+And so, I attended the patriotic memorial services and was in awe of the "Together we stand" messages that were posted everywhere.
+
+Congress passed the Patriot Act. It seemed to me like a big over-reaction. Like these heart-broken senators and congressmen were overwhelmed with grief for their fallen countrymen and felt that, in such a situation, it was OK to **temporarily** grant over-reaching surveillance powers to law enforcement.
+
+## Spending
+
+Looks like the joke was on us.
+
+Here we are, nearly 20 years later, and we never found any WMDs in Iraq, 801,000 are dead, and we've [spent $6.4 trillion][38], no end in sight.
+
+Not only is the "temporary" Patriot Act still in effect, we've grossly [expanded federal law enforcement][57], founded a [combat command dedicated to North America][56], and [killed habeus corpus][37].
+
+
+## Critics
+
+When I look back, were there people who smelled a rat at the time?
+
+There were.
+
+Around the world, many [large demonstrations][59] were held around the world, protesting the Iraq War as an [oil grab][58].
+
+These demonstrations, even those held in the United States, were dismissed as the actions of a ["vocal minority"][60].
+
+Indeed, it was not politically wise to speak out against the war in the early days.
+
+You may remember that many critics were shut down for speaking out against the narrative presented by the Bush administration and the media. That these people were labeled "unpatriotic, heartless, and unsympathetic" to the families who had lost their loved ones in this terrifying, hateful act.
+
+Some critical journalists were even [placed on the No Fly List][62].
+
+You may also remember the wave of xenophobic violence that broke out. Many [hate crimes][63] were perpetrated in the weeks following 9/11.
+
+Most interestingly, there was an incredible amount of contradictory information and redacted testimony.
+
+"It looked like a controlled demolition." "Just kidding, it wasn't."
+"Flight 11 is still in the air!" "No, flight 11 crashed."
+"WTC-7 has collapsed already!" "No, it didn't collapsed until 10 minutes later"
+"I heard explosions" "I definitely didn't hear explosions"
+
+
+Does any of this sound familiar?
+
+## Truth
+
+Did you know that thousands of [military officials][30], [pilots][28], and [architects][29] have voiced public criticism of the official explanation?
+
+Those of an engineering background may enjoy this [study][33] from the University of Alaska Fairbanks, which refutes the official WTC7 engineering study.
+
+Did you know that an [Israeli observation team][36] was set up in New Jersey around 8AM, approximately 45 minutes before the impact for the first tower?
+
 
 ## The Big Lie
 
@@ -78,11 +154,9 @@ Also, did you know that 90% of the 165 doctors interviewed on a recent London Re
 "Medical workers in #Brussels turn their back on their prime minister as sign of protest to the Covid19 lie & lockdown"
 https://twitter.com/Sejal92626937/status/1263720252875169792
 
-["U.S. Field Hospitals Stand Down, Most Without Treating Any COVID-19 Patients"][83]
-"Army Corps of Engineers mobilized in the U.S., hiring private contractors to build emergency field hospitals around the country."
+"U.S. Field Hospitals Stand Down, Most Without Treating Any COVID-19 Patients" "Army Corps of Engineers mobilized in the U.S., hiring private contractors to build emergency field hospitals around the country."
 Spent $660 Million
 
-CBS][86]
 
 #### Military Vaccination
 
@@ -91,7 +165,8 @@ President Trump announced two weeks ago that
 "We're mobilizing our military and other forces but we're mobilizing our military on the basis that we do have a vaccine. You know, it's a massive job to give this vaccine."
 
 "Our military is now being mobilized so at the end of the year we're going to be able to give it to a lot of people very, very rapidly," the president said. 
-[Reuters][72]
+
+- Reuters
 
 ### Testing facilities
 
@@ -501,25 +576,6 @@ The first was later in 1976, when instead of boxes of bottled vaccine, the vacci
 "governments will have to be involved because there will be some risk and indemnification needed.”
 
 
-## 9/11 & GWOT
-
-Remember 9/11? 
-
-That was the event that sent us into nearly twenty years of foreign war and [killed the fourth amendment][32]. You can make the argument that habeus corpus [also died][37] as a result.
-
-You may remember that many critics were shut down for speaking out against the narrative presented by the Bush administration and the media. That these people were unpatriotic, heartless, and unsympathetic to the families who had lost their loved ones in this terrifying, hateful act.
-
-You may also remember the wave of xenophobic violence that broke out. Many hate crimes were perpetrated in the weeks following 9/11.
-
-Americans held memorials. Patriotism reached a high point. I remember reading about the trend of "apocalypse sex," where New Yorkers were coupling up at a rapid rate in response to the memento mori event.
-
-Some analyses find that we've [spent $6.4 trillion][38] with no end in sight.
-
-Did you know that thousands of [military officials][30], [pilots][28], and [architects][29] have voiced public criticism of the official explanation?
-
-Those of an engineering background may enjoy this [study][33] from the University of Alaska Fairbanks, which refutes the official WTC7 engineering study.
-
-Did you know that an [Israeli observation team][36] was set up in New Jersey around 8AM, approximately 45 minutes before the impact for the first tower?
 
 ### NDAA
 
@@ -528,7 +584,7 @@ Did you know that an [Israeli observation team][36] was set up in New Jersey aro
 Could it be that 9/11 was a deliberate ploy in order to scare the American people into supporting a tyrannical agenda?
 
 It turns out that there have been several prior acts of deception perpetrated by governments, 
-including WW1, Vietnam,
+including [WW1][39], Vietnam,
 the USS Liberty,
 
 ## Berlin COVID
@@ -650,3 +706,47 @@ Bigger than WW2
 [49]: https://youtu.be/ttmlNyO850g "YouTube: Demo 1.8.2020 - BERLIN WIR KOMMEN - Tag der Freiheit"
 [50]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255 "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents"
 [51]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548251 "Food Industry Funding of Nutrition Research: The Relevance of History for Current Debates"
+[52]: http://www.davidykay.com/Censorship-Rising/ "Censorship Rising"
+
+[46]: https://archive.org/details/corona-demo-berlin-1.8.2020-ende-der-pandemie "Archive.org Berlin 1.8.2020 Corona Demonstration Ende der Plandemie"
+[47]: https://www.extremnews.com/berichte/vermischtes/ed3c17cbb4f5fff "1.8.2020: Der Tag der Freiheit - ein Erlebnisbericht"
+[48]: https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.extremnews.com%2Fberichte%2Fvermischtes%2Fed3c17cbb4f5fff "Extrem News: The Day of Freedom - an experience Report (translated)"
+[49]: https://youtu.be/ttmlNyO850g "YouTube: Demo 1.8.2020 - BERLIN WIR KOMMEN - Tag der Freiheit"
+[50]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255 "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents"
+[51]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548251 "Food Industry Funding of Nutrition Research: The Relevance of History for Current Debates"
+[52]: http://www.davidykay.com/Censorship-Rising/ "Censorship Rising"
+[46]: https://archive.org/details/corona-demo-berlin-1.8.2020-ende-der-pandemie "Archive.org Berlin 1.8.2020 Corona Demonstration Ende der Plandemie"
+[47]: https://www.extremnews.com/berichte/vermischtes/ed3c17cbb4f5fff
+[48]: https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.extremnews.com%2Fberichte%2Fvermischtes%2Fed3c17cbb4f5fff "Extrem News: The Day of Freedom - an experience Report (translated)"
+[49]: https://youtu.be/ttmlNyO850g "YouTube: Demo 1.8.2020 - BERLIN WIR KOMMEN - Tag der Freiheit"
+[50]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255 "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents"
+[51]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548251 "Food Industry Funding of Nutrition Research: The Relevance of History for Current Debates"
+[52]: http://www.davidykay.com/Censorship-Rising/ "Censorship Rising"
+[53]: https://www.youtube.com/watch?v=e7wc4z2QGKU "Groupthink and Why They NEED to Censor Us"
+[54]: https://www.youtube.com/watch?v=vrtqBpgPjiw "How YOU Can Crack the Conformity"
+[55]: https://en.wikipedia.org/wiki/Asch_conformity_experiments "Asch conformity experiments"
+[56]: https://en.wikipedia.org/wiki/United_States_Northern_Command "Wikipedia: USNORTHCOM"
+[57]: https://en.wikipedia.org/wiki/United_United "Wikipedia: United States Department of Homeland Security"
+[58]: https://www.socialistalternative.org/no-to-bushs-war-on-iraq/no-to-bushs-war-for-oil/ "No to Bush’s War for Oil!"
+[59]: https://en.wikipedia.org/wiki/Protests_against_the_Iraq_War "Wikipedia: Protests against the Iraq War"
+[50]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255 "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents"
+[51]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548251 "Food Industry Funding of Nutrition Research: The Relevance of History for Current Debates"
+[52]: http://www.davidykay.com/Censorship-Rising/ "Censorship Rising"
+[46]: https://archive.org/details/corona-demo-berlin-1.8.2020-ende-der-pandemie "Archive.org Berlin 1.8.2020 Corona Demonstration Ende der Plandemie"
+[47]: https://www.extremnews.com/berichte/vermischtes/ed3c17cbb4f5fff
+[48]: https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.extremnews.com%2Fberichte%2Fvermischtes%2Fed3c17cbb4f5fff "Extrem News: The Day of Freedom - an experience Report (translated)"
+[49]: https://youtu.be/ttmlNyO850g "YouTube: Demo 1.8.2020 - BERLIN WIR KOMMEN - Tag der Freiheit"
+[50]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255 "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents"
+[51]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548251 "Food Industry Funding of Nutrition Research: The Relevance of History for Current Debates"
+[52]: http://www.davidykay.com/Censorship-Rising/ "Censorship Rising"
+[53]: https://www.youtube.com/watch?v=e7wc4z2QGKU "Groupthink and Why They NEED to Censor Us"
+[54]: https://www.youtube.com/watch?v=vrtqBpgPjiw "How YOU Can Crack the Conformity"
+[55]: https://en.wikipedia.org/wiki/Asch_conformity_experiments "Asch conformity experiments"
+[56]: https://en.wikipedia.org/wiki/United_States_Northern_Command "Wikipedia: USNORTHCOM"
+[57]: https://en.wikipedia.org/wiki/United_United "Wikipedia: United States Department of Homeland Security"
+[58]: https://www.socialistalternative.org/no-to-bushs-war-on-iraq/no-to-bushs-war-for-oil/ "No to Bush’s War for Oil!"
+[59]: https://en.wikipedia.org/wiki/Protests_against_the_Iraq_War "Wikipedia: Protests against the Iraq War"
+[60]: https://www.washingtonpost.com/wp-dyn/content/article/2007/09/15/AR2007091500826.html "Washington Post: Dueling Demonstrations"
+[61]: https://www.thenation.com/article/archive/trump-terrorism-travel-watchlist/ "The Nation: Are Terrorism Watch Lists Expanding Under Trump?"
+[62]: https://www.salon.com/2003/07/25/no_fly_2/ "Salon 2003: Grounding the flying nun"
+[63]: https://www.sikhcoalition.org/images/documents/fact%20sheet%20on%20hate%20against%20sikhs%20in%20america%20post%209-11%201.pdf "The Sikh Coalition: Fact Sheet on Post-9/11 Discrimination and Violence against Sikh Americans"
