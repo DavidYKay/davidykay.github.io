@@ -3,17 +3,24 @@ layout: post
 title: '"They Would Never Lie to Us!"'
 ---
 
-John 8:32 states that "the **truth** shall be known to you, and the truth will set you free." 
+> And ye shall know the truth, and the truth shall make you free.  
+> -- John 8:32
 
 Over the next few posts, we're going to take a break from the usual topics of technology, entrepreneurship, and personal development to develop a better sense of what is going on in the world around us.
 
-In school, most of us are taught that the government are *servants* of the people. It seems that this lesson often develops into a sincere trust in government as I often hear intelligent, rational adults state confidently that, "We should trust our government!"
+In school, most of us are taught that the government are *servants* of the people. It seems that this teaching often develops into a sincere trust in government, as I often hear intelligent, rational adults state confidently that, "We should trust our government!"
 
-Today, we're going to take a look at a key event during the "Great War," the sinking of the RMS Lusitania, which proves that governments are capable of sacrificing innocent lives and then keeping the secret for decades.
+I wish this were true.
+
+Today, we're going to take a look at a key event during the "Great War," the sinking of the RMS Lusitania, which proves that governments are capable of sacrificing innocent lives and keeping the secret for decades.
 
 ## The Lusitania
 
 The RMS Lusitania was a large British steamship which was sunk by a German U-boat on May 7, 1915 while carrying passengers from New York to Liverpool.
+
+<center> 
+<img src="../images/2020/08/Lusitania/RMS_Lusitania.jpg" /> </center>
+<center> Lusitania  </center>
 
 1,198 civilians perished, including British, Canadian, and American citizens, which helped to turn public sentiment against Germany, eventually leading to the United States entry into WW1. 
 
@@ -33,7 +40,7 @@ As we know, Germany's sinking of the Lusitania did indeed change American public
 
 But the sinking of the ship was no mere accident.
 
-As early as 1915, Prime minister Winston Churchill took steps to endanger ships of Britain's trading partners, such as the United States, in the hopes that the Germans would sink them.
+As early as 1915, prime minister Winston Churchill deliberately took steps to endanger ships of Britain's trading partners, such as the United States, hoping that the Germans would sink them.
 
 Here's an excerpt from a letter that Churchill sent to Walter Runciman, President of the British Board of Trade, on 12 February 1915:
 
@@ -86,9 +93,7 @@ The German embassy decided to warn passengers not to sail aboard Lusitania, and 
 
 <center> 
 <img src="../images/2020/08/Lusitania/Lusitania_warning.jpg" /> </center>
-</a>
-<center> *Warning*  </center>
-<center> [Photo](https://commons.wikimedia.org/wiki/File:BahnhofsuhrZuerich_RZ.jpg) by [JuergenG](https://de.wikipedia.org/wiki/Benutzer:JuergenG) / CC BY-SA 3.0 </center>
+<center> Warning  </center>
 
     Notice!
     Travellers intending to embark on the Atlantic voyage are reminded that a state of war exists between Germany and her allies and Great Britain and her allies; that the zone of war includes the waters adjacent to the British Isles; that, in accordance with formal notice given by the Imperial German Government, vessels flying the flag of Great Britain, or any of her allies, are liable to destruction in those waters and that travellers sailing in the war zone on the ships of Great Britain or her allies do so at their own risk.
@@ -96,6 +101,20 @@ The German embassy decided to warn passengers not to sail aboard Lusitania, and 
     Washington, D.C. 22 April 1915 
 
 Notice that this this warning was printed adjacent to an advertisement for Lusitania's return voyage!
+
+### US Govt Response
+
+ However, a State Department officer ordered the warning’s publication suppressed. On April 26, George Viereck, representing the Germans, obtained an audience with Secretary of State William Jennings Bryan. Bryan immediately cleared the notice for publication, and also urged President Wilson to warn Americans. Wilson, however, always on the bankers’ puppet strings, declined to do so.
+
+[Link][10]
+
+### Public Skepticism
+
+ The effort to conceal the truth about the Lusitania’s munitions was only partially successful; many recognized that the British were using women and children to protect arms shipments – as State Department solicitor Cone Johnson put it, mixing “babies and bullets.”
+
+[Link][10]
+
+
 
 ## The Sinking
 
@@ -137,7 +156,7 @@ Germans were evil people for attacking it.
 
 ## Divers
 
-### Governmental Concern
+### Governmental Acknowledgement
 
 "Successive British governments have always maintained that there was no munitions on board the Lusitania (and that the Germans were therefore in the wrong to claim to the contrary as an excuse for sinking the ship)," wrote Noel Marshall, the head of the Foreign Office's North America department, on 30 July 1982.
 
@@ -145,13 +164,13 @@ Germans were evil people for attacking it.
 
 ### Diver Testimony
 
-As if the Lusitania hadn't suffered enough, the Royal Navy depth-charged the ship in the fifties, leaving her decks and hull pocked beyond recognition. "She's like Swiss cheese, and the seabed around her is littered with unexploded hedgehog mines," says Des Quigley, a Dublin-based technical diver who repeatedly dove the wreck, with Bemis's consent, back in the nineties. "At first we thought they were Champagne bottles—they were just rolling around on the bottom."
+As if the Lusitania hadn't suffered enough, the Royal Navy depth-charged the ship in the 1950s, leaving her decks and hull pocked beyond recognition. "She's like Swiss cheese, and the seabed around her is littered with unexploded hedgehog mines," says Des Quigley, a Dublin-based technical diver who repeatedly dove the wreck, with Bemis's consent, back in the nineties. "At first we thought they were Champagne bottles—they were just rolling around on the bottom."
 
 - [Men's Vogue][4]
 
 ## Additional Sources
 
-Please check out Spartacus Educational's excellent [page on the sinking of the Lusitania][14], which contains several primary sources.
+Please check out Spartacus Educational's excellent [page on the sinking of the Lusitania][5], which contains several primary sources.
 
 ## Conclusion
 
@@ -159,7 +178,7 @@ Please check out Spartacus Educational's excellent [page on the sinking of the L
 
 One common refutation of so-called "conspiracy theories" is that it's impossible for a federal government to keep a secret.
 
-"*How could so many people stay quiet?* It just can't happen," they say.
+"*How could so many people keep quiet?* It just can't happen," they say.
 
 Well, it looks like they are mistaken. The truth behind the Lusitania incident remained **hidden** for nearly 70 years.
 
@@ -176,3 +195,4 @@ So, when a friend gives you a funny look and tells you, "they would never lie to
 [7]: https://heritagecalling.com/2017/02/01/britain-on-the-brink-of-starvation-unrestricted-submarine-warfare/ "Britain on the Brink of Starvation: Unrestricted Submarine Warfare"
 [8]: https://www.quora.com/What-if-the-USA-never-entered-WW1?share=1 "Quora: What if the USA never entered WW1?"
 [9]: https://time.com/5406235/everything-you-know-about-how-world-war-i-ended-is-wrong/ "Everything You Know About How World War I Ended Is Wrong"
+[10]: https://jamesperloff.com/2014/05/21/false-flag-at-sea/ "James Perloff: False Flag at Sea"
