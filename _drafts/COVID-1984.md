@@ -7,6 +7,8 @@ title: COVID-1984
 >  
 > -- Mark Twain (attributed)
 
+## A New Researcher
+
 Before the COVID-19 lockdowns, I spent very little of my time and attention on politics and world affairs, thinking of it as an icky thing that other people can worry themselves with.
 
 However, the loss of freedom, contradictory stories, and sharp [rise in censorship][52] quickly captured my attention, causing me to ask, "What's really going on here?"
@@ -15,9 +17,11 @@ And so, I've spent a great deal of time over the past several months trying to u
 
 I make no claims to be a great philosopher or leader of men. However, I swear that I have come to the following conclusions after much research and deliberation, and will provide several references so that you can perform your own analysis.  
 
-## The Sugar Lie
+# Prior Lies
 
-Before I proceed, I'd like to tell you a story about disinformation.
+## Prologue: The Sugar Lie
+
+Before I get into the main point, I'd like to tell you a story about disinformation.
 
 You may have witnessed dietary advice recently shift from "fat is bad" to "sugar is bad."
 
@@ -33,17 +37,19 @@ The study concludes, "Policymaking committees should consider giving less weight
 
 More importantly, I suspect that this danger is not unique to the food industry.
 
-# The Media
+## World War 1: Lusitania
 
-## Conformity
+World War I – which was the first global war, and claimed as many as 65 million lives 
 
-We often hear that humans are "herd animals." That we are the "average of the five people we spend the most time with."
+RMS Lusitania
 
-Most of us have an instinct to fit in, and this has been [well-studied and exploited][53].
+[82]
 
-One of the most dangerous effects of this instinct is when we [DISREGARD our own judgment][54] due to [group pressure][55]. 
+## Vietnam: Gulf of Tonkin
 
-I've caved to groupthink several times, myself. And I'm not proud of it.
+### Written BEFORE the incident
+### No actual enemy
+### Second event falsified
 
 ## 9/11 & GWOT
 
@@ -55,13 +61,15 @@ I remember asking myself, "WTF? How could a total, symmetrical collapse occur af
 
 But I looked around at my friends and family and they told me, "They would never lie to us!" 
 
-So, I pushed through my cognitive dissonance and went with the group. These were really smart people! My friends and family couldn't ALL be wrong...
+So, I pushed through my cognitive dissonance and went with the group. These were really smart people! My friends and family couldn't ALL be wrong... right?
 
-And so, I attended the patriotic memorial services and was in awe of the "Together we stand" messages that were posted everywhere.
+And so, I attended the patriotic memorial services and was in awe of the "United we stand" messages that were posted everywhere.
 
-Congress passed the Patriot Act. It seemed to me like a big over-reaction. Like these heart-broken senators and congressmen were overwhelmed with grief for their fallen countrymen and felt that, in such a situation, it was OK to **temporarily** grant over-reaching surveillance powers to law enforcement.
+Congress passed the Patriot Act. It seemed to me like a big over-reaction. Like these heart-broken senators and congressmen were overwhelmed with grief for their fallen countrymen and felt that, in such a situation, it was OK to **temporarily** grant over-reaching surveillance powers to law enforcement. 
 
-## Spending
+(The Patriot Act was meant to last for four years.)
+
+### Bamboozled
 
 Looks like the joke was on us.
 
@@ -69,8 +77,7 @@ Here we are, nearly 20 years later, and we never found any WMDs in Iraq, 801,000
 
 Not only is the "temporary" Patriot Act still in effect, we've grossly [expanded federal law enforcement][57], founded a [combat command dedicated to North America][56], and [killed habeus corpus][37].
 
-
-## Critics
+### Punishment of Critics
 
 When I look back, were there people who smelled a rat at the time?
 
@@ -84,9 +91,30 @@ Indeed, it was not politically wise to speak out against the war in the early da
 
 You may remember that many critics were shut down for speaking out against the narrative presented by the Bush administration and the media. That these people were labeled "unpatriotic, heartless, and unsympathetic" to the families who had lost their loved ones in this terrifying, hateful act.
 
-Some critical journalists were even [placed on the No Fly List][62].
+Several journalists critical of the Bush Administration were [placed on a "selectee" list][62] for additional airport screenings. News stories about this list indicate that political opposition to the regime is the only requirement for admittance.
 
-You may also remember the wave of xenophobic violence that broke out. Many [hate crimes][63] were perpetrated in the weeks following 9/11.
+Some individuals critical of 9/11 and the NDAA have even been [placed on the No Fly List][65], seemingly for political reasons.
+
+### Engineered for Jet impact
+
+
+> The building was designed to have a fully loaded 707 crash into it. That was the largest plane at the time. I believe that the building probably could sustain multiple impacts of jetliners because this structure is like the mosquito netting on your screen door -- this intense grid -- and the jet plane is just a pencil puncturing that screen netting. It really does nothing to the screen netting.
+>  
+> -- Frank A. Demartini
+
+interview on January 25, 2001
+WTC Construction manager
+[87]
+
+"live loads on these [perimeter] columns can be increased more than 2000% before failure occurs."
+
+[88]
+
+### Near-free fall Speed
+
+
+
+### Contradictory Information
 
 Most interestingly, there was an incredible amount of contradictory information and redacted testimony.
 
@@ -96,130 +124,65 @@ Most interestingly, there was an incredible amount of contradictory information 
 "I heard explosions" "I definitely didn't hear explosions"
 
 
+
+### Eyewitness Testimony
+
+Plenty of [eyewitness testimony][85] from firefighters and EMTs was suppressed until the New YOrk TImes won a FOIA lawsuit against NYC in 2005. Original transcripts [here][86].
+
 Does any of this sound familiar?
 
-## Truth
+### Saudi Nationals
+
+Sitting around in Saudi Arabia, never have been to USA. Alive and well.
+
+### Truth
 
 Did you know that thousands of [military officials][30], [pilots][28], and [architects][29] have voiced public criticism of the official explanation?
 
 Those of an engineering background may enjoy this [study][33] from the University of Alaska Fairbanks, which refutes the official WTC7 engineering study.
+For those who don't want to get in the w
 
-Did you know that an [Israeli observation team][36] was set up in New Jersey around 8AM, approximately 45 minutes before the impact for the first tower?
+Did you know that an [Israeli observation team][36] was set up in New Jersey around 8AM, approximately 45 minutes before the impact for the first tower? A [story][84] from Scotland's Sunday Herald reports that at least two were working for the Israeli Mossad.
 
+Here's a summary of the evidence collected by Architects & Engineers for 9/11 Truth:
 
-## The Big Lie
+1. Rapid onset of destruction
+2.  Destruction occurred at near free-fall pace
+3.  Destruction followed path of greatest resistance
+4.  Perimeter column steel ejected laterally up to 500 feet
+5.  Blast waves blew out windows 400 ft away
+6.  118 first responders report explosions at onset of destruction
+7.  Numerous eyewitness reports of flowing molten metal in rubble
+8.  Mid-air pulverization of concrete with outward-arching plumes
+9.  Rapid expansion & pyroclastic flow of enormous dust clouds
+10. Squibs: explosive ejections 40 stories below impact zone
+11. Total dismemberment of steel core column structures
+12. 1200 ft diameter symmetrical debris field
+13. Chemical evidence of thermate on steel and in dust samples
+14. FEMA steel analysis: sulfidation, oxidation & intergranular melting
+15. No precedent for steel frame highrise collapse coaused by fire
 
-> Nothing can now be believed which is seen in a newspaper. Truth itself becomes suspicious by being put into that polluted vehicle. 
->  
-> -- Thomas Jefferson
+### Xenophobia
 
-
-
-> if all others accepted the lie which the Party imposed—if all records told the same tale—then the lie passed into history and became truth.
->
-> -- George Orwell, 1984
-
-## Censorship
-
-## Media Mentions vs Deaths
-
-## Operation Mockingbird
-
-# Nonsensical Health Guidelines
-
-## False Quarantine
-
-Over the last 11 weeks, most of us have been kept in our homes and away from our jobs.
-
-Our governor, Jay Inslee, announced to us on March 24, “This is a human tragedy on a scale we cannot yet project. It’s time to hunker down in order to win this fight,” Inslee said during a televised address."
-
-What he failed to mention is that that "scale we cannot yet project" might be have been much smaller than we thought.
-
-**Do you believe COVID-19 death counts are factual: 0%**
-
-### Quarantining healthy people
-
-**First time quarantining healthy people**
-
-Also, did you know that 90% of the 165 doctors interviewed on a recent London Real episode believe that:
-
-* **Social distancing has no scientific basis whatsoever: 90%**, 
-* **"Wearing of a mask is contributing to the suppression the immune system: 95%"**
-
-#### Military Hospitals
-
-"$21 million hospital built for coronavirus victims in New York closes without ever seeing a patient"
--Kiro7 News
-
-"Medical workers in #Brussels turn their back on their prime minister as sign of protest to the Covid19 lie & lockdown"
-https://twitter.com/Sejal92626937/status/1263720252875169792
-
-"U.S. Field Hospitals Stand Down, Most Without Treating Any COVID-19 Patients" "Army Corps of Engineers mobilized in the U.S., hiring private contractors to build emergency field hospitals around the country."
-Spent $660 Million
+You may also remember the wave of xenophobic violence that broke out. Many [hate crimes][63] were perpetrated in the weeks following 9/11.
 
 
-#### Military Vaccination
+# Medical Industry: A History of Malpractice
 
-President Trump announced two weeks ago that 
-
-"We're mobilizing our military and other forces but we're mobilizing our military on the basis that we do have a vaccine. You know, it's a massive job to give this vaccine."
-
-"Our military is now being mobilized so at the end of the year we're going to be able to give it to a lot of people very, very rapidly," the president said. 
-
-- Reuters
-
-### Testing facilities
-
-Project Veritas: 
-"CBS This Morning aired fake COVID patients"
-Showed using fake patients
-
-#### Crematoriums
-
-Jeff Berwick, an American expatriate, personally drove to Mexico City after
-seeing news stories on TV about Mexico City crematoriums being overrun with bodies, and smoke stacks constantly burning. When he arrived, he encountered facilities with no obvious sign of activity, a lone security guard wearing a mask, and yellow caution tape advising people to stay away.
-https://www.bitchute.com/video/gQKpjRrQ9KGR/
-
-# Corruption of Healthcare Industry
+> "Never let a crisis to go to waste" 
+> -- Rahm Emanuel
 
 Until recently, I didn't know much about the vaccine industry, but the recent insistence that we ALL stay in our homes and don't develop natural immunity to the virus and wait around until we are innoculated with a vaccine made me very curious.
 
-## 1986 National Childhood Vaccine Injury Act
+## Bill Gates: Crimes Against Humanity
 
-1980s vaccine industry comes to congress, asks for bailout.
-They were getting HAMMERED by lawsuits!!!
-"We can't afford to be in business"
-Congress bailed them out.
+[Sara Cunial][54], an Italian MP recently accused Bill Gates of "Crimes Against Humanity."
 
-Government then took up the responsibility for vaccination. Promised to perform safety studies every 2 years.
+Why is this?
 
-According to Dr. Rashid Buttar, "Number of safety studies conducted: 0"
+## Gates on COVID vaccine
 
-No liability. Guaranteed income.
-**Defendant is now: HHS!!!**
-**DOJ defends HHS!!!**
-
-Fighting our own government because we've been injured by something that THEY'VE mandated.
-NO LIABILITY.
-
-1986 National Childhood Vaccine Injury Act
-[wikipedia][6]
-
-"... so the industry got together and manufacturers said, holy cow, now we have a product that has no liability, and that’s the biggest cost for drugs.
-o they said, number one, we don’t have to test it, that’s a huge cost avoided.  Number two, there’s no liability and that’s the biggest cost avoided.  Number three, there’s no marketing or advertising costs, because it’s mandated.  So it’s just like printing money."
-
-" you can get a vaccine on the CDC’s recommended schedule it averages about a billion dollars annually in pure profits for your company .  When I was a kid I got three vaccines and was fully compliant and today’s kids get 72 vaccines."
-
-- Bobby Kennedy, Jr.
-
-## PREP Act
-
-declared public health emergency:
-
-"immunity from liability (except for willful misconduct) for claims of loss caused, arising out of, relating to, or resulting from administration or use of
-countermeasures to diseases, threats and conditions determined 
-
-"entities and individuals involved in the development, manufacture, testing, distribution, administration, and use of such countermeasures."
+"governments will have to be involved because there will be some risk and indemnification needed.”
 
 ## Gates
 
@@ -241,24 +204,6 @@ In a 2017 study funded by the Danish International Development Agency and the No
 This vaccine was [dropped by western nations in in 1990s][75], "following thousands of reports of death and brain damage,"
 
 but, according to their 2018 Annual report, GAVI (a Gates-backed "global alliance for vaccines and immunization") was still administering three doses of DTP vaccine to African youth, claiming a coverage of 64 million african children. [76]
-
-### India: 490K Paralysis
-
-paralysis between 2000 and 2017 - oral polio vaccine (OPV)
-
-A study published in the International journal of Environmental Research and Public Health found that:
-
-The correlation between trailing 5-years vaccine doses with the incidence of non-polio acute flaccid paralysis was extremely strong with an R-value of (0.76) p value < 0.001.
-
-Their research strongly suggests that 490,000 vaccinated Indian youth developed paralysis as a result of polio vaccination. 
-
-They conclude, very diplomatically, "that this finding will help continue efforts at optimizng the dose schedule of [polio vaccine] administration  and result in a reduction in [paralysis]."
-
-[Indian paralysis][19] 
-
-2017 - [Indian govt reduces Gates Foundation immunization funding] [18]
-
-Why reduce funding if it's working?
 
 ## Kenya
 
@@ -289,6 +234,268 @@ Why reduce funding if it's working?
  "even before FP2020, Depo-Provera was already the most widely used contraceptive in many sub-Saharan African countries. Nevertheless, studies had indicated that there were risks. DMPA, the active ingredient in Depo, had been linked with loss of bone density, significant menstrual irregularities, and an increased risk of breast cancer. More troubling, especially for countries with high HIV rates, was some early evidence that DMPA may increase a user's risk of acquiring HIV."
  - [PSMag][27]
 
+### India: 490K Paralysis
+
+paralysis between 2000 and 2017 - oral polio vaccine (OPV)
+
+A study published in the International journal of Environmental Research and Public Health found that:
+
+The correlation between trailing 5-years vaccine doses with the incidence of non-polio acute flaccid paralysis was extremely strong with an R-value of (0.76) p value < 0.001.
+
+Their research strongly suggests that 490,000 vaccinated Indian youth developed paralysis as a result of polio vaccination. 
+
+They conclude, very diplomatically, "that this finding will help continue efforts at optimizng the dose schedule of [polio vaccine] administration  and result in a reduction in [paralysis]."
+
+[Indian paralysis][19] 
+
+2017 - [Indian govt reduces Gates Foundation immunization funding] [18]
+
+Why reduce funding if it's working?
+
+### Indemnification
+
+## 1970s Swine Flu immunization
+
+hopes to immunize "every man, woman, and child."
+
+The first was later in 1976, when instead of boxes of bottled vaccine, the vaccine manufacturers delivered an ultimatum—that the federal government indemnify them against claims of adverse reactions as a requirement for release of the vaccines. The government quickly capitulated to industry's demand for indemnification.
+
+"NIIP administered a program that immunized 45 million in 10 weeks, which resulted in doubling the level of immunization for persons deemed to be at high risk, rapidly identifying adverse effects, and developing and administering an informed consent form for use in a community-based program."
+
+
+## 1986 National Childhood Vaccine Injury Act
+
+
+1980s vaccine industry comes to congress, asks for bailout.
+They were getting HAMMERED by lawsuits!!!
+"We can't afford to be in business"
+Congress bailed them out.
+
+Government then took up the responsibility for vaccination. Promised to perform safety studies every 2 years.
+
+According to Dr. Rashid Buttar, "Number of safety studies conducted: 0"
+
+No liability. Guaranteed income.
+**Defendant is now: HHS!!!**
+**DOJ defends HHS!!!**
+
+Fighting our own government because we've been injured by something that THEY'VE mandated.
+NO LIABILITY.
+
+1986 National Childhood Vaccine Injury Act
+[wikipedia][6]
+
+"... so the industry got together and manufacturers said, holy cow, now we have a product that has no liability, and that’s the biggest cost for drugs.
+o they said, number one, we don’t have to test it, that’s a huge cost avoided.  Number two, there’s no liability and that’s the biggest cost avoided.  Number three, there’s no marketing or advertising costs, because it’s mandated.  So it’s just like printing money."
+
+" you can get a vaccine on the CDC’s recommended schedule it averages about a billion dollars annually in pure profits for your company .  When I was a kid I got three vaccines and was fully compliant and today’s kids get 72 vaccines."
+
+- Bobby Kennedy, Jr.
+
+
+
+
+
+
+# Media
+
+As it turns out, the media has been lying to us for a long time.
+
+> Nothing can now be believed which is seen in a newspaper. Truth itself becomes suspicious by being put into that polluted vehicle. 
+>  
+> -- Thomas Jefferson
+
+## Communist Propaganda
+
+In America, we take it for granted that those poor SOBs in Russia and China have to live with government-controlled media, which is actively feeding propaganda to its citizens.
+
+We even like to chuckle at the communist propaganda posters, which are almost comical in how grandiose they are.
+
+## Neutrality of Media
+
+In modern America, we are raised to believe that journalism is objective and unbiased.
+
+However, this is unique to our country during recent history. 
+In Russia, for example, XYZZY
+
+In older times in the USA, newspapers were known to have a bias.
+
+## The Big Lie
+
+How is it that they could get away with this?
+
+> if all others accepted the lie which the Party imposed—if all records told the same tale—then the lie passed into history and became truth.
+>
+> -- George Orwell, 1984
+
+### Human Weakness: Conformity
+
+We often hear that humans are "herd animals." That we are the "average of the five people we spend the most time with."
+
+Most of us have an instinct to fit in, and this has been [well-studied and exploited][53].
+
+One of the most dangerous effects of this instinct is when we [DISREGARD our own judgment][54] due to [group pressure][55]. 
+
+I've caved to groupthink several times, myself. And I'm not proud of it.
+
+
+### Ownership Structure
+
+One common counter-argument is:
+
+Won't the various parties counter-point one another to bring the truth to light?
+
+Six companies own the vast majority of mainstream media.
+
+### CFR / Bilderberg / Trilateral Commission
+
+To make matters worse, the top executives of these media companies are known to attend meetings of the Bilderberg Group, The Council on Foreign Relations, and the Trilateral Commision.
+
+An in-depth investigation of these organizations is beyond the scope of this article, but I highly suggest you take the time to look into their significance.
+
+The Bilderberg Group
+
+The Council on Foreign Relations
+
+The Trilateral Commission
+
+## Government Involvement
+
+### National Security Letter
+
+### CIA working with Hollywood
+
+[Al Jazeera][69]
+
+### Operation Mockingbird
+
+[Operation Mockingbird][72]
+
+[Article][70]
+
+"this is extremely dangerous to our democracy."
+[possible Mockingbird demonstration][67]
+
+["Mika Brzezinski: It's our job to control what people think"][68]
+
+## Censorship
+
+If there are too many dissenting voices, 
+
+## Language Warfare
+
+* Covidiot
+* COVID denier
+* Anti-masker
+
+These terms frame the debate such that 
+
+## Wikipedia
+
+As early as 2008, I knew young people working on Capital Hill who spent significant amounts of time editing the Wikipedia pages of their boss, often a senator or congressman.
+
+I believe Wikipedia has since banned the IP address of the US Capitol building, but it's easy to imagine that there are more sophisticated manipulation schemes now in play, 12 years later.
+
+## Smurfing
+
+[Shadowgate][66]
+
+## Assassination
+
+While I can't prove with 100% certainty that these are each assassinations, however, there is significant evidence that they are.
+
+Perhaps it will give you a new perspective when you hear that a high-profile controversial individual has a heart attack.
+
+* Confirmed CIA assassination weapon: [heart attack gun][71]
+* Michael Hastings: government-critical journalist [killed in car crash][74], possibly by [hacking his car's software][77]
+* Jeff Bradstreet: Vaccine Researcher [Shoot self in chest, jump into river][73]
+* Seth Rich: DNC staffer, killed in a ["mugging"][76] where his posessions were not taken.
+
+# Falsified Health Numbers
+
+## Media Mentions vs Deaths
+
+## 96% Comorbidity Rate
+
+> Table 3 shows the types of health conditions and contributing causes mentioned in conjunction with deaths involving coronavirus disease 2019 (COVID-19). For 6% of the deaths, COVID-19 was the only cause mentioned. For deaths with conditions or causes in addition to COVID-19, on average, there were 2.6 additional conditions or causes per death. The number of deaths with each condition or cause is shown for all deaths and by age groups. For data on comorbidities, 
+> 
+> -- [CDC][78] ([Archived][79])
+
+## Financial Incentives
+
+Robert Redfield, CDC Director
+[Perverse Incentive][80]
+[Financial incentive for COVID diagnosis][81]
+
+## Questionable Tests
+
+[Tanzania: goat and pawpaw test positive for COVID][27]
+
+Plandemic:
+
+[World Bank - COVID-19 Test Kits: Exports by country][26]
+
+## Tests Shipped Ahead of time
+
+# Questionable Medical Efficacy
+
+## Social Distancing
+## Mask Wearing
+## Quarantining healthy people
+
+Over the last six months, many Americans have been kept in our homes and away from their jobs.
+
+Our governor here in Washington, Jay Inslee, announced to us on March 24, “This is a human tragedy on a scale we cannot yet project. It’s time to hunker down in order to win this fight,” Inslee said during a televised address."
+
+What he failed to mention is that that the human tragedy is a result of government interviention.
+
+**First time quarantining healthy people**
+
+Also, did you know that 90% of the 165 doctors interviewed on a recent London Real episode believe that:
+
+* **Social distancing has no scientific basis whatsoever: 90%**, 
+* **"Wearing of a mask is contributing to the suppression the immune system: 95%"**
+
+### Suicide rate
+
+**Do you believe COVID-19 death counts are factual: 0%**
+
+# COVID Graft
+
+#### Military Hospitals
+
+"$21 million hospital built for coronavirus victims in New York closes without ever seeing a patient"
+-Kiro7 News
+
+"Medical workers in #Brussels turn their back on their prime minister as sign of protest to the Covid19 lie & lockdown"
+https://twitter.com/Sejal92626937/status/1263720252875169792
+
+"U.S. Field Hospitals Stand Down, Most Without Treating Any COVID-19 Patients" "Army Corps of Engineers mobilized in the U.S., hiring private contractors to build emergency field hospitals around the country."
+Spent $660 Million
+
+## PREP Act
+
+declared public health emergency:
+
+"immunity from liability (except for willful misconduct) for claims of loss caused, arising out of, relating to, or resulting from administration or use of
+countermeasures to diseases, threats and conditions determined 
+
+"entities and individuals involved in the development, manufacture, testing, distribution, administration, and use of such countermeasures."
+
+### Testing facilities
+
+Project Veritas: 
+"CBS This Morning aired fake COVID patients"
+Showed using fake patients
+
+#### Crematoriums
+
+Jeff Berwick, an American expatriate, personally drove to Mexico City after
+seeing news stories on TV about Mexico City crematoriums being overrun with bodies, and smoke stacks constantly burning. When he arrived, he encountered facilities with no obvious sign of activity, a lone security guard wearing a mask, and yellow caution tape advising people to stay away.
+https://www.bitchute.com/video/gQKpjRrQ9KGR/
+
+# Corruption of Healthcare Industry
+
 ### RNA Vaccine
 
 According to Dr. Rashid Buttar, this vaccine: 
@@ -311,22 +518,15 @@ Moderna, a biotech firm with access to over $250M from the Gates Foundation.
 **Conflict of interest w/ Dr. Fauci advising the govt: 97%**
 **Number of supporters of COVID vaccine in next 12 months: 0/150**
 
-
 # Escalating violence
 
-## Chicago
+**Chicago Sun-Times**: year-on-year homicides up 139% 
 
-Chicago Sun-Times: year-on-year homicides up 139% 
+**NYC** - July: 177% increase in shootings
 
-## NYC
+**Bellingham** - burglaries up 90% for April-June YOY.
 
-July: 177% increase in shootings
-
-## Bellingham
-
-Bellingham burglaries up 90% for April-June YOY.
-
-## Election Violence
+### Election Violence
 
 Rasmussen poll: 62% of voters believe it is at least "somewhat likely" the Far Left will commit acts of violence if Trump is reelected.
 
@@ -445,11 +645,7 @@ the Dollar will plunge 35% and lose status as world reserve currency.
 
 According to the Bank for International Settlements, the dollar’s share of official foreign-exchange reserves has declined from a little over 70% in 2000 to a little less than 60% today.
 
-# Viral Hoax
-
-CDC
-
-# Weaponization of Food 
+# Food Shortage
 
 So, we've got violence on the streets and economic mayhem.
 
@@ -514,6 +710,14 @@ Oh wait, in 2008, the US liquidated the food reserve. It's just money now. A fat
 
 [7/24 canned food shortage][18]
 
+## Weather Damage
+
+## 2040
+
+## Seed bans?
+
+# 1984
+
 ## Confiscation
 
 Defense Production Act
@@ -521,6 +725,10 @@ Defense Production Act
 ## Mark of the Beast
 
 Many have voiced the idea that citizens should be required to carry a "vaccine passports" in order to travel, or perhaps even to engage in commerce.
+
+## No Fly List
+
+[mask refusals are also placing people on the no-fly list][64]
 
 ### ID2020
 
@@ -544,37 +752,17 @@ the DOF Sheriff’s Office, in coordination with other law enforcement agencies,
 
 ### Australia
 
-# The Lying Media & Corrupt Government
+#### Police Smashing windows
 
-"Never let a crisis to go to waste" 
-- Rahm Emanuel
+### Military Vaccination
 
-## Questionable Tests
+President Trump has announced on a few occasions that he plans to use the military to deploy the vaccine.
 
-[Tanzania: goat and pawpaw test positive for COVID][27]
+"We're mobilizing our military and other forces but we're mobilizing our military on the basis that we do have a vaccine. You know, it's a massive job to give this vaccine."
 
-[World Bank - COVID-19 Test Kits: Exports by country][26]
+"Our military is now being mobilized so at the end of the year we're going to be able to give it to a lot of people very, very rapidly," the president said. 
 
-## Bill Gates: Crimes Against Humanity
-
-[Sara Cunial][54], an Italian MP recently accused Bill Gates of "Crimes Against Humanity."
-
-Why is this?
-
-### Indemnification
-
-## 1970s Swine Flu immunization
-
-hopes to immunize "every man, woman, and child."
-
-The first was later in 1976, when instead of boxes of bottled vaccine, the vaccine manufacturers delivered an ultimatum—that the federal government indemnify them against claims of adverse reactions as a requirement for release of the vaccines. The government quickly capitulated to industry's demand for indemnification.
-
-"NIIP administered a program that immunized 45 million in 10 weeks, which resulted in doubling the level of immunization for persons deemed to be at high risk, rapidly identifying adverse effects, and developing and administering an informed consent form for use in a community-based program."
-
-## Gates on COVID vaccine
-
-"governments will have to be involved because there will be some risk and indemnification needed.”
-
+- Reuters
 
 
 ### NDAA
@@ -620,27 +808,21 @@ What number did the media report? 17,000. And described the demonstrators as far
 
 [Protest signs][49]
 
-
-
 # Conclusion
 
 Folks, the media and the government are not going to save us. 
+
+## Apocalypse Now
 
 A popular neo-Nazi Telegram channel recently warned about the fallout of COVID-19 and a collapsing society. "There are going to be massive breakdowns in supply chains. There are going to be massive food shortages and brutal famines. There is going to be a mass die off. Millions, possibly billions will die."
 
 This may not come to pass, but I have seen enough to believe that these are credible dangers.
 
-I was asked to prepare this presentation today in order to light a fire under you all.
+## Freedom vs Tyranny
 
-I hope that my words have helped you to understand the gravity of the situation we are in.
-
-That said, I hope that, even when staring into the abyss, none of you feel helpless.
-
-If you feel discouraged, I ask you to remember that we are fortunate to be living in the greatest country on the planet. 
-
-Fallen from grace as it may be, we still have our freedom, and we have each other.
-
-We have the choice for how we meet our fate, and, as they say, it is always darkest before the dawn.
+[Global fight for freedom][40]
+"It's Freedom vs Tyranny and Tyranny is winning"
+Bigger than WW2
 
 I personally had no interest in politics or world affairs before the COVID lockdowns began.
 
@@ -650,10 +832,25 @@ And so, when the blatant censorship, nonsensical public health response, and rut
 
 Make no mistake, we are on the edge of the cliff.
 
-[Global fight for freedom][40]
-"It's Freedom vs Tyranny and Tyranny is winning"
-Bigger than WW2
+## Hope
 
+Rather that continue to remain in silence, I am writing this article in order to
+
+in order to light a fire under you all.
+
+I hope that my words have helped you to understand the gravity of the situation we are in.
+
+That said, I hope that, even when staring into the abyss, none of you feel helpless.
+
+## American Revolution
+
+The founding fathers were paying a 3% tax on tea and were not being constantly spied on. 
+Perhaps the media they consumed was as manipulative as it is today.
+
+## What will the future look like?
+
+* Truth prevails, no censorship
+* Voluntarism
 
 [1]: https://www.dailywire.com/news/do-as-they-say-minneapolis-police-tell-residents-to-be-prepared-to-give-up-personal-belongings-to-robbers?itm_source=parsely-api%3Futm_content%3Dnews&utm_campaign=daily_shapiro&utm_medium=email&_hsmi=92560155&_hsenc=p2ANqtz-_2IqiZOym-_SrqkJBJPa00iyIe5yKJp1xj6cZdNXRY2H6GsGt_NKDNansr8VSAKqovqtUyi08mJa9DqP7MlsVdv0V2Yw&utm_source=housefile&fbclid=IwAR3GZoV1VNbrwBNpE5Cu9IpMgzau2po_iaAjy7o6s1GjcANsnOI35aORbzM "8/2: 'Do As They Say': Minneapolis Police Tell Residents To 'Be Prepared To Give Up' Personal Belongings To Robbers"
 [2]: https://www.orlandosentinel.com/coronavirus/ct-nw-coronavirus-updates-20200801-3i65r7xy3rcihhurvr3z4sctlu-story.html "8/1: Thousands protest in Berlin against coronavirus restrictions: 'We are the second wave'"
@@ -701,14 +898,6 @@ Bigger than WW2
 [44]: https://www.youtube.com/watch?v=-F7IsQ2P6JM "YouTube: querdenken711 hat mit "Ach und Krach" knapp die 17.000 Besucher erreicht.."
 [45]: https://youtu.be/JJJNKGtjk-Y?t=254 "Corona Demo in Berlin die Wahrheit querdenken711 steht für Frieden & Freiheit - Einzigartig ehrlich"
 [46]: https://archive.org/details/corona-demo-berlin-1.8.2020-ende-der-pandemie "Archive.org Berlin 1.8.2020 Corona Demonstration Ende der Plandemie"
-[47]: https://www.extremnews.com/berichte/vermischtes/ed3c17cbb4f5fff
-[48]: https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.extremnews.com%2Fberichte%2Fvermischtes%2Fed3c17cbb4f5fff "Extrem News: The Day of Freedom - an experience Report (translated)"
-[49]: https://youtu.be/ttmlNyO850g "YouTube: Demo 1.8.2020 - BERLIN WIR KOMMEN - Tag der Freiheit"
-[50]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255 "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents"
-[51]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548251 "Food Industry Funding of Nutrition Research: The Relevance of History for Current Debates"
-[52]: http://www.davidykay.com/Censorship-Rising/ "Censorship Rising"
-
-[46]: https://archive.org/details/corona-demo-berlin-1.8.2020-ende-der-pandemie "Archive.org Berlin 1.8.2020 Corona Demonstration Ende der Plandemie"
 [47]: https://www.extremnews.com/berichte/vermischtes/ed3c17cbb4f5fff "1.8.2020: Der Tag der Freiheit - ein Erlebnisbericht"
 [48]: https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.extremnews.com%2Fberichte%2Fvermischtes%2Fed3c17cbb4f5fff "Extrem News: The Day of Freedom - an experience Report (translated)"
 [49]: https://youtu.be/ttmlNyO850g "YouTube: Demo 1.8.2020 - BERLIN WIR KOMMEN - Tag der Freiheit"
@@ -750,3 +939,44 @@ Bigger than WW2
 [61]: https://www.thenation.com/article/archive/trump-terrorism-travel-watchlist/ "The Nation: Are Terrorism Watch Lists Expanding Under Trump?"
 [62]: https://www.salon.com/2003/07/25/no_fly_2/ "Salon 2003: Grounding the flying nun"
 [63]: https://www.sikhcoalition.org/images/documents/fact%20sheet%20on%20hate%20against%20sikhs%20in%20america%20post%209-11%201.pdf "The Sikh Coalition: Fact Sheet on Post-9/11 Discrimination and Violence against Sikh Americans"
+[48]: https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.extremnews.com%2Fberichte%2Fvermischtes%2Fed3c17cbb4f5fff "Extrem News: The Day of Freedom - an experience Report (translated)"
+[49]: https://youtu.be/ttmlNyO850g "YouTube: Demo 1.8.2020 - BERLIN WIR KOMMEN - Tag der Freiheit"
+[50]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255 "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents"
+[51]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548251 "Food Industry Funding of Nutrition Research: The Relevance of History for Current Debates"
+[52]: http://www.davidykay.com/Censorship-Rising/ "Censorship Rising"
+[53]: https://www.youtube.com/watch?v=e7wc4z2QGKU "Groupthink and Why They NEED to Censor Us"
+[54]: https://www.youtube.com/watch?v=vrtqBpgPjiw "How YOU Can Crack the Conformity"
+[55]: https://en.wikipedia.org/wiki/Asch_conformity_experiments "Asch conformity experiments"
+[56]: https://en.wikipedia.org/wiki/United_States_Northern_Command "Wikipedia: USNORTHCOM"
+[57]: https://en.wikipedia.org/wiki/United_United "Wikipedia: United States Department of Homeland Security"
+[58]: https://www.socialistalternative.org/no-to-bushs-war-on-iraq/no-to-bushs-war-for-oil/ "No to Bush’s War for Oil!"
+[59]: https://en.wikipedia.org/wiki/Protests_against_the_Iraq_War "Wikipedia: Protests against the Iraq War"
+[60]: https://www.washingtonpost.com/wp-dyn/content/article/2007/09/15/AR2007091500826.html "Washington Post: Dueling Demonstrations"
+[61]: https://www.thenation.com/article/archive/trump-terrorism-travel-watchlist/ "The Nation: Are Terrorism Watch Lists Expanding Under Trump?"
+[62]: https://www.salon.com/2003/07/25/no_fly_2/ "Salon 2003: Grounding the flying nun"
+[63]: https://www.sikhcoalition.org/images/documents/fact%20sheet%20on%20hate%20against%20sikhs%20in%20america%20post%209-11%201.pdf "The Sikh Coalition: Fact Sheet on Post-9/11 Discrimination and Violence against Sikh Americans"
+[64]: https://simpleflying.com/delta-no-fly-list-mask-refusal/ "Delta’s No-Fly List Has Grown By 240 Because Of Mask Refusals"
+[65]: https://www.rt.com/usa/no-fly-hicks-us-military-650/ "NDAA critic stranded in Hawaii after turning up on no-fly list"
+[66]: https://www.bitchute.com/video/QBTU2QU1BCjZ/ "Bitchute: Shadowgate Documentary"
+[67]: https://www.youtube.com/watch?v=HeRyrXJS0tU&t=11 "This is what mind control looks like. This is Operation Mockingbird"
+[68]: https://youtu.be/4-XVjgnbyyo?t=32 "Mika Brzezinski: It's our job to control what people think"
+[69]: https://www.youtube.com/watch?v=kYYXnTdObKI "Al Jazeera - Covert operations: How the CIA works with Hollywood "
+[70]: https://www.wanttoknow.info/mass_media/operation-mockingbird "Want to Know: Operation Mockingbird"
+[71]: https://www.youtube.com/watch?v=cT5bMld564c "YouTube: Former CIA employee discusses the 'Heart Attack' Assassination Gun, made public 1975"
+[72]: https://spartacus-educational.com/JFKmockingbird.htm "Spartacus Educational: Operation Mockingbird"
+[73]: https://www.globalresearch.ca/confirmed-renowned-physician-jeff-bradstreet-who-linked-vaccines-to-autism-was-murdered/5531024 "GlobalResearch: Renowned Physician Jeff Bradstreet Who Linked Vaccines to Autism Was Murdered"
+[74]: https://en.wikipedia.org/wiki/Michael_Hastings_(journalist)#Controversy_over_alleged_foul_play "Wikipedia: Michael Hastings (journalist)"
+[75]: https://www.thegatewaypundit.com/2020/08/breaking-new-york-judge-requests-testimony-julian-assange-seth-rich-case/ "BREAKING: New York Judge Requests Testimony from Julian Assange in Seth Rich Case"
+[76]: https://youtu.be/Kp7FkLBRpKg?t=22 "Julian Assange on Seth Rich"
+[77]: https://www.mintpressnews.com/michael-hastings-targeted-cia-wikileaks-reveals-agencys-covert-carjacking-ability/225738/ "Was Michael Hastings Targeted By The CIA? Wikileaks Reveals Agency’s Covert Carjacking Ability"
+[78]: https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm?fbclid=IwAR2-muRM3tB3uBdbTrmKwH1NdaBx6PpZo2kxotNwkUXlnbZXCwSRP2OmqsI#Comorbidities "CDC Weekly Updates by Select Demographic and Geographic Characteristics"
+[79]: https://web.archive.org/web/20200903142803/https://www.cdc.gov/nchs/nvss/vsrr/covid_weekly/index.htm?fbclid=IwAR2-muRM3tB3uBdbTrmKwH1NdaBx6PpZo2kxotNwkUXlnbZXCwSRP2OmqsI "CDC Weekly Updates - Archived 09/03/2020"
+[80]: https://www.breitbart.com/politics/2020/07/31/cdc-chief-agrees-theres-perverse-economic-incentive-for-hospitals-to-inflate-coronavirus-deaths/ "CDC Chief Agrees There’s ‘Perverse’ Economic ‘Incentive’ for Hospitals to Inflate Coronavirus Deaths"
+[81]: https://www.dailywire.com/news/yes-hospitals-get-paid-more-for-coronavirus-coded-patients-even-if-they-havent-been-tested "Daily Wire: Yes, Hospitals Get Paid More For Coronavirus-Coded Patients, Even If They Haven’t Been Tested"
+[82]: https://www.history.com/news/the-gulf-of-tonkin-incident-50-years-ago "History.com: The Gulf of Tonkin Incident, 50 Years Ago"
+[83]: https://jamesperloff.com/2014/05/21/false-flag-at-sea/ "False Flag at Sea: The Lusitania, Woodrow Wilson, and the Deceptions that Dragged America into World War I"
+[84]: https://www.heraldscotland.com/news/12768362.five-israelis-were-seen-filming-as-jet-liners-ploughed-into-the-twin-towers-on-september-11-2001/ "The Herald: Five Israelis were seen filming as jet liners ploughed into the Twin Towers on September 11, 2001"
+[85]: http://911review.com/coverup/oralhistories.html "9/11 Review: Witnesses to the Towers' Explosions"
+[86]: https://archive.nytimes.com/www.nytimes.com/packages/html/nyregion/20050812_WTC_GRAPHIC/met_WTC_histories_full_01.html "NYT: 9/11 Eyewitness Testimony"
+[87]: https://www.youtube.com/watch?v=gYSV2OxAvZE "YouTube: NYC WTC 'designed to withstand multiple airliner impacts' Frank De Martini construction boss"
+[88]: http://911research.wtc7.net/wtc/analysis/design.html "9-11 Research: Towers' Design Parameters" 
