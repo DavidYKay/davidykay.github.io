@@ -1,25 +1,41 @@
 ---
 layout: post
-title: COVID-1984
+title: How the World Fell Under Darkness
 ---
 
-> "It's easier to fool someone than to convince him that he's been fooled."  
->  
-> -- Mark Twain (attributed)
+> No one was left who could remember how it had happened,
+> How the world had fallen under darkness...  
+> No one who would oppose the robots --                      
+> No one who would challenge their power...  
+> -- The Protomen
 
-## A New Researcher
+## A World in Crisis
+
+Hello, friends. We are living in historic times.
 
 Before the COVID-19 lockdowns, I spent very little of my time and attention on politics and world affairs, thinking of it as an icky thing that other people can worry themselves with.
 
-However, the loss of freedom, contradictory stories, and sharp [rise in censorship][52] quickly captured my attention, causing me to ask, "What's really going on here?"
+However, governmentally-imposed loss of freedom, contradictory media stories, and sharp [rise in censorship][52] quickly captured my attention, causing me to ask, "What's really going on here?"
 
 And so, I've spent a great deal of time over the past several months trying to understand how the world came to be in its current state, where it's going, and what action that we, as a civilization, should undertake in order to keep humanity on a sane path.
 
 I make no claims to be a great philosopher or leader of men. However, I swear that I have come to the following conclusions after much research and deliberation, and will provide several references so that you can perform your own analysis.  
 
+
+
 # Prior Lies
 
+
 ## Prologue: The Sugar Lie
+
+<center> 
+<center> </center>
+</center>
+<img src="../images/2020/09/covid-1984/WhiteSugar.jpg" width="500"/> 
+
+> There are no accidents in politics.
+>  
+> -- Theodore Parker
 
 Before I get into the main point, I'd like to tell you a story about disinformation.
 
@@ -31,19 +47,30 @@ It turns out that the sugar industry [paid off][50] two researchers, using "appr
 
 Can you imagine the **decades of harm** that $50,000 dollars caused? The millions of people affected by health issues from following *deliberately* sabotaged health guidelines?
 
-What's worse, a [2016 study published in JAMA][51] finds that we aren't yet free of corrupt scientific inquiry, asking, "Is it really true that food companies deliberately set out to manipulate research in their favor? Yes, it is, and the practice continues."
+What's worse, a [2016 study published in JAMA][51] finds that we aren't free of corrupt scientific inquiry, asking, "Is it really true that food companies deliberately set out to manipulate research in their favor? Yes, it is, and the practice continues."
 
 The study concludes, "Policymaking committees should consider giving less weight to food industry-funded studies." 
 
-More importantly, I suspect that this danger is not unique to the food industry.
+Importantly, there is no reason to believe that the food industry is the only industry guilty of funding biased studies. 
+
+## The Healthy Cigarette
+
+<center> 
+<img src="../images/2020/09/covid-1984/MoreDoctorsSmokeCamels.jpg" width="500"/> </center>
+<center> </center>
+
 
 ## World War 1: Lusitania
 
+<center> 
+<img src="../images/2020/09/covid-1984/Lusitania.jpg" width="500"/> </center>
+<center> </center>
+
 World War I – which was the first global war, and claimed as many as 65 million lives 
 
-RMS Lusitania
+[RMS Lusitania][82]
 
-[82]
+
 
 ## Vietnam: Gulf of Tonkin
 
@@ -52,6 +79,10 @@ RMS Lusitania
 ### Second event falsified
 
 ## 9/11 & GWOT
+
+<center> 
+<img src="../images/2020/09/covid-1984/TimeCover.jpg" width="500"/> </center>
+<center> </center>
 
 Remember 9/11? 
 
@@ -65,7 +96,7 @@ So, I pushed through my cognitive dissonance and went with the group. These were
 
 And so, I attended the patriotic memorial services and was in awe of the "United we stand" messages that were posted everywhere.
 
-Congress passed the Patriot Act. It seemed to me like a big over-reaction. Like these heart-broken senators and congressmen were overwhelmed with grief for their fallen countrymen and felt that, in such a situation, it was OK to **temporarily** grant over-reaching surveillance powers to law enforcement. 
+Congress passed the Patriot Act. It seemed to me like knee-jerk reaction, like these heart-broken senators and congressmen were overwhelmed with grief for their fallen countrymen and felt that, in such a situation, it was OK to **temporarily** grant over-reaching surveillance powers to law enforcement. 
 
 (The Patriot Act was meant to last for four years.)
 
@@ -95,7 +126,9 @@ Several journalists critical of the Bush Administration were [placed on a "selec
 
 Some individuals critical of 9/11 and the NDAA have even been [placed on the No Fly List][65], seemingly for political reasons.
 
-### Engineered for Jet impact
+### Truth
+
+#### Engineered for Jet impact
 
 
 > The building was designed to have a fully loaded 707 crash into it. That was the largest plane at the time. I believe that the building probably could sustain multiple impacts of jetliners because this structure is like the mosquito netting on your screen door -- this intense grid -- and the jet plane is just a pencil puncturing that screen netting. It really does nothing to the screen netting.
@@ -110,11 +143,10 @@ WTC Construction manager
 
 [88]
 
-### Near-free fall Speed
+#### Near-free fall Speed
 
 
-
-### Contradictory Information
+#### Contradictory Information
 
 Most interestingly, there was an incredible amount of contradictory information and redacted testimony.
 
@@ -124,25 +156,38 @@ Most interestingly, there was an incredible amount of contradictory information 
 "I heard explosions" "I definitely didn't hear explosions"
 
 
-
-### Eyewitness Testimony
+#### Eyewitness Testimony
 
 Plenty of [eyewitness testimony][85] from firefighters and EMTs was suppressed until the New YOrk TImes won a FOIA lawsuit against NYC in 2005. Original transcripts [here][86].
 
 Does any of this sound familiar?
 
-### Saudi Nationals
+#### Saudi Nationals
 
 Sitting around in Saudi Arabia, never have been to USA. Alive and well.
 
-### Truth
+#### Expert Testimony
 
-Did you know that thousands of [military officials][30], [pilots][28], and [architects][29] have voiced public criticism of the official explanation?
+Did you know that thousands of [military officials][30], [pilots][28], [architects][29], and [scientists][91] have voiced public criticism of the official explanation?
 
-Those of an engineering background may enjoy this [study][33] from the University of Alaska Fairbanks, which refutes the official WTC7 engineering study.
+> The 9/11 tragedy is the most successful and most perverse publicity stunt in the history of public relations. 
+>  
+> --Lynn Margulis
+
+> “The truth about 9/11 is that we don’t KNOW the truth about 9/11, and we should. There is mounting evidence of possible complicity by elements of our own government. If they have nothing to hide, why are they hiding everything? Why are they hiding audiotapes of FAA and NORAD controllers? Why are they hiding videotapes of whatever hit the Pentagon? Why are they hiding the black boxes? Why did they destroy most of the forensic evidence which appears to show that three buildings at the World Trade Center were brought down by thermite demolition charges? The above are but a tiny fraction of the unanswered questions not even raised by those who “investigated” the 9/11 tragedy. The most unbelievable of all the conspiracy theories surrounding 9/11 is the OFFICIAL conspiracy theory told us by our government.”  
+> -- Robert Bowman
+
 For those who don't want to get in the w
 
+#### Five Dancing Israelis
+
 Did you know that an [Israeli observation team][36] was set up in New Jersey around 8AM, approximately 45 minutes before the impact for the first tower? A [story][84] from Scotland's Sunday Herald reports that at least two were working for the Israeli Mossad.
+
+#### Pilots
+
+#### Architects
+
+Those of an engineering background may enjoy this [study][33] from the University of Alaska Fairbanks, which refutes the official WTC7 engineering study.
 
 Here's a summary of the evidence collected by Architects & Engineers for 9/11 Truth:
 
@@ -162,10 +207,24 @@ Here's a summary of the evidence collected by Architects & Engineers for 9/11 Tr
 14. FEMA steel analysis: sulfidation, oxidation & intergranular melting
 15. No precedent for steel frame highrise collapse coaused by fire
 
+[Loose Change][96] Documentary
+[YouTube][34]
+[Bitchute][35]
+
 ### Xenophobia
 
 You may also remember the wave of xenophobic violence that broke out. Many [hate crimes][63] were perpetrated in the weeks following 9/11.
 
+# The Financiers
+
+We often think of "war profiteers" as being the arms manufacturers, like Lockheed, Boeing and Raytheon, or the construction contractors like Bechtel.
+
+One
+
+## Private Ownership
+## Fiat Money
+## Hyper-inflation
+## Rockefeller
 
 # Medical Industry: A History of Malpractice
 
@@ -174,9 +233,13 @@ You may also remember the wave of xenophobic violence that broke out. Many [hate
 
 Until recently, I didn't know much about the vaccine industry, but the recent insistence that we ALL stay in our homes and don't develop natural immunity to the virus and wait around until we are innoculated with a vaccine made me very curious.
 
-## Bill Gates: Crimes Against Humanity
+## Bill Gates: Crimes Against Humanity?
 
-[Sara Cunial][54], an Italian MP recently accused Bill Gates of "Crimes Against Humanity."
+<center> 
+<img src="../images/2020/09/covid-1984/BillGates.jpg" width="500"/> </center>
+<center> </center>
+
+Sara Cunial, an Italian MP, accused Bill Gates of "Crimes Against Humanity" in an [impassioned speech in the Italian parliament][97] this May.
 
 Why is this?
 
@@ -307,6 +370,12 @@ As it turns out, the media has been lying to us for a long time.
 
 ## Communist Propaganda
 
+<center> 
+<center> </center>
+</center>
+<img src="../images/2020/09/covid-1984/MaoPoster.jpg" width="500"/> 
+
+
 In America, we take it for granted that those poor SOBs in Russia and China have to live with government-controlled media, which is actively feeding propaganda to its citizens.
 
 We even like to chuckle at the communist propaganda posters, which are almost comical in how grandiose they are.
@@ -322,6 +391,11 @@ In older times in the USA, newspapers were known to have a bias.
 
 ## The Big Lie
 
+> "It's easier to fool someone than to convince him that he's been fooled."  
+>  
+> -- Mark Twain (attributed)
+
+
 How is it that they could get away with this?
 
 > if all others accepted the lie which the Party imposed—if all records told the same tale—then the lie passed into history and became truth.
@@ -329,6 +403,10 @@ How is it that they could get away with this?
 > -- George Orwell, 1984
 
 ### Human Weakness: Conformity
+
+<center> 
+<img src="../images/2020/09/covid-1984/Asch.png" width="300"/> </center>
+<center> </center>
 
 We often hear that humans are "herd animals." That we are the "average of the five people we spend the most time with."
 
@@ -349,6 +427,10 @@ Six companies own the vast majority of mainstream media.
 
 ### CFR / Bilderberg / Trilateral Commission
 
+<center> 
+<img src="../images/2020/09/covid-1984/MediaBilderberg.png" width="800"/> </center>
+<center> </center>
+
 To make matters worse, the top executives of these media companies are known to attend meetings of the Bilderberg Group, The Council on Foreign Relations, and the Trilateral Commision.
 
 An in-depth investigation of these organizations is beyond the scope of this article, but I highly suggest you take the time to look into their significance.
@@ -360,6 +442,10 @@ The Council on Foreign Relations
 The Trilateral Commission
 
 ## Government Involvement
+
+<center> 
+<img src="../images/2020/09/covid-1984/CIA.png" width="200"/> </center>
+<center> </center>
 
 ### National Security Letter
 
@@ -373,8 +459,9 @@ The Trilateral Commission
 
 [Article][70]
 
-"this is extremely dangerous to our democracy."
-[possible Mockingbird demonstration][67]
+"extremely dangerous to our democracy."
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HeRyrXJS0tU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ["Mika Brzezinski: It's our job to control what people think"][68]
 
@@ -402,14 +489,25 @@ I believe Wikipedia has since banned the IP address of the US Capitol building, 
 
 ## Assassination
 
-While I can't prove with 100% certainty that these are each assassinations, however, there is significant evidence that they are.
+<center> 
+<img src="../images/2020/09/covid-1984/HeartAttackGun.jpeg" width="600"/> </center>
+<center> </center>
 
-Perhaps it will give you a new perspective when you hear that a high-profile controversial individual has a heart attack.
+### Heart Attack Gun
 
-* Confirmed CIA assassination weapon: [heart attack gun][71]
+The above photo depicts a [heart attack gun][71] which the CIA confirmed the existence of in 1975. 
+
+[Litvinenko][92]
+
+There is significant evidence that the following deaths may have been assassinations:
+
 * Michael Hastings: government-critical journalist [killed in car crash][74], possibly by [hacking his car's software][77]
-* Jeff Bradstreet: Vaccine Researcher [Shoot self in chest, jump into river][73]
+* Jeff Bradstreet: Vaccine Researcher who [shot himself in chest and jumped into the river][73]
 * Seth Rich: DNC staffer, killed in a ["mugging"][76] where his posessions were not taken.
+
+As we know, "Jeffrey Epstein didn't kill himself." 
+
+Perhaps not all "heart attacks" and "apparent suicides" are what they seem.
 
 # Falsified Health Numbers
 
@@ -440,7 +538,12 @@ Plandemic:
 # Questionable Medical Efficacy
 
 ## Social Distancing
+
+<img src="../images/2020/09/covid-1984/SocialDistancingSign.jpg" width="500"/> 
+
 ## Mask Wearing
+
+
 ## Quarantining healthy people
 
 Over the last six months, many Americans have been kept in our homes and away from their jobs.
@@ -458,7 +561,33 @@ Also, did you know that 90% of the 165 doctors interviewed on a recent London Re
 
 ### Suicide rate
 
+Suicide numbers higher than COVID death numbers
+
+
 **Do you believe COVID-19 death counts are factual: 0%**
+
+
+### RNA Vaccine
+
+According to Dr. Rashid Buttar, this vaccine: 
+1. Never tested in animals
+2. First vaccine by this co
+3. First human-consumable by Moderna
+4. Direct-to-human testing
+
+Gene therapy since 1990s - CHANGES YOUR DNA
+
+Volunteers: don't have sex during the trial.
+
+Moderna, a biotech firm with access to over $250M from the Gates Foundation.
+
+## London Real Doctors
+
+**Disagree with vaccination methodology since 1991: 95%**
+**The "second wave" is a pre-meditated push for universal vaccination: 80-90%**
+**Does 5G have an immuno-suppressive component: 95%**
+**Conflict of interest w/ Dr. Fauci advising the govt: 97%**
+**Number of supporters of COVID vaccine in next 12 months: 0/150**
 
 # COVID Graft
 
@@ -493,30 +622,6 @@ Showed using fake patients
 Jeff Berwick, an American expatriate, personally drove to Mexico City after
 seeing news stories on TV about Mexico City crematoriums being overrun with bodies, and smoke stacks constantly burning. When he arrived, he encountered facilities with no obvious sign of activity, a lone security guard wearing a mask, and yellow caution tape advising people to stay away.
 https://www.bitchute.com/video/gQKpjRrQ9KGR/
-
-# Corruption of Healthcare Industry
-
-### RNA Vaccine
-
-According to Dr. Rashid Buttar, this vaccine: 
-1. Never tested in animals
-2. First vaccine by this co
-3. First human-consumable by Moderna
-4. Direct-to-human testing
-
-Gene therapy since 1990s - CHANGES YOUR DNA
-
-Volunteers: don't have sex during the trial.
-
-Moderna, a biotech firm with access to over $250M from the Gates Foundation.
-
-## London Real Doctors
-
-**Disagree with vaccination methodology since 1991: 95%**
-**The "second wave" is a pre-meditated push for universal vaccination: 80-90%**
-**Does 5G have an immuno-suppressive component: 95%**
-**Conflict of interest w/ Dr. Fauci advising the govt: 97%**
-**Number of supporters of COVID vaccine in next 12 months: 0/150**
 
 # Escalating violence
 
@@ -597,6 +702,10 @@ I hate to break it to you, but the [CARES act benefits are drying up.][13]
 
 ## Inflation Concerns
 
+<center> 
+<img src="../images/2020/09/covid-1984/FederalReserve.jpg" width="800"/> </center>
+<center> </center>
+
 Fed is printing a TON of money.
 
 ### Debt
@@ -653,10 +762,24 @@ But it turns out that our food supply is also under attack.
 
 ## Grand Solar Minimum
 
+<center> 
+<img src="../images/2020/09/covid-1984/GrandSolarMinimum.jpg" width="800"/> 
+
+Grand Solar Minimum
+</center>
+
+<center> 
+<img src="../images/2020/09/covid-1984/GlobalWarming.jpg" width="800"/> 
+Global Warming?
+</center>
+
 200 year
 Fall of empires
 
 [6/12 NASA announcement][23]
+
+[NOAA announcement][94]
+
 "the weakest of the last 200 years."
 
 ## Impending Food crisis
@@ -673,6 +796,11 @@ China: phasing out live poultry
 Australia: Millions of pigs and chickens being culled
 
 ## Agricultural Shutdowns
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ALtfQVbHtM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+[Video: millions of potates being thrown away][93]
 
 Surely farming is safe, right?
 
@@ -716,6 +844,7 @@ Oh wait, in 2008, the US liquidated the food reserve. It's just money now. A fat
 
 ## Seed bans?
 
+
 # 1984
 
 ## Confiscation
@@ -746,13 +875,29 @@ I contend that the mask mandate is a precursor to such a system.
 
 ### NYC Checkpoints
 
-"Mayor Bill de Blasio today announced COVID-19 traveler registration checkpoints at key entry points into New York City to ensure compliance with New York State quarantine requirements and further the containment of COVID-19. 
+"Mayor Bill de Blasio today ainnounced COVID-19 traveler registration checkpoints at key entry points into New York City to ensure compliance with New York State quarantine requirements and further the containment of COVID-19. 
 
 the DOF Sheriff’s Office, in coordination with other law enforcement agencies, will operate traveler registration checkpoints at major bridge and tunnel crossings into New York City."
 
 ### Australia
 
 #### Police Smashing windows
+
+<center> 
+<img src="../images/2020/09/covid-1984/VictoriaPolice.jpg" width="800"/> </center>
+<center> Victoria Police smashing car windows when citizens don't disclose where they're going. </center>
+
+
+#### "Incitement"
+
+<center> 
+<img src="../images/2020/09/covid-1984/PregnantArrest.jpg" width="400"/> </center>
+<center> Arrested for posting a link to an anti-lockdown protest. </center>
+
+#### September 5 Protest
+
+"those arrested were acting aggressively"
+[cops arresting protesters][98]
 
 ### Military Vaccination
 
@@ -763,6 +908,17 @@ President Trump has announced on a few occasions that he plans to use the milita
 "Our military is now being mobilized so at the end of the year we're going to be able to give it to a lot of people very, very rapidly," the president said. 
 
 - Reuters
+
+### WHO: Vaccine Not the End
+
+"We will not, we cannot go back to the way things were."
+-Dr. Tedros, WHO
+
+"has given new impeteus to accelerate response to XYZ climate change..."
+
+Bill Gates: "The rest of us will have to sacrifice even more to save XYZ global warming"
+
+Re-ordering society is the goal
 
 
 ### NDAA
@@ -775,7 +931,7 @@ It turns out that there have been several prior acts of deception perpetrated by
 including [WW1][39], Vietnam,
 the USS Liberty,
 
-## Berlin COVID
+## Berlin's "Day of Freedom"
 
 Oh, and by the way, do you think the world governments are going to help us?
 
@@ -783,9 +939,22 @@ A friend of mine attended a [protest against governmental COVID response][2] in 
 Organizers hoped to have 500K attend. Many were concerned that it was too ambitious.
 How many showed up?
 
+<center>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/-F7IsQ2P6JM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<center>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/HcYjo_S7L0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+</center>
+
+<center> 
+<img src="../images/2020/09/covid-1984/TagDerFreiheit2.jpg" width="600"/> </center>
+
+<center> 
+<img src="../images/2020/09/covid-1984/TagDerFreiheit3.jpg" width="600"/> </center>
+
 Bus tickets were sold out.
 The streets were packed.
-If you look at historic gatherings and marches in Berlin, such as the 2014 World Cup rally or the Love Parade, this event was as large as the biggest ones there, perhaps larger.
 
 The organizer reported, "The police are telling us that we now have 800K in attendance."
 "The police are telling us that we now have 1.3M in attendance."
@@ -797,16 +966,87 @@ However, after the first speaker, the host announced: "The police are telling us
 
 What number did the media report? 17,000. And described the demonstrators as far-right, violent, neo-nazis.
 
-[police announcement][43]
-[1.3 million][42]
-[Video of both sides of the stage][44]
-[Interviews at the demonstration][45]
+According to my friend, the 2014 World Cup rally and the 2010 Love Parade were generally considered the two largest gatherings in Berlin history. This event, the Tag der Freiheit, is said to large as these two, perhaps larger.
 
-[Parade Footage][46]
+<center> 
+<img src="../images/2020/09/covid-1984/TagDerFreiheit1.jpg" width="600"/> </center>
+<center> 2020 Tag der Freheit </center> 
 
-[Extrem News][47] - [translated][48]
+<center> 
+<img src="../images/2020/09/covid-1984/2014WorldCup.jpg" width="600"/> </center>
+<center> 2014 World Cup </center> 
 
-[Protest signs][49]
+<center> 
+<img src="../images/2020/09/covid-1984/LoveParade1997.jpg" width="600"/> </center>
+<center> 1997 Love Parade </center> 
+
+
+[Photograps][90]  
+[police announcement][43]  
+[1.3 million][42]  
+[Video of both sides of the stage][44]  
+[Interviews at the demonstration][45]  
+
+[Parade Footage][46]  
+[Parade Footage - fast-forward][89]  
+
+[Extrem News][47] - [translated][48]  
+
+[Protest signs][49]  
+
+# EMF
+
+Bonus
+
+## Ham Radio
+
+Ham 
+
+## Generation Zapped 
+
+Wifi and Pre-5G cellular echnologies still causing issues.
+
+<iframe src="https://player.vimeo.com/video/221492864" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/221492864">GENERATION ZAPPED OFFICIAL TRAILER</a> from <a href="https://vimeo.com/zappedproductions">Sabine El Gemayel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+[documentary][95]
+
+## KGB Study
+
+
+
+## 5G
+
+Moratorium
+* Brussels
+* Switzerland
+* Netherlands 
+* Cyprus
+* Netherlands
+* Parts of Ireland
+
+
+# Agenda 21
+
+
+<img src="../images/2020/09/covid-1984/RosaKoire.jpg" width="800"/> 
+
+[Rosa Koire][99]
+
+"It's a transition from representative government to unelected boards"
+"Erasure of jurisdiction..."
+"Loss of private property rights":
+"Loss of sovereignty and freedom for all of us."
+
+"Illusion of being a grassroots movement"
+
+"Biggest PR scam in the history of the world"
+
+"Agenda for 21st century"
+
+
+
+[Lecture][100]
 
 # Conclusion
 
@@ -819,6 +1059,10 @@ A popular neo-Nazi Telegram channel recently warned about the fallout of COVID-1
 This may not come to pass, but I have seen enough to believe that these are credible dangers.
 
 ## Freedom vs Tyranny
+
+<center> 
+<img src="../images/2020/09/covid-1984/Apple1984.jpg" width="600"/> </center>
+
 
 [Global fight for freedom][40]
 "It's Freedom vs Tyranny and Tyranny is winning"
@@ -841,6 +1085,14 @@ in order to light a fire under you all.
 I hope that my words have helped you to understand the gravity of the situation we are in.
 
 That said, I hope that, even when staring into the abyss, none of you feel helpless.
+
+## The Tiny Dot
+
+<center> 
+<img src="../images/2020/09/covid-1984/TheTinyDot2.jpg" width="600"/> </center>
+<center> </center>
+
+
 
 ## American Revolution
 
@@ -939,22 +1191,6 @@ Perhaps the media they consumed was as manipulative as it is today.
 [61]: https://www.thenation.com/article/archive/trump-terrorism-travel-watchlist/ "The Nation: Are Terrorism Watch Lists Expanding Under Trump?"
 [62]: https://www.salon.com/2003/07/25/no_fly_2/ "Salon 2003: Grounding the flying nun"
 [63]: https://www.sikhcoalition.org/images/documents/fact%20sheet%20on%20hate%20against%20sikhs%20in%20america%20post%209-11%201.pdf "The Sikh Coalition: Fact Sheet on Post-9/11 Discrimination and Violence against Sikh Americans"
-[48]: https://translate.google.com/translate?sl=de&tl=en&u=https%3A%2F%2Fwww.extremnews.com%2Fberichte%2Fvermischtes%2Fed3c17cbb4f5fff "Extrem News: The Day of Freedom - an experience Report (translated)"
-[49]: https://youtu.be/ttmlNyO850g "YouTube: Demo 1.8.2020 - BERLIN WIR KOMMEN - Tag der Freiheit"
-[50]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255 "Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents"
-[51]: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548251 "Food Industry Funding of Nutrition Research: The Relevance of History for Current Debates"
-[52]: http://www.davidykay.com/Censorship-Rising/ "Censorship Rising"
-[53]: https://www.youtube.com/watch?v=e7wc4z2QGKU "Groupthink and Why They NEED to Censor Us"
-[54]: https://www.youtube.com/watch?v=vrtqBpgPjiw "How YOU Can Crack the Conformity"
-[55]: https://en.wikipedia.org/wiki/Asch_conformity_experiments "Asch conformity experiments"
-[56]: https://en.wikipedia.org/wiki/United_States_Northern_Command "Wikipedia: USNORTHCOM"
-[57]: https://en.wikipedia.org/wiki/United_United "Wikipedia: United States Department of Homeland Security"
-[58]: https://www.socialistalternative.org/no-to-bushs-war-on-iraq/no-to-bushs-war-for-oil/ "No to Bush’s War for Oil!"
-[59]: https://en.wikipedia.org/wiki/Protests_against_the_Iraq_War "Wikipedia: Protests against the Iraq War"
-[60]: https://www.washingtonpost.com/wp-dyn/content/article/2007/09/15/AR2007091500826.html "Washington Post: Dueling Demonstrations"
-[61]: https://www.thenation.com/article/archive/trump-terrorism-travel-watchlist/ "The Nation: Are Terrorism Watch Lists Expanding Under Trump?"
-[62]: https://www.salon.com/2003/07/25/no_fly_2/ "Salon 2003: Grounding the flying nun"
-[63]: https://www.sikhcoalition.org/images/documents/fact%20sheet%20on%20hate%20against%20sikhs%20in%20america%20post%209-11%201.pdf "The Sikh Coalition: Fact Sheet on Post-9/11 Discrimination and Violence against Sikh Americans"
 [64]: https://simpleflying.com/delta-no-fly-list-mask-refusal/ "Delta’s No-Fly List Has Grown By 240 Because Of Mask Refusals"
 [65]: https://www.rt.com/usa/no-fly-hicks-us-military-650/ "NDAA critic stranded in Hawaii after turning up on no-fly list"
 [66]: https://www.bitchute.com/video/QBTU2QU1BCjZ/ "Bitchute: Shadowgate Documentary"
@@ -980,3 +1216,16 @@ Perhaps the media they consumed was as manipulative as it is today.
 [86]: https://archive.nytimes.com/www.nytimes.com/packages/html/nyregion/20050812_WTC_GRAPHIC/met_WTC_histories_full_01.html "NYT: 9/11 Eyewitness Testimony"
 [87]: https://www.youtube.com/watch?v=gYSV2OxAvZE "YouTube: NYC WTC 'designed to withstand multiple airliner impacts' Frank De Martini construction boss"
 [88]: http://911research.wtc7.net/wtc/analysis/design.html "9-11 Research: Towers' Design Parameters" 
+[89]: https://www.youtube.com/watch?v=HcYjo_S7L0I&feature=share "Der Demozug in 5 Minuten, Berlin 1.8.2020, "Tag der Freiheit" (Das Ende der Pandemie), Querdenken"
+[90]: https://www.facebook.com/BDDEM2015/posts/tag-der-freiheit-am-01082020-in-berlin-foto-impressionen/1404727216378510/ "Bild Dir Deine EIGENE Meinung: ag der Freiheit am 01.08.2020 in Berlin - Foto-Impressionen"
+[91]: http://www.scientistsfor911truth.com/ "Scientists for 9/11 Truth"
+[92]: https://en.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko "Wikipedia: Poisoning of Alexander Litvinenko"
+[93]: https://www.youtube.com/watch?v=ALtfQVbHtM0 "YouTube: Why Millions Of Potatoes Are Being Thrown Away During The Pandemic | Big Business"
+[94]: https://21stcenturywire.com/2020/09/05/global-cooling-noaa-confirms-full-blown-grand-solar-minimum/ "Global Cooling? NOAA Confirms ‘Full-blown’ Grand Solar Minimum"
+[95]: https://generationzapped.com/ "Generation Zapped"
+[96]: https://www.loosechange911.com/ "Loose Change"
+[97]: https://www.youtube.com/watch?v=_UqoysBzSqE "Italian parliament deputy Sara Cunial Calls for Arrest of Bill Gates for \"Crimes Against Humanity\""
+[98]: https://www.bitchute.com/video/o1E4FVAY8bW0/ "BitChute: 5th of September"
+[99]: https://www.behindthegreenmask.com/ "Behind the Green Mask: UN Agenda 21, by Rosa Koire"
+[100]: https://www.youtube.com/watch?v=s1IacmUWVa4 "YouTube: Agenda 21 - Rosa Koire - Behind the Green Mask"
+[101]: https://www.youtube.com/watch?v=o8-bcAwc28s "Rosa Koire, Behind The Green Mask, UN Agenda 21, 6/25/12 part 1 of 4"
