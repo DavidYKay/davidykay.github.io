@@ -25,6 +25,9 @@ I make no claims to be a great philosopher or leader of men. However, I swear th
 
 # Prior Lies
 
+Whistle Blowers:
+https://jamesperloff.com/2017/05/19/whistle-blowers-not-tin-foil-hat-conspiracy-theorists/
+
 
 ## Prologue: The Sugar Lie
 
@@ -79,6 +82,42 @@ World War I – which was the first global war, and claimed as many as 65 millio
 ### Second event falsified
 
 ## 9/11 & GWOT
+
+Never forget the dozens of bloody, crying firemen who screamed about the bombs in the towers and the lobby before and after the planes hit.
+Never forget the 2,300,000,000,000 dollars that was reported missing by Donald Rumsfeld the day before 9/11.
+Never forget that the controller in charge of the Pentagon's budget was Doc Zakheim who lost the 2.3 trillion dollars by doing poor book keeping (lost 1.55 billion dollars, per day, for five years....)
+Never forget that Dov Zakheim was also the CEO of Systems Planning Corporation in 2001 which manufactures Flight Termination Systems for commercial airliners so they can be remotely controlled by computers.
+Never forget that the day after Rumsfeld mentioned missing 2.3 trillion dollars, a plane impacted the Office of Naval Intelligence at the Pentagon where the computers were kept which stored that information....over 100 budget analysts and accountants were killed and the money trail was lost.
+Never forget that Larry Silverstein bought the entire WTC center lease in 2000 for a 15 million dollar bid (even though he was LOWER than other bidders).
+Never forget that Larry Silverstein put a 3.5 BILLION dollar insurance policy on the towers against terrorist attacks in June 2001.....then 3 months later, both towers get hit by aircraft.
+Never forget that Larry Silverstein sued his insurers (over 40 companies) to get paid double his limit, since each plane constitutes a separate attack...and never forget that Larry made 4.55 billion dollars so far, off of an initial investment of 15 million dollars.
+Never forget that scientists and physicists at BYU found a type of explosive in every dust sample tested which was confirmed to be a type of Thermite. (Thermite produces liquid iron and is used to cut thick columns effectively and quietly).
+Never forget that World Trade Center 7 fell at 5:20pm on 9/11 and the news tried to cover it up.
+Never forget that BBC, fox news and CNN reporters all misread scripts live on TV which announced WTC7 collapsing hours before it did.....indicating a prewritten narrative.
+Never forget that WTC 7 was 47 stories tall, yet NIST said that it collapsed "at free fall acceleration for 2.25 seconds".
+Never forget high school physics and the definition of static equilibrium and conservation of momentum which would make it impossible for any structure to collapse at FREE FALL acceleration (impossible with out explosives or pre-weakening the structure)
+Never forget the US government was warned over 50 times about by at least 12 countries of an imminent terrorist attack, which were all ignored.
+Never forget that when Bush and Cheney met with 9/11 Comission, they did so only on their own terms:
+-They appeared together
+-They were not under oath
+-No press or family members were allowed to attend
+-No recording of any kind was allowed
+Never forget that NORAD was running two drills on 9/11:. Vigilant Guardian and Vigilant Warrior.
+Never forget that these drills scrambled jets all over the country, and over the ocean and made it impossible for the pilots to intercept the hijacked jets in time once they were scrambled towards the hijackings.
+Never forget NORAD interceptions on 9/11 took 80 minutes to scramble, too late to do anything. The average time is 10 minutes.
+Never forget that In 2000, NORAD had 67 intercepts with 100% accuracy. On 9/11 they failed 4 times in one day.
+Never forget that molten metal was found at ground zero weeks after the towers collapsed, and was also found under WTC7. And never forget that Kerosene and office furniture doesn't burn hot enough to phase change steel from solid to liquid. It was never mentioned in official reports.
+Never forget that a van was pulled over trying to leave new York city, and contained illegal explosives and very suspicious occupants from Israel who were detained for 71 days, and then this story disappeared.
+Never forget that no video has ever been released showing a plane hitting the pentagon despite having 85 external cameras that could have captured the footage.
+Never forget that eye witnesses and first responders at the pentagon reported no plane wreckage.
+Never forget that over 80 surveillance and CCTV videos from local businesses were gathered by FBI agents within 15 minutes of the crash. That footage has never been released.
+Never forget the “terrorists” passports that were miraculously found untouched amongst the rubble.
+Never forget that at least 7 of the 19 “hijackers” are still alive and the FBI has still not updated its list. At least 5 are listed as connected to US military institutions.
+Never forget that eye witnesses and first responders reported no plane wreckage or bodies in the Pennsylvania field where flight 93 supposedly crashed.
+Never forget that since that day over 30 professional pilots have tried to recreate the alleged path the plane took before striking the pentagon in a flight simulator...all have failed.
+Never forget the thousands of lives lost that day, and the tens of thousands since… murdered by a small handful of people for money and power.
+The people who have lost their lives deserve the truth.
+~Ray Cataline
 
 <center> 
 <img src="../images/2020/09/covid-1984/TimeCover.jpg" width="500"/> </center>
@@ -525,15 +564,40 @@ Robert Redfield, CDC Director
 [Perverse Incentive][80]
 [Financial incentive for COVID diagnosis][81]
 
-## Questionable Tests
+## Koch's Postulates
+
+## PCR Test
+
+### Not meant for diagnostics
+
+The PCR test is so well known for giving inaccurate results that the CDC warns not to give the test to asymptomatic persons “because of the increased likelihood of false-positive results.” 
+
+“I’m skeptical that a PRC test is ever true. It’s a great scientific research tool. It’s a horrible tool for clinical medicine,” warns Dr. David Rasnick, biochemist and protease developer. 
+
+### Chromosome 8
+
+ctccctttgt tgtgttgt
+
+#### Chromosomes
+
+1. Largest. 249M base pairs, 8% of DNA
+2. Second-largest, 242M base pairs, 8% of DNA
+3. 200M base pairs, 6.5% DNA
+4. 186M base pair, 6-6.5% DNA
+5. 181M base pairs, 6% of DNA, non-coding. Growth and Development.
+6. 170M base pairs, 5.5-6% DNA. Immune response - organ transplant.
+7. 159M base pairs, 5-5.5% DNA
+8. 145M base pairs, 4.5-5% DNA. Brain development and function, cancer. High mutation rate.
+9.
+10.
+
+## Questionable Test results
 
 [Tanzania: goat and pawpaw test positive for COVID][27]
 
-Plandemic:
+## Tests Shipped Ahead of time
 
 [World Bank - COVID-19 Test Kits: Exports by country][26]
-
-## Tests Shipped Ahead of time
 
 # Questionable Medical Efficacy
 
@@ -933,6 +997,18 @@ the USS Liberty,
 
 ## Berlin's "Day of Freedom"
 
+### Marching Estimate Numbers
+
+3:00-3:10: approx 40. So 4/s 
+32:00-32:10: approx 36. 3.6/s
+55:00-55:10: approx 20 2/s
+101:10 - 101:20: approx 40
+
+1 Hour of marchers, 2/s = 
+60 * 60 * 2 = 72,000
+83 minutes of marchers = 199,200
+
+
 Oh, and by the way, do you think the world governments are going to help us?
 
 A friend of mine attended a [protest against governmental COVID response][2] in Berlin on August XXX.
@@ -1229,3 +1305,5 @@ Perhaps the media they consumed was as manipulative as it is today.
 [99]: https://www.behindthegreenmask.com/ "Behind the Green Mask: UN Agenda 21, by Rosa Koire"
 [100]: https://www.youtube.com/watch?v=s1IacmUWVa4 "YouTube: Agenda 21 - Rosa Koire - Behind the Green Mask"
 [101]: https://www.youtube.com/watch?v=o8-bcAwc28s "Rosa Koire, Behind The Green Mask, UN Agenda 21, 6/25/12 part 1 of 4"
+[102]: https://www.who.int/docs/default-source/coronaviruse/real-time-rt-pcr-assays-for-the-detection-of-sars-cov-2-institut-pasteur-paris.pdf?sfvrsn=3662fcb6_2 "[WHO] Protocol: Real-time RT-PCR assays for the detection of SARS-CoV-2"
+[103]: https://www.ncbi.nlm.nih.gov/nucleotide/NC_000008.11?report=genbank&log$=nuclalign&from=63648346&to=63648363 "Homo sapiens chromosome 8, GRCh38.p13 Primary Assembly"
