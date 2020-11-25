@@ -9,7 +9,7 @@ The actions taken over the past eight months are clearly leading to the destruct
 
 Most people seem to believe that these are mere side-effects of well-intentioned efforts by the government. However, there's a great deal of evidence which indicates otherwise.
 
-Over the past few months, I've written speeches, reports, and blog posts that I have yet to publish. In my heart of hearts, I'd love to take on this cause full-time. I believe deeply in the capacity of the human species and don't want it to fall under the yoke of tyrants. In my analysis, we are closer to enslavement than we have ever been in my lifetime.
+Over the past few months, I've written speeches, reports, and blog posts that I have yet to publish. In my heart of hearts, I'd love to take on this cause full-time. I believe deeply in the capacity of the human species and don't want it to fall under the yoke of tyrants. In my estimation, we are closer to enslavement than we have ever been in my lifetime.
 
 However, I have a business to get off the ground, and it seems that most people would rather not hear a viewpoint which dissents from that of the mainstream media. 
 
@@ -33,12 +33,24 @@ Orwell cautioned us that there is a state from which the citizenry has no escape
 
 Go into one's house
 
-> "Nothing is so permanent as a temporary government program."
+> Without derogating from section 25, an authorised officer 
+> may, for the purpose of ensuring compliance with any 
+> direction under that section, remove a child from any 
+> premises, place, vehicle or vessel to a place of residence of 
+> the child or to a hospital or quarantine facility, as the 
+> authorised officer thinks fit (and may, in doing so, use such 
+> force as is reasonably necessary).
+[South Australia][4]
+
+
+> "Nothing is so permanent as a temporary government program."  
 > -- Milton Friedman 
 
-Preposterous? 
 The USA PATRIOT Act was meant to be a temporary measure, instituted for 4 years. Since then, we've only seen an increase in far-reaching governmental surveillance of American citizens.
-The income tax was originally unconstitutional.
+Britain's income tax was a temporary measures.
+
+
+The income tax was originally unconstitutional. 
 
 Indeed, we've been told for months that ["We can't go back to normal"][2].
 
@@ -214,3 +226,4 @@ If you find this article useful, please share it with another budding programmer
 
 [1]: https://www.youtube.com/watch?v=nuDQ_3g53qc "What NO ONE is Saying About The Lockdowns"
 [2]: https://www.theguardian.com/world/2020/mar/31/how-will-the-world-emerge-from-the-coronavirus-crisis "The Guardian - ‘We can’t go back to normal’: how will coronavirus change the world?"
+[3]: https://www.legislation.sa.gov.au/LZ/C/A/COVID-19%20EMERGENCY%20RESPONSE%20ACT%202020/CURRENT/2020.7.AUTH.PDF
