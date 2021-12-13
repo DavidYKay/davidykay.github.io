@@ -11,7 +11,7 @@ In order for us to live in a reasonable society, it's important for us to consid
 > 
 > -- George Orwell, 1984
 
-The lie becoming the "truth" is not fiction. It has happened many times under oppressive regimes. Surely not in the modern day, under watching Western eyes, you say? Perhaps you should watch the [Icarus documentary][3] about the Russian state-sponsored doping practices and the government's efforts to surpress the truth. 
+The lie becoming the "truth" is not fiction. It has happened many times under oppressive regimes. Surely not in the modern day, under watching Western eyes, you say? Perhaps you should watch the [Icarus documentary][3] about the Russian state-sponsored doping practices and the government's efforts to suppress the truth. 
 
 Meanwhile, in the land of the free, we like to mock the Russian and Chinese governments for their inability to allow dissenting narratives to exist -- surely such behavior comes from a deep sense of insecurity!
 
