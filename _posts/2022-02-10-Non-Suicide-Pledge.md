@@ -13,5 +13,5 @@ I hope that when you read this, you will see this as a reminder to live life to 
 
 We are capable of much more than we think.
 
-Love,
+Love,  
 David
