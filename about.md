@@ -8,21 +8,27 @@ permalink: /about/
 
 # Mission
 
-I stand for the limitless power of human potential.  
+I am formerly an ardent transhumanist. However, after learning about the intentions of the people pushing that agenda, I'm no longer convinced that transhumanism is the answer.
 
-I believe that through our daily struggles, we can improve ourselves and each other, transcend our limitations, and become divine.  
+Here's where I'm at: life is short. At the same time, to me, it is plainly apparent to me that there are non-physical aspects to reality.
 
-During my life on this planet, my mission is to enable human consciousness to merge with technology.
+So, on the one hand, each moment here on the physical plane is precious and fleeting. At the same time, the need to fear death and to take each setback so seriously seems a bit silly.
+
+Given this tension, my mission is to become a master of manifestation in order to fully understand and realize my potential, while building thriving technologies and organizations. All the while, finding a way to remain completely detached from the outcome.
+
+I used to "force" my way to success, but I am making the commitment to "flow" my way there. 
+
+Should be a great time.
 
 # Core Values 
 
 * Live by Principle: Establish a set of rules and follow them.
 * Pareto: human effort is limited. Find the highest leverage points and focus on them for an outsized impact.
-* Mutualism: "Win-win or no deal," for we live in the age of abundance.
+* Mutualism: "Win-win or no deal." 
 * Balance: "Specialization is for insects."
-* Substrate Matters: Whether it be the evolutionary origins of homo sapiens or the instruction set of a CPU, it's important to understand the bottom-up fundamentals.
+* Substrate Matters: Regardless of business, social situations, or engineering, it's important to understand the bottom-up fundamentals.
 * Face Your Demons: Most of us live far below our potential. What keeps us back? Ourselves. To grow, we must face that which instills terror into our hearts.
 * Integrate: There is much innovation to be had at the intersection of disparate ideas.
 * Growth: "A man who's not busy being born is busy dying."
 * Generosity: In a highly-interconnected world, acts of charity can touch the lives of many.
-* Initiate: If you don't do it, who will?
+* Initiate: If not now, when?
