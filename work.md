@@ -42,6 +42,7 @@ See [about](/about/).
 
 ## Open Source
 
+* [forridan](https://github.com/GargoyleSoftware/forridan) - a Clojure implementation of the interceptor pattern.
 * [java-to-clj](https://github.com/DavidYKay/java-to-clj) - a basic Java -> Clojure source code converter. 
 * [dkbuild](https://github.com/DavidYKay/dkbuild) - Enables Vim users to send "build & compile" commands to another terminal process.
 * [Moonbase Shootout](https://github.com/DavidYKay/shootout) - My first foray into game development (2011).
