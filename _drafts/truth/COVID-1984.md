@@ -21,13 +21,10 @@ And so, I've spent a great deal of time over the past several months trying to u
 
 I make no claims to be a great philosopher or leader of men. However, I swear that I have come to the following conclusions after much research and deliberation, and will provide several references so that you can perform your own analysis.  
 
-
-
 # Prior Lies
 
 Whistle Blowers:
 https://jamesperloff.com/2017/05/19/whistle-blowers-not-tin-foil-hat-conspiracy-theorists/
-
 
 ## Prologue: The Sugar Lie
 
@@ -394,11 +391,6 @@ o they said, number one, we don’t have to test it, that’s a huge cost avoide
 
 - Bobby Kennedy, Jr.
 
-
-
-
-
-
 # Media
 
 As it turns out, the media has been lying to us for a long time.
@@ -413,7 +405,6 @@ As it turns out, the media has been lying to us for a long time.
 <center> </center>
 </center>
 <img src="../images/2020/09/covid-1984/MaoPoster.jpg" width="500"/> 
-
 
 In America, we take it for granted that those poor SOBs in Russia and China have to live with government-controlled media, which is actively feeding propaganda to its citizens.
 
@@ -1090,7 +1081,6 @@ Wifi and Pre-5G cellular echnologies still causing issues.
 ## KGB Study
 
 
-
 ## 5G
 
 Moratorium
@@ -1101,9 +1091,7 @@ Moratorium
 * Netherlands
 * Parts of Ireland
 
-
 # Agenda 21
-
 
 <img src="../images/2020/09/covid-1984/RosaKoire.jpg" width="800"/> 
 
@@ -1119,7 +1107,6 @@ Moratorium
 "Biggest PR scam in the history of the world"
 
 "Agenda for 21st century"
-
 
 
 [Lecture][100]
