@@ -20,4 +20,4 @@ Here are some of my [street skating videos](https://www.youtube.com/playlist?lis
 
 ## Militia
 
-Mastery of arms is important to the security of a free state. As such, I am involved in training small unit tactics.
+Mastery of arms is important to the security of a free state. As such, I am involved in training firearms handling and small unit tactics.
