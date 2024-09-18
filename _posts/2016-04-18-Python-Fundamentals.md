@@ -170,4 +170,4 @@ I'm honored at the opportunity to teach you. I've taught the fundamentals to two
 
 ## Questions?
 
-Any questions? Shoot me an email: [davidykay@gmail.com](mailto:davidykay@gmail.com)
+Any questions? Shoot me an email: [davidykay@protonmail.com](mailto:davidykay@protonmail.com)
