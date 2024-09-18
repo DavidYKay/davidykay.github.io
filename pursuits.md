@@ -4,10 +4,6 @@ title: Pursuits
 permalink: /pursuits/
 ---
 
-## Music
-
-I enjoy singing, songwriting, and playing the piano. I've performed in Vancouver, BC, Sandpoint, ID, and in the Flathead Valley, MT.
-
 ## Skating
 
 I'm formerly a certified skate instructor and am an active member of the Empire Skate Club of New York.

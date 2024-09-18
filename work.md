@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Work
-permalink: /work/
+title: Tech
+permalink: /tech/
 ---
 
 ## Summary
