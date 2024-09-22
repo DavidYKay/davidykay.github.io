@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:David Y Kay
+N:Kay;David;Y;;
+item1.EMAIL;TYPE=INTERNET:davidykay@protonmail.com
+item1.X-ABLabel:
+item2.TEL:609-273-2199
+item2.X-ABLabel:
+item3.ADR:;;;Bigfork;MT;;US;Bigfork\, MT\nUS
+item3.X-ABLabel:
+TITLE:Musician
+item4.URL:www.davidykay.com
+item4.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFVMyQItw_jtHWTV-YMFN
+ 6KfH57kBINJOQTo_HikRfia-QiJTFG
+CATEGORIES:myContacts
+END:VCARD
