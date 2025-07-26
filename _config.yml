@@ -77,3 +77,4 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+    - deps
