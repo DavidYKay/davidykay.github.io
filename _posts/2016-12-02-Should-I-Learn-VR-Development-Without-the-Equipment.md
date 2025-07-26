@@ -21,7 +21,7 @@ One thing you may not have considered is that almost every smartphone is compati
 
 Also, the input mechanism on Cardboard is VERY similar to Gear VR (touch button on your temple). AND, you can use a Bluetooth gamepad! Using a gamepad on Cardboard essentially means you're using the same input mechanism as Oculus Rift, which means much of your code will carry over to Rift and GearVR if you decide to go down that path.
 
-One caveat if you are deciding to build for Cardboard is that the iteration time for Unity and Unreal, especially Unreal, is very slow. If you are building for Cardboard, WebVR will give you a much faster iteration time. These concerns lessen if you have a desktop headset to [develop on before you deploy to mobile](http://www.davidykay.com/Want-Mobile-VR-Productivity-Develop-on-Desktop/), but it's something to keep in mind.
+One caveat if you are deciding to build for Cardboard is that the iteration time for Unity and Unreal, especially Unreal, is very slow. If you are building for Cardboard, WebVR will give you a much faster iteration time. These concerns lessen if you have a desktop headset to [develop on before you deploy to mobile](http://www.davidkay.cc/Want-Mobile-VR-Productivity-Develop-on-Desktop/), but it's something to keep in mind.
 
 ## Conclusion
 

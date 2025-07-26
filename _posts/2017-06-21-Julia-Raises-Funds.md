@@ -44,7 +44,7 @@ Then again, being category leader in each category **isn't necessary**. If they 
 Next time I want to noodle on linear algebra or signal processing, I know what I'll be checking out.
 
 [1]: https://juliacomputing.com/press/2017/06/19/funding.html "Julia Computing Raises $4.6M in Seed Funding"
-[2]: http://www.davidykay.com/Whats-Next-in-Programming/ "What's Next in Programming?"
+[2]: http://www.davidkay.cc/Whats-Next-in-Programming/ "What's Next in Programming?"
 [3]: https://www.wired.com/2014/02/julia/ "Wired:  One Programming Language to Rule Them All"
 [4]: https://juliacomputing.com/products/ "Julia Computing: Products"
 [5]: https://juliacomputing.com/services/ "Julia Computing: Services"

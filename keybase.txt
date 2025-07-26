@@ -4,7 +4,7 @@ https://keybase.io/davidykay
 
 I hereby claim:
 
-  * I am an admin of https://www.davidykay.com
+  * I am an admin of https://www.davidkay.cc
   * I am davidykay (https://keybase.io/davidykay) on keybase.
   * I have a public key ASD7C403dbFlYjsD0Y3g8c0CIbr1dpSumP9eqOClBlFMfQo
 
@@ -27,7 +27,7 @@ To do so, I am signing this object:
     },
     "service": {
       "entropy": "HgAYvkVYJZC+bt7wHCVNIL/X",
-      "hostname": "www.davidykay.com",
+      "hostname": "www.davidkay.cc",
       "protocol": "https:"
     },
     "type": "web_service_binding",

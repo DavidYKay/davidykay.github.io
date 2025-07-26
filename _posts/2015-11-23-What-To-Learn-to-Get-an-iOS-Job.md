@@ -18,7 +18,7 @@ On r/iOSProgramming/, abcocktail [asks](https://www.reddit.com/r/iOSProgramming/
 
 Great questions, abcocktail.
 
-I've written a [post on Swift vs Objective-C](http://www.davidykay.com/Swift-Versus-Objective-C/), which essentially boils down to: Swift is a better language and you should choose it if you can, but the more robust tooling and the vast amount of legacy code out there means you should still learn Objective-C first if you're looking to get a job.
+I've written a [post on Swift vs Objective-C](http://www.davidkay.cc/Swift-Versus-Objective-C/), which essentially boils down to: Swift is a better language and you should choose it if you can, but the more robust tooling and the vast amount of legacy code out there means you should still learn Objective-C first if you're looking to get a job.
 
 In terms of what skills to learn, changerr's [list of topics](https://www.reddit.com/r/iOSProgramming/comments/3tz0ro/couple_of_questions_about_1_what_to_learn_to_get/cxalq63) is pretty solid.
 

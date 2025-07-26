@@ -215,5 +215,5 @@ So own it.
 [28]: https://www.youtube.com/watch?v=j-kj2qwJa_E "Developing ClojureScript With Figwheel"
 [29]: https://webpack.js.org/concepts/hot-module-replacement/ "Webpack 2: Hot Module Replacement"
 [30]: https://en.wiktionary.org/wiki/yak_shaving "Yak Shaving"
-[31]: http://www.davidykay.com/Embracing-Consistency/ "Embracing Consistency"
+[31]: http://www.davidkay.cc/Embracing-Consistency/ "Embracing Consistency"
 [32]: https://www.youtube.com/watch?v=f84n5oFoZBc "Hammock-Driven Development"

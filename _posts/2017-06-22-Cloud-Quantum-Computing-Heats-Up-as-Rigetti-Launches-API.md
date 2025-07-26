@@ -227,7 +227,7 @@ If we can answer these questions, we'll know how this three-way race will play o
 [3]: https://medium.com/rigetti/introducing-forest-f2c806537c6d "Forest Announcement"
 [4]: http://www.rigetti.com/index.php/forest "Forest Homepage"
 [5]: https://juliacomputing.com/press/2017/06/19/funding.html "Julia Computing Raises $4.6M in Seed Funding"
-[6]: http://www.davidykay.com/Whats-Next-in-Programming/ "What's Next in Programming?"
+[6]: http://www.davidkay.cc/Whats-Next-in-Programming/ "What's Next in Programming?"
 [7]: http://www.rigetti.com/ "Rigetti Quantum Computing"
 [8]: https://arxiv.org/pdf/1608.03355.pdf "Quil whitepaper"
 [9]: http://pyquil.readthedocs.io/en/latest/ "PyQuil docs"
